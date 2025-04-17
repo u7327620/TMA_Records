@@ -1,0 +1,31 @@
+Ricopaxton
+
+
+Strikes Landed 25
+Strikes Thrown 68
+Strikes Absorbed 42
+Accuracy 37%
+Knockdowns 2
+Highest Striking Differential 5
+Average Striking Differential 0
+Takedowns Finished 3
+Takedowns Attempted 5
+Takedown Accuracy 60%
+Takedowns Defended 0
+Times Taken Down 4
+Takedown Defense Rate 0%
+Submissions Attempted 2
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 3
+Fights 4
+Wins 3
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1
+
+--- BONUSES ---
+- TFC 6 MOTN, Double Clinch Knees -

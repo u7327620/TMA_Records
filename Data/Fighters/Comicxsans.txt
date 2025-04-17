@@ -1,0 +1,29 @@
+Comicxsans
+
+
+Strikes Landed 93
+Strikes Thrown 173
+Strikes Absorbed 93
+Accuracy 54%
+Knockdowns 1
+Highest Striking Differential 6
+Average Striking Differential 
+Takedowns Finished 4
+Takedowns Attempted 8
+Takedown Accuracy 50%
+Takedowns Defended 7
+Times Taken Down 10
+Takedown Defense Rate 41%
+Submissions Attempted 3
+Submissions 0
+Submission Accuracy 0%
+Piledrivers 1 (Robbix)
+TKO wins 0
+Decision Wins 3
+Fights 7
+Wins 3
+Losses 4
+Draws 0
+TKO losses 2 
+Submission losses 0
+Decision losses 2

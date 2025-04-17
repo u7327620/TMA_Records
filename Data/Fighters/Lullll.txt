@@ -1,0 +1,40 @@
+Lullll
+
+
+Strikes Landed 295
+Strikes Thrown 580
+Accuracy 51%
+Strikes Absorbed 304
+Strikes Defended 343
+Strike Defense Rate 53%
+Knockdowns 3
+Knocked Down 7
+Highest Striking Differential 7
+Average Striking Differential 
+Takedowns Finished 5
+Takedowns Attempted 24
+Takedown Accuracy 21%
+Takedowns Defended 20
+Times Taken Down 18
+Takedown Defense Rate 53%
+Submissions Attempted 3
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 0
+Forfeit Wins 0
+TKO wins 0
+Decision Wins 7
+Fights 16
+Wins 7
+Losses 9
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 8
+Forfeit losses 1
+
+
+
+--- BONUSES ---
+- TFC 20 FOTN, Sorude VS Lullll -
+- TFC 21 FOTN, Lullll VS Fedoraman64 -

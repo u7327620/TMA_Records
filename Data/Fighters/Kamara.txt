@@ -1,0 +1,28 @@
+Kamara
+
+
+Strikes Landed 90
+Strikes Thrown 194
+Strikes Absorbed 69
+Accuracy 46%
+Knockdowns 2
+Highest Striking Differential 10
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 9
+Times Taken Down 3
+Takedown Defense Rate 75%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 5
+Fights 7
+Wins 5
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

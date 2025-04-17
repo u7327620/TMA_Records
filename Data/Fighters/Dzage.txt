@@ -1,0 +1,28 @@
+Dzage
+
+
+Strikes Landed 54
+Strikes Thrown 133
+Strikes Absorbed 52
+Accuracy 41%
+Knockdowns 0
+Highest Striking Differential 8
+Average Striking Differential 
+Takedowns Finished 4
+Takedowns Attempted 10
+Takedown Accuracy 40%
+Takedowns Defended 6
+Times Taken Down 3
+Takedown Defense Rate 66%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 4
+Fights 6
+Wins 4
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

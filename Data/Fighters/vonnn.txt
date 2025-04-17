@@ -1,0 +1,28 @@
+vonnn
+
+
+Strikes Landed 33
+Strikes Thrown 65
+Strikes Absorbed 46
+Accuracy 51%
+Knockdowns 3
+Highest Striking Differential -1
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 5
+Takedown Accuracy 20%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 66%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 3
+Wins 1
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

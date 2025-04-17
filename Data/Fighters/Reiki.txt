@@ -1,0 +1,28 @@
+Reiki
+
+
+Strikes Landed 39
+Strikes Thrown 91
+Strikes Absorbed 55
+Accuracy 43%
+Knockdowns 2
+Highest Striking Differential 4
+Average Striking Differential -3
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 3
+Takedown Defense Rate 25%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 2
+Fights 4
+Wins 2
+Losses 1
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0

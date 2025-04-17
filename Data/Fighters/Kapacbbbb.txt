@@ -1,0 +1,34 @@
+Kapacbbbb
+
+
+Strikes Landed 67
+Strikes Thrown 178
+Strikes Absorbed 86
+Accuracy 38%
+Knockdowns 0
+Highest Striking Differential 17
+Average Striking Differential 
+Takedowns Finished 6
+Takedowns Attempted 12
+Takedown Accuracy 50%
+Takedowns Defended 4
+Times Taken Down 2
+Takedown Defense Rate 66%
+Submissions Attempted 1
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 6
+Wins 1
+Losses 3
+Draws 2
+TKO losses 0
+Submission losses 0
+Decision losses 3
+
+
+
+--- BONUSES ---
+- TFC 20 MOTN, Spinning Takedown Defense -
+- TFC 21 MOTN, Kick Catch Into Cross Counter -

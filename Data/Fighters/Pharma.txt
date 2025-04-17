@@ -1,0 +1,28 @@
+Pharma
+
+
+Strikes Landed 37
+Strikes Thrown 93
+Strikes Absorbed 28
+Accuracy 40%
+Knockdowns 0
+Highest Striking Differential 9
+Average Striking Differential 
+Takedowns Finished 3
+Takedowns Attempted 10
+Takedown Accuracy 30%
+Takedowns Defended 6
+Times Taken Down 1
+Takedown Defense Rate 86%
+Submissions Attempted 1
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 3
+Wins 1
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

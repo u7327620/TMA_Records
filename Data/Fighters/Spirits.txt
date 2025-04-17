@@ -1,0 +1,33 @@
+Spirits
+
+Strikes Landed 14
+Strikes Thrown 41
+Accuracy 34%
+Strikes Absorbed 23
+Strikes Defended 22
+Strike Defense Rate 51%
+Knockdowns 0
+Knocked Down 3
+Highest Striking Differential -4
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 2
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 0
+TKO wins 0
+Decision Wins 0
+Forfeit wins 0
+Fights 2
+Wins 0
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2
+Forfeit losses 0

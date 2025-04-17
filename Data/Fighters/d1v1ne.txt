@@ -1,0 +1,29 @@
+d1v1ne
+
+
+Strikes Landed 43
+Strikes Thrown 114
+Strikes Absorbed 42
+Accuracy 38%
+Knockdowns 2
+Highest Striking Differential 6
+Average Striking Differential 
+Takedowns Finished 4
+Takedowns Attempted 4
+Takedown Accuracy 100%
+Takedowns Defended 6
+Times Taken Down 2
+Takedown Defense Rate 75%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point deductions 2
+TKO wins 0
+Decision Wins 2
+Fights 4
+Wins 2
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

@@ -1,0 +1,28 @@
+Odyss
+
+
+Strikes Landed 48
+Strikes Thrown 156
+Strikes Absorbed 56
+Accuracy 31%
+Knockdowns 1
+Highest Striking Differential 4
+Average Striking Differential 
+Takedowns Finished 3
+Takedowns Attempted 6
+Takedown Accuracy 50%
+Takedowns Defended 5
+Times Taken Down 4
+Takedown Defense Rate 56%
+Submissions Attempted 1
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 2
+Fights 4
+Wins 2
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

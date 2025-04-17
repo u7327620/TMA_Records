@@ -1,0 +1,28 @@
+Robbix
+
+
+Strikes Landed 8
+Strikes Thrown 14
+Strikes Absorbed 14
+Accuracy 57%
+Knockdowns 1
+Highest Striking Differential -6
+Average Striking Differential -6
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 1
+Wins 0
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

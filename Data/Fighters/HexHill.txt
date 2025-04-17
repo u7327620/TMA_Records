@@ -1,0 +1,30 @@
+HexHill
+
+
+Strikes Landed 46
+Strikes Thrown 116
+Strikes Absorbed 28
+Accuracy 40%
+Knockdowns 0
+Highest Striking Differential 7
+Average Striking Differential 
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 2
+Takedown Defense Rate 50%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Hugs 1
+TKO wins 0
+Decision Wins 2
+Fights 4
+Wins 2
+Losses 1
+Draws 0
+No Contests 1
+TKO losses 0
+Submission losses 0
+Decision losses 1

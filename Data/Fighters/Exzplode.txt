@@ -1,0 +1,32 @@
+Exzplode
+
+
+Strikes Landed 46
+Strikes Thrown 100
+Strikes Absorbed 36
+Accuracy 46%
+Knockdowns 4
+Highest Striking Differential 8
+Average Striking Differential 2.5
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 3
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 2
+Forfeit Wins 1
+Fights 4
+Wins 3
+Losses 0
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0
+
+--- BONUSES ---
+- TFC 5 FOTN, Exzplode vs Danewninja -

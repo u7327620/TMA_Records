@@ -1,0 +1,33 @@
+epicbash
+
+Strikes Landed 9
+Strikes Thrown 21
+Accuracy 43%
+Strikes Absorbed 12
+Strikes Defended 20
+Strike Defense Rate 63%
+Knockdowns 0
+Knocked Down 0
+Highest Striking Differential 3
+Average Striking Differential 3
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 3
+TKO wins 0
+Decision Wins 0
+Forfeit Wins 0
+Fights 1
+Wins 0
+Losses 0
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0
+Forfeit losses 0

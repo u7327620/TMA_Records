@@ -1,0 +1,35 @@
+Eamon
+
+
+Strikes Landed 97
+Strikes Thrown 167
+Strikes Absorbed 87
+Accuracy 58%
+Knockdowns 1
+Highest Striking Differential 11
+Average Striking Differential 
+Takedowns Finished 0
+Takedowns Attempted 4
+Takedown Accuracy 0%
+Takedowns Defended 4
+Times Taken Down 3
+Takedown Defense Rate 57%
+Submissions Attempted 1
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 2
+Fights 5
+Wins 2
+Losses 3
+Draws 0
+Forfeit Losses 1
+TKO losses 0
+Submission losses 0
+Decision losses 2
+
+
+
+
+--- BONUSES ---
+- TFC 8 FOTN, Linxz vs Eamon -

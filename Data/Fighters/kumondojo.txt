@@ -1,0 +1,29 @@
+Kumondojo
+
+
+Strikes Landed 35
+Strikes Thrown 88
+Strikes Absorbed 35
+Accuracy 40%
+Knockdowns 2
+Highest Striking Differential 8
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 4
+Wins 1
+Losses 3
+Draws 0
+Forfeit Losses 1
+TKO losses 0
+Submission losses 0
+Decision losses 2

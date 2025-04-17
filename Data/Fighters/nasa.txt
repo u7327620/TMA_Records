@@ -1,0 +1,32 @@
+nasa
+
+
+Strikes Landed 41
+Strikes Thrown 71
+Accuracy 58%
+Strikes Absorbed 24
+Strikes Defended N/A
+Strike Defense Rate N/A
+Knockdowns 1
+Knocked Down N/A
+Highest Striking Differential 14
+Average Striking Differential 
+Takedowns Finished 5
+Takedowns Attempted 12
+Takedown Accuracy 41%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 2
+Submissions 0
+Submission Accuracy 0%
+Point Deductions N/A
+TKO wins 1
+Decision Wins 0
+Fights 3
+Wins 1
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

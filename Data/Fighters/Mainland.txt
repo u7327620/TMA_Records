@@ -1,0 +1,28 @@
+Mainland
+
+
+Strikes Landed 140
+Strikes Thrown 303
+Strikes Absorbed 167
+Accuracy 46%
+Knockdowns 3
+Highest Striking Differential 11
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 5
+Takedown Accuracy 20%
+Takedowns Defended 5
+Times Taken Down 6
+Takedown Defense Rate 45%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 4
+Fights 11
+Wins 4
+Losses 6
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 6

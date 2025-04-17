@@ -1,0 +1,28 @@
+Sushiroll
+
+
+Strikes Landed 23
+Strikes Thrown 48
+Strikes Absorbed 15
+Accuracy 48%
+Knockdowns 0
+Highest Striking Differential 6
+Average Striking Differential 2
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 2
+Wins 1
+Losses 0
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0

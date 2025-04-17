@@ -1,0 +1,28 @@
+EternalPasta
+
+
+Strikes Landed 6
+Strikes Thrown 32
+Strikes Absorbed 4
+Accuracy 19%
+Knockdowns 0
+Highest Striking Differential 2
+Average Striking Differential 2
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 1
+Wins 0
+Losses 0
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0

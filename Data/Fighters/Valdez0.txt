@@ -1,0 +1,28 @@
+Valdez0
+
+
+Strikes Landed 12
+Strikes Thrown 28
+Strikes Absorbed 11
+Accuracy 43%
+Knockdowns 0
+Highest Striking Differential 1
+Average Striking Differential 
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 1
+Wins 1
+Losses 0
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 0

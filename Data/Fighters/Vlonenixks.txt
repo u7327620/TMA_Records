@@ -1,0 +1,28 @@
+Vlonenixks
+
+
+Strikes Landed 36
+Strikes Thrown 94
+Strikes Absorbed 38
+Accuracy 38%
+Knockdowns 5
+Highest Striking Differential 1
+Average Striking Differential 
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 2
+Fights 3
+Wins 2
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

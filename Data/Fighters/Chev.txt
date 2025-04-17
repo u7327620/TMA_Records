@@ -1,0 +1,30 @@
+Chev
+
+
+Strikes Landed 199
+Strikes Thrown 469
+Strikes Absorbed 207
+Accuracy 42%
+Knockdowns 4
+Highest Striking Differential 12
+Average Striking Differential 
+Takedowns Finished 6
+Takedowns Attempted 20
+Takedown Accuracy 30%
+Takedowns Defended 12
+Times Taken Down 8
+Takedown Defense Rate 60%
+Submissions Attempted 1
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 1
+TKO wins 0
+Decision Wins 9
+Forfeit Wins 1
+Fights 15
+Wins 10
+Losses 5
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 5

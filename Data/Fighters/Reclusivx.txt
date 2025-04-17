@@ -1,0 +1,29 @@
+Reclusivx
+
+
+Strikes Landed 158
+Strikes Thrown 331
+Strikes Absorbed 147
+Accuracy 48%
+Knockdowns 1
+Highest Striking Differential 12
+Average Striking Differential 
+Takedowns Finished 8
+Takedowns Attempted 21
+Takedown Accuracy 38%
+Takedowns Defended 11
+Times Taken Down 4
+Takedown Defense Rate 73%
+Submissions Attempted 4
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 5
+Fights 10
+Wins 5
+Losses 5
+Draws 0
+Forfeit Losses 2
+TKO losses 0
+Submission losses 0
+Decision losses 3

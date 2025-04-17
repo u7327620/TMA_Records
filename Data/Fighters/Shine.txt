@@ -1,0 +1,28 @@
+Shine
+
+
+Strikes Landed 7
+Strikes Thrown 17
+Strikes Absorbed 8
+Accuracy 41%
+Knockdowns 0
+Highest Striking Differential -1
+Average Striking Differential -1
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 2
+Takedown Defense Rate 33%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 1
+Wins 0
+Losses 0
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0

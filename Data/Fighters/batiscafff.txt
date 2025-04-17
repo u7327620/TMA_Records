@@ -1,0 +1,33 @@
+batiscafff
+
+Strikes Landed 14
+Strikes Thrown 31
+Accuracy 45%
+Strikes Absorbed 11
+Strikes Defended 21
+Strike Defense Rate 66%
+Knockdowns 0
+Knocked Down 1
+Highest Striking Differential 3
+Average Striking Differential 3
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 0
+TKO wins 0
+Decision Wins 0
+Forfeit Wins 0
+Fights 1
+Wins 0
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1
+Forfeit losses 0

@@ -1,0 +1,28 @@
+Banan745
+
+
+Strikes Landed 10
+Strikes Thrown 51
+Strikes Absorbed 31
+Accuracy 20%
+Knockdowns 0
+Highest Striking Differential -9
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 5
+Takedown Accuracy 20%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 2
+Wins 0
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

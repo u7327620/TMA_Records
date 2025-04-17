@@ -1,0 +1,28 @@
+Renixxx
+
+
+Strikes Landed 25
+Strikes Thrown 61
+Strikes Absorbed 29
+Accuracy 41%
+Knockdowns 1
+Highest Striking Differential 3
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 1
+Times Taken Down 2
+Takedown Defense Rate 33%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 2
+Wins 0
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

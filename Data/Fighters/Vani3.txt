@@ -1,0 +1,28 @@
+Vani3
+
+
+Strikes Landed 67
+Strikes Thrown 124
+Strikes Absorbed 80
+Accuracy 54%
+Knockdowns 2
+Highest Striking Differential 5
+Average Striking Differential 2
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 4
+Times Taken Down 4
+Takedown Defense Rate 50%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 4
+Fights 6
+Wins 4
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 2

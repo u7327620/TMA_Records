@@ -1,0 +1,29 @@
+0mino
+
+
+Strikes Landed 36
+Strikes Thrown 79
+Strikes Absorbed 20
+Accuracy 46%
+Knockdowns 2
+Highest Striking Differential 13
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 0
+Times Taken Down 1
+Takedown Defense Rate 0%
+Submissions Attempted 1
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 2
+Fights 3
+Wins 2
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 0
+Forfeit losses 1

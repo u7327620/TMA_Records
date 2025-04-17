@@ -1,0 +1,28 @@
+Unity
+
+
+Strikes Landed 62
+Strikes Thrown 142
+Strikes Absorbed 54
+Accuracy 44%
+Knockdowns 5
+Highest Striking Differential 9
+Average Striking Differential 2
+Takedowns Finished 1
+Takedowns Attempted 6
+Takedown Accuracy 16%
+Takedowns Defended 1
+Times Taken Down 4
+Takedown Defense Rate 20%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 4
+Fights 7
+Wins 4
+Losses 3
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 3

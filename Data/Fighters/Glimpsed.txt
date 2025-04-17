@@ -1,0 +1,30 @@
+Glimpsed
+
+
+Strikes Landed 2
+Strikes Thrown 6
+Strikes Absorbed 17
+Accuracy 33%
+Knockdowns 0
+Highest Striking Differential -15
+Average Striking Differential -15
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 1
+Wins 0
+Losses 1
+Draws 0
+Forfeit Losses 1
+TKO losses 0
+Submission losses 0
+Decision losses 0
+

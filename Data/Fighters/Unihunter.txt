@@ -1,0 +1,27 @@
+Unihunter
+
+Strikes Landed 89
+Strikes Thrown 230
+Strikes Absorbed 60
+Accuracy 39%
+Knockdowns 0
+Highest Striking Differential 11
+Average Striking Differential 
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 6
+Takedown Defense Rate 25%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 3
+Fights 9
+Wins 3
+Losses 6
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses  6

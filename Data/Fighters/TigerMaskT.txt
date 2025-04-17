@@ -1,0 +1,28 @@
+TigerMaskT
+
+
+Strikes Landed 25
+Strikes Thrown 55
+Strikes Absorbed 11
+Accuracy 45%
+Knockdowns 2
+Highest Striking Differential 12
+Average Striking Differential 7
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 2
+Wins 1
+Losses 0 
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0

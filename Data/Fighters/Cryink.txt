@@ -1,0 +1,32 @@
+Cryink
+
+
+Strikes Landed 49
+Strikes Thrown 90
+Accuracy 54%
+Strikes Absorbed 42
+Strikes Defended N/A
+Strike Defense Rate N/A
+Knockdowns 0
+Knocked Down N/A
+Highest Striking Differential 11
+Average Striking Differential -2
+Takedowns Finished 1
+Takedowns Attempted 2
+Takedown Accuracy 50%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions
+TKO wins 0
+Decision Wins 3
+Fights 4
+Wins 3
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

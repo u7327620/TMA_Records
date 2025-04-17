@@ -1,0 +1,26 @@
+Brucce
+
+Strikes Landed 10
+Strikes Thrown 25
+Strikes Absorbed 3
+Knockdowns 2
+Accuracy 40%
+Highest Striking Differential 7
+Average Striking Differential 7
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
+Submissions 0 
+TKOs 0
+Decision Wins 1
+Fights 1
+Wins 1
+Losses 0
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 0

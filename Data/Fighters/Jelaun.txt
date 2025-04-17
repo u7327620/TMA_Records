@@ -1,0 +1,30 @@
+Jelaun
+
+
+Strikes Landed 119
+Strikes Thrown 260
+Strikes Absorbed 116
+Accuracy 46%
+Knockdowns 2
+Highest Striking Differential 18
+Average Striking Differential 
+Takedowns Finished 2
+Takedowns Attempted 4
+Takedown Accuracy 50%
+Takedowns Defended 9
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 2
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 1
+TKO wins 0
+Decision Wins 6
+Fights 11
+Wins 6
+Losses 5
+Draws 0
+Forfeit losses 1
+TKO losses 0
+Submission losses 0
+Decision losses 4

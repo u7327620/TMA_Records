@@ -1,0 +1,33 @@
+Tonzin
+
+Strikes Landed 12
+Strikes Thrown 32
+Accuracy 37%
+Strikes Absorbed 9
+Strikes Defended 12
+Strike Defense Rate 57%
+Knockdowns 0
+Knocked Down 0
+Highest Striking Differential -3
+Average Striking Differential -3
+Takedowns Finished 0
+Takedowns Attempted 0
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 1
+Takedown Defense Rate 33%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 3
+TKO wins 0
+Decision Wins 0
+Forfeit Wins 0
+Fights 1
+Wins 0
+Losses 0
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0
+Forfeit losses 0

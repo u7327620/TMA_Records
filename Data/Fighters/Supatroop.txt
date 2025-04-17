@@ -1,0 +1,28 @@
+Supatroop
+
+
+Strikes Landed 84
+Strikes Thrown 175
+Strikes Absorbed 87
+Accuracy 48%
+Knockdowns 1
+Highest Striking Differential 6
+Average Striking Differential 
+Takedowns Finished 4
+Takedowns Attempted 9
+Takedown Accuracy 44%
+Takedowns Defended 6
+Times Taken Down 3
+Takedown Defense Rate 66%
+Submissions Attempted 1
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 4
+Fights 8
+Wins 4
+Losses 4 
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 4

@@ -1,0 +1,29 @@
+Jojo
+
+
+Strikes Landed 6
+Strikes Thrown 21
+Strikes Absorbed 6
+Accuracy 29%
+Knockdowns 1
+Highest Striking Differential 0
+Average Striking Differential 0
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 3
+TKO wins 0
+Decision Wins 0
+Fights 1
+Wins 0
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

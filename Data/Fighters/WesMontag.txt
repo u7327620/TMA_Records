@@ -1,0 +1,28 @@
+WesMontag
+
+
+Strikes Landed 28
+Strikes Thrown 73
+Strikes Absorbed 41
+Accuracy 38%
+Knockdowns 0
+Highest Striking Differential -3
+Average Striking Differential -3
+Takedowns Finished 4
+Takedowns Attempted 6
+Takedown Accuracy 66%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 2
+Wins 1
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

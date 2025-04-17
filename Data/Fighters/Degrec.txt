@@ -1,0 +1,28 @@
+Degrec
+
+
+Strikes Landed 11
+Strikes Thrown 28
+Strikes Absorbed 26
+Accuracy 39%
+Knockdowns 0
+Highest Striking Differential -15
+Average Striking Differential -15
+Takedowns Finished 0
+Takedowns Attempted 3
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 1
+Takedown Defense Rate 50%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 1
+Wins 0
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

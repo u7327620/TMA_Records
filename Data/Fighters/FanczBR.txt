@@ -1,0 +1,28 @@
+Fanczbr
+
+
+Strikes Landed 55
+Strikes Thrown 148
+Strikes Absorbed 48
+Accuracy 37%
+Knockdowns 2
+Highest Striking Differential 4
+Average Striking Differential 
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 1
+Times Taken Down 2
+Takedown Defense Rate 33%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 3
+Fights 4
+Wins 3
+Losses 1 
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

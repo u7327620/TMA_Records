@@ -1,0 +1,28 @@
+joemamahah
+
+
+Strikes Landed 35
+Strikes Thrown 53
+Strikes Absorbed 8
+Accuracy 54%
+Knockdowns 0
+Highest Striking Differential 21
+Average Striking Differential 
+Takedowns Finished 3
+Takedowns Attempted 6
+Takedown Accuracy 50%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 2
+Decision Wins 0
+Fights 2
+Wins 2
+Losses 0
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 0

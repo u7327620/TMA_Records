@@ -1,0 +1,28 @@
+raiku
+
+
+Strikes Landed 47
+Strikes Thrown 114
+Strikes Absorbed 39
+Accuracy 41%
+Knockdowns 3
+Highest Striking Differential 10
+Average Striking Differential 
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 9
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 2
+Fights 3
+Wins 2
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1

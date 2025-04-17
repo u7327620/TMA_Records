@@ -1,0 +1,40 @@
+Bladerunnr
+
+
+Strikes Landed 201
+Strikes Thrown 484
+Strikes Absorbed 257
+Accuracy 42%
+Knockdowns 1
+Highest Striking Differential 11
+Average Striking Differential 
+Takedowns Finished 16
+Takedowns Attempted 46
+Takedown Accuracy 35%
+Takedowns Defended 17
+Times Taken Down 7
+Takedown Defense Rate 71%
+Submissions Attempted 12
+Submissions 3 
+Submission Accuracy 25%
+BLADEBARS 2
+Point Deductions 3
+TKO wins 0
+Decision Wins 8
+Fights 21
+Wins 11
+Losses 10 
+Draws 0
+TKO losses 1 
+Submission losses 1 
+Decision losses 8
+
+
+--- RECORDS ---
+-Latest submission in a fight-
+-Latest submission in a 5 round fight-
+-Latest finish in a 5 round fight-
+-Latest finish in a fight-
+-Most successful Submissions-
+-First von flue in TFC-
+-Most successful finishes-

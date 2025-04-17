@@ -1,0 +1,28 @@
+Horrorz
+
+
+Strikes Landed 35
+Strikes Thrown 89
+Strikes Absorbed 44
+Accuracy 39%
+Knockdowns 0
+Highest Striking Differential 0
+Average Striking Differential 
+Takedowns Finished 0
+Takedowns Attempted 1
+Takedown Accuracy 0%
+Takedowns Defended 5
+Times Taken Down 1
+Takedown Defense Rate 83%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 0
+Fights 3
+Wins 0
+Losses 3 
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 3

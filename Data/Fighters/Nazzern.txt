@@ -1,0 +1,33 @@
+Nazzern
+
+Strikes Landed 17
+Strikes Thrown 30
+Accuracy 57%
+Strikes Absorbed 7
+Strikes Defended 15
+Strike Defense Rate 68%
+Knockdowns 0
+Knocked Down 0
+Highest Striking Differential 10
+Average Striking Differential 10
+Takedowns Finished 1
+Takedowns Attempted 1
+Takedown Accuracy 100%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 0
+TKO wins 0
+Decision Wins 1
+Forfeit Wins 0
+Fights 1
+Wins 1
+Losses 0
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 0
+Forfeit losses 0

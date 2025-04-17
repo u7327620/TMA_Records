@@ -1,0 +1,28 @@
+Ezremember
+
+
+Strikes Landed 20
+Strikes Thrown 45
+Strikes Absorbed 17
+Accuracy 44%
+Knockdowns 0
+Highest Striking Differential 4
+Average Striking Differential 4
+Takedowns Finished 1
+Takedowns Attempted 4
+Takedown Accuracy 25%
+Takedowns Defended 1
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 1
+Fights 2
+Wins 1
+Losses 0
+Draws 1
+TKO losses 0
+Submission losses 0
+Decision losses 0

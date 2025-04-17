@@ -1,0 +1,33 @@
+xRTNx
+
+Strikes Landed 10
+Strikes Thrown 46
+Accuracy 22%
+Strikes Absorbed 19
+Strikes Defended 26
+Strike Defense Rate 58%
+Knockdowns 1
+Knocked Down 0
+Highest Striking Differential 1
+Average Striking Differential 1
+Takedowns Finished 0
+Takedowns Attempted 2
+Takedown Accuracy 0%
+Takedowns Defended 2
+Times Taken Down 0
+Takedown Defense Rate 100%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+Point Deductions 0
+TKO wins 0
+Decision Wins 0
+Forfeit Wins 1
+Fights 2
+Wins 1
+Losses 1
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1
+Forfeit losses 0

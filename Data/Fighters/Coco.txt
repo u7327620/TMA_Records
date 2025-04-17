@@ -1,0 +1,29 @@
+Coco
+
+
+Strikes Landed 48
+Strikes Thrown 140
+Strikes Absorbed 51
+Accuracy 34%
+Knockdowns 2
+Highest Striking Differential 6
+Average Striking Differential 0
+Takedowns Finished 1
+Takedowns Attempted 3
+Takedown Accuracy 33%
+Takedowns Defended 3
+Times Taken Down 2
+Takedown Defense Rate 60%
+Submissions Attempted 0
+Submissions 0
+Submission Accuracy 0%
+TKO wins 0
+Decision Wins 3
+Fights 5
+Wins 3
+Losses 2
+Draws 0
+TKO losses 0
+Submission losses 0
+Decision losses 1
+Forfeit losses 1
