@@ -3,8 +3,8 @@ Brucce
 Strikes Landed 10
 Strikes Thrown 25
 Strikes Absorbed 3
-Knockdowns 2
 Accuracy 40%
+Knockdowns 2
 Striking Differential 7
 Takedowns Finished 0
 Takedowns Attempted 0

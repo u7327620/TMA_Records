@@ -1,6 +1,6 @@
 # Maybe carriage return issues?
 def get_value(line):
-    return int(line.split(" ")[-1].rstrip("%\n"))
+    return int(line.rstrip().split(" ")[-1])
 
 class Player:
     name: str = ""
