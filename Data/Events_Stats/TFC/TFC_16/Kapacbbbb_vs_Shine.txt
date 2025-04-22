@@ -33,4 +33,4 @@ Submissions Attempted 0
 --- RESULT ---
 29-29 Draw
 29-29 Draw
-Draw.
+Majority draw.

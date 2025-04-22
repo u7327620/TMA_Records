@@ -33,4 +33,5 @@ Submissions Attempted 3
 --- RESULT ---
 39-38 2number9
 39-38 2number9
-2number9 via decision with a tiebreaker round.
+ with a tiebreaker round
+2number9 via decision.

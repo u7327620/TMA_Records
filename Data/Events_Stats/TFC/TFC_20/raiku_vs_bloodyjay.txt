@@ -15,6 +15,7 @@ Takedown Defense Rate 100%
 Submissions Attempted 0
 
 bloodyjay
+
 Strikes Landed 19
 Strikes Thrown 42
 Strikes Absorbed 18

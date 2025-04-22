@@ -34,8 +34,7 @@ Takedown Defense Rate 0%
 Submissions Attempted 1
 BLADEBAR 1
 
---- RESULT --- 
-Bladerunnr via submission in the 5th round with 580 frames surpassed.
+
 
 
 
@@ -44,3 +43,7 @@ Bladerunnr via submission in the 5th round with 580 frames surpassed.
 -Latest submission in a 5 round fight-
 -Latest finish in a 5 round fight-
 -Latest finish in a fight-
+
+--- RESULT ---
+in the 5th round with 580 frames surpassed
+Bladerunnr via submission.

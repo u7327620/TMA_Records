@@ -33,4 +33,5 @@ Submissions Attempted 0
 --- RESULT ---
 39-38 Semari
 39-37 Semari
-Semari via tiebreaker decision.
+tiebreaker
+Semari via decision.

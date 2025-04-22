@@ -62,8 +62,10 @@ class Fight:
 
 
 if __name__ == "__main__":
-    path = os.path.join(os.getcwd(), "..", "..", "Data", "Events_Stats", "TFC", "TFC_10")
-    for file in os.listdir(path):
-        match_path = os.path.join(path, file)
-        print(match_path)
-        print(Fight(match_path))
+    path = os.path.join(os.getcwd(), "..", "..", "Data", "Events_Stats", "TFC")
+    for folder in os.listdir(path):
+        folder_path = os.path.join(path, folder)
+        for file in os.listdir(folder_path):
+            match_path = os.path.join(folder_path, file)
+            print(match_path)
+            print(Fight(match_path))

@@ -33,8 +33,7 @@ Times Taken Down 0
 Takedown Defense Rate 0%
 Submissions Attempted 0
 
---- RESULT --- 
-yahummy via armbar in the 1st round with 556 frames surpassed.
+
 
 
 --- RECORDS ---
@@ -42,3 +41,7 @@ yahummy via armbar in the 1st round with 556 frames surpassed.
 -Fastest submission in a title fight-
 -Fastest finish in a title fight-
 -Fastest finish-
+
+--- RESULT ---
+armbar in the 1st round with 556 frames surpassed
+yahummy via Submission.

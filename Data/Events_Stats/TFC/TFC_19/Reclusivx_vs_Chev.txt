@@ -30,7 +30,7 @@ Times Taken Down 0
 Takedown Defense Rate 0%
 Submissions Attempted 0
 
+ Rec forfeited with exactly 1000 frames surpassed in the 3rd round.
+
 --- RESULT ---
 Chev wins via forfeit.
-
- Rec forfeited with exactly 1000 frames surpassed in the 3rd round.

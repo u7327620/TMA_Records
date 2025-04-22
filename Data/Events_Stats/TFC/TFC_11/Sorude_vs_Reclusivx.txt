@@ -30,5 +30,6 @@ Times Taken Down 0
 Takedown Defense Rate 100%
 Submissions Attempted 0
 
---- RESULT --- 
-Sorude via forfeit in the 3rd round.
+--- RESULT ---
+ in the 3rd round
+Sorude via forfeit.
