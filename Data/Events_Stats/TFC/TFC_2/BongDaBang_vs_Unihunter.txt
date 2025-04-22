@@ -3,8 +3,8 @@ BongDaBang
 Strikes Landed 6
 Strikes Thrown 15
 Strikes Absorbed 8
-Knockdowns 0
 Accuracy 40%
+Knockdowns 0
 Striking Differential -2
 Takedowns Finished 1
 Takedowns Attempted 1
@@ -19,14 +19,13 @@ Unihunter
 Strikes Landed 8
 Strikes Thrown 19
 Strikes Absorbed 6
-Knockdowns 0
 Accuracy 42%
+Knockdowns 0
 Striking Differential 2
 Takedowns Finished 0
 Takedowns Attempted 0
 Takedown Accuracy 0%
 Takedowns Defended 0
-Takedowns Attempted 0
 Times Taken Down 1
 Takedown Defense Rate 0%
 Submissions Attempted 0
@@ -34,4 +33,4 @@ Submissions Attempted 0
 ----- RESULT ----- 
 39-38 Bong
 39-38 Bong
-Bong via decision. (Overtime round)
+Bong via decision.
