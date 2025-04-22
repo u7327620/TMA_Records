@@ -11,11 +11,20 @@ class MatchResult(Enum):
     SUBMISSION = "via submission."
     KNOCKOUT = "via tko."
     UNDOCUMENTED = "undocumented."
+    FORFEIT = "via forfeit."
 
     #TODO figure out a less ass way of doing this bs
     @classmethod
     def from_line(cls, line):
-        if line.lower().endswith(cls.DECISION.value):
+        if line.lower().endswith(cls.SUBMISSION.value):
+            return MatchResult.SUBMISSION
+        elif line.lower().endswith(cls.KNOCKOUT.value):
+            return MatchResult.KNOCKOUT
+        elif line.lower().endswith(cls.UNDOCUMENTED.value):
+            return MatchResult.UNDOCUMENTED
+        elif line.lower().endswith(cls.FORFEIT.value):
+            return MatchResult.FORFEIT
+        elif line.lower().endswith(cls.DECISION.value):
             return MatchResult.DECISION
         elif line.endswith(cls.CLOSE_DECISION.value):
             return MatchResult.CLOSE_DECISION
@@ -27,11 +36,3 @@ class MatchResult(Enum):
             return MatchResult.GODLY_DECISION
         elif line.endswith(cls.WTF_DECISION.value):
             return MatchResult.WTF_DECISION
-        elif line.lower().endswith(cls.SUBMISSION.value):
-            return MatchResult.SUBMISSION
-        elif line.lower().endswith(cls.KNOCKOUT.value):
-            return MatchResult.KNOCKOUT
-        elif line.lower().endswith(cls.UNDOCUMENTED.value):
-            return MatchResult.UNDOCUMENTED
-
-

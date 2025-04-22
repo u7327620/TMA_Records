@@ -8,11 +8,11 @@ Knockdowns 0
 Striking Differential 5
 Takedowns Finished 1
 Takedowns Attempted 2
-Takedown Accuracy 
-Takedowns Defended 
-Times Taken Down 
-Takedown Defense Rate
-Submissions Attempted 
+Takedown Accuracy 0
+Takedowns Defended 0
+Times Taken Down 0
+Takedown Defense Rate 0%
+Submissions Attempted 0
 
 BongDaBang
 
@@ -37,4 +37,4 @@ Submissions Attempted 0
 29-27 Hawk
 30-26 Hawk
 
-Hawk wins via decision (should've been a TKO, maybe?)
+Hawk via decision.
