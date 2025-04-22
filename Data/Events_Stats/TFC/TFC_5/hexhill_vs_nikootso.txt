@@ -23,7 +23,7 @@ Accuracy 16%
 Knockdowns 0
 Striking Differential -7
 Takedowns Finished 0
-Takedowns Attempted 1 
+Takedowns Attempted 1
 Takedown Accuracy 0%
 Takedowns Defended 0
 Times Taken Down 0

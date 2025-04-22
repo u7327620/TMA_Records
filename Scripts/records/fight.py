@@ -1,35 +1,25 @@
 import os
-import sys
 
 from player import Player
 from result import MatchResult
 
 # TODO update paths to pathLib
 class Fight:
-    file_path:os.PathLike = None
-    player1:Player = None
-    player2:Player = None
-    winner = None
-    result:MatchResult = None
-
-    def __init__(self, file_path, player1:Player=None, player2:Player=None):
-        self.file_path = file_path
-        if player1 and player2:
-            self.player1 = player1
-            self.player2 = player2
-        elif file_path.endswith('.txt'):
-            names = os.path.basename(self.file_path).split("_vs_")
+    def __init__(self, file_path):
+        self.file_path: os.path = file_path
+        self.winner:Player = None
+        self.result = MatchResult.UNDOCUMENTED
+        if file_path.endswith('.txt'):
+            names = os.path.basename(self.file_path).lower().split("_vs_")
+            names[1] = names[1][0:-4]
             self.player1 = Player(names[0], txt=self.file_path)
 
             # TODO fix this shitty ass naming system
-            if len(names[1].rstrip(".txt").split(" "))>1:
+            # Repeat matches are titled "<name>_vs_<name> <n>" where n is the count of repeats
+            if len(names[1].split(" "))>1:
                 self.player2 = Player(names[1].split(" ")[0], txt=self.file_path)
             else:
-                self.player2 = Player(names[1].rstrip(".txt"), txt=self.file_path)
-
-        else:
-            self.player1 = Player(os.path.basename(self.file_path).split("_vs_")[0], json=self.file_path)
-            self.player2 = Player(os.path.basename(file_path).split("_vs_")[1].rstrip(".txt"), json=self.file_path)
+                self.player2 = Player(names[1], txt=self.file_path)
 
         self.find_result()
 
@@ -51,11 +41,15 @@ class Fight:
             while file.read(1) != b"\n":
                 file.seek(-2, os.SEEK_CUR)
             last_line = file.readline().decode("utf-8").rstrip("\n")
-            self.result = MatchResult.from_line(last_line)
-            if self.result is None:
-                raise RuntimeWarning(f"Result of {self.file_path} not found in enum.")
-            if self.result is not MatchResult.UNDOCUMENTED:
-                if last_line.split(" ")[0] is self.player1.name:
+            if last_line.lower() == "undocumented.":
+                self.result = MatchResult(last_line.lower())
+            else:
+                try:
+                    self.result = MatchResult(" ".join(last_line.lower().split(" ")[1:]))
+                except ValueError as e:
+                    e.add_note(f"{last_line} in {self.file_path}")
+                    raise e
+                if last_line.split(" ")[0].lower() == self.player1.name:
                     self.winner = self.player1
                 else:
                     self.winner = self.player2

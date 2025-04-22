@@ -12,7 +12,7 @@ Takedown Accuracy 0%
 Takedowns Defended 1
 Times Taken Down 0
 Takedown Defense Rate 100%
-Submissions Attempted 0%
+Submissions Attempted 0
 
 denisandop
 

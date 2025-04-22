@@ -20,7 +20,7 @@ Strikes Landed 4
 Strikes Thrown 22
 Strikes Absorbed 11
 Accuracy 18%
-Knockdowns 
+Knockdowns 0
 Striking Differential -7
 Takedowns Finished 0
 Takedowns Attempted 1
