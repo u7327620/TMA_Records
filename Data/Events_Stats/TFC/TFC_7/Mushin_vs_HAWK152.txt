@@ -12,7 +12,7 @@ Takedown Accuracy 50%
 Takedowns Defended 7
 Times Taken Down 0
 Takedown Defense Rate 100%
-Submissions Attempted 
+Submissions Attempted 0
 
 HAWK152
 
@@ -30,11 +30,10 @@ Times Taken Down 1
 Takedown Defense Rate 50%
 Submissions Attempted 0
 
---- RESULT --- 
-30-25 Mushin
-30-26 Mushin
-Mushin via decision
-
-
 -------------- RECORDS ----------------  
 -Highest striking differential in a fight, +23-
+
+--- RESULT ---
+30-25 Mushin
+30-26 Mushin
+Mushin via decision.

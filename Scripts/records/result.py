@@ -12,6 +12,7 @@ class MatchResult(Enum):
     KNOCKOUT = "via tko."
     UNDOCUMENTED = "undocumented."
     FORFEIT = "via forfeit."
+    DRAW = "majority draw."
 
     #TODO figure out a less ass way of doing this bs
     @classmethod
@@ -26,6 +27,8 @@ class MatchResult(Enum):
             return MatchResult.FORFEIT
         elif line.lower().endswith(cls.DECISION.value):
             return MatchResult.DECISION
+        elif line.lower().endswith(cls.DRAW.value):
+            return MatchResult.DRAW
         elif line.endswith(cls.CLOSE_DECISION.value):
             return MatchResult.CLOSE_DECISION
         elif line.endswith(cls.MEDIUM_DECISION.value):
