@@ -1,3 +1,7 @@
+# Maybe carriage return issues?
+def get_value(line):
+    return int(line.split(" ")[-1].rstrip("%\n"))
+
 class Player:
     name: str = ""
     strikes_landed: int = 0
@@ -31,12 +35,12 @@ class Player:
             lines = f.readlines()
             for i, line in enumerate(lines):
                 if line.strip() == self.name:
-                    self.strikes_landed = int(lines[i + 2].rstrip().split(" ")[-1])
-                    self.strikes_thrown = int(lines[i + 3].rstrip().split(" ")[-1])
-                    self.knockdowns = int(lines[i + 5].rstrip().split(" ")[-1])
-                    self.takedowns_finished = int(lines[i + 7].rstrip().split(" ")[-1])
-                    self.takedowns_attempted = int(lines[i + 8].rstrip().split(" ")[-1])
-                    self.submissions_attempted = int(lines[i + 13].rstrip().split(" ")[-1])
+                    self.strikes_landed = get_value(lines[i + 2])
+                    self.strikes_thrown = get_value(lines[i + 3])
+                    self.knockdowns = get_value(lines[i + 6])
+                    self.takedowns_finished = get_value(lines[i + 8])
+                    self.takedowns_attempted = get_value(lines[i + 9])
+                    self.submissions_attempted = get_value(lines[i + 14])
                     return
 
     def from_json(self, file_path):

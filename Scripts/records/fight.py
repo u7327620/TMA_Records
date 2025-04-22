@@ -4,6 +4,7 @@ import sys
 from player import Player
 from result import MatchResult
 
+# TODO update paths to pathLib
 class Fight:
     file_path:os.PathLike = None
     player1:Player = None
@@ -12,14 +13,16 @@ class Fight:
 
     def __init__(self, file_path, player1:Player=None, player2:Player=None):
         self.file_path = file_path
-        if player1 is None:
-            self.player1 = Player(os.path.basename(self.file_path).split("_vs_")[0])
-        else:
+        if player1 and player2:
             self.player1 = player1
-        if player2 is None:
-            self.player2 = Player(os.path.basename(file_path).split("_vs_")[1].rstrip(".txt"))
-        else:
             self.player2 = player2
+        elif file_path.endswith('.txt'):
+            self.player1 = Player(os.path.basename(self.file_path).split("_vs_")[0], txt=self.file_path)
+            self.player2 = Player(os.path.basename(file_path).split("_vs_")[1].rstrip(".txt"), txt=self.file_path)
+        else:
+            self.player1 = Player(os.path.basename(self.file_path).split("_vs_")[0], json=self.file_path)
+            self.player2 = Player(os.path.basename(file_path).split("_vs_")[1].rstrip(".txt"), json=self.file_path)
+
         self.result = self.find_result()
 
     def __str__(self):
