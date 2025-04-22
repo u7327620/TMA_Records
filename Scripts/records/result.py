@@ -9,7 +9,7 @@ class MatchResult(Enum):
     GODLY_DECISION = "10-6"
     WTF_DECISION = "10-5"
     SUBMISSION = "via submission."
-    KNOCKOUT = "via knockout."
+    KNOCKOUT = "via tko."
     UNDOCUMENTED = "undocumented."
 
     #TODO figure out a less ass way of doing this bs

@@ -11,8 +11,8 @@ Takedowns Attempted 0
 Takedown Accuracy 0%
 Takedowns Defended 1
 Times Taken Down 0
-Takedown Defense Rate
-Submissions Attempted 
+Takedown Defense Rate 100%
+Submissions Attempted 0
 
 nikootso
 

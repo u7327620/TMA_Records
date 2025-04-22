@@ -30,9 +30,9 @@ Times Taken Down 0
 Takedown Defense Rate 100%
 Submissions Attempted 0
 
------ RESULT ----- 
-Hawk152 via TKO in the 1st round with 210 (Slowed) frames remaining.
-
-
 --- Records ---
--Fastest TKO-
+-Fastest TKO -
+- in the 1st round with 210 (Slowed) frames remaining -
+
+----- RESULT ----- 
+Hawk152 via TKO.

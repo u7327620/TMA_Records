@@ -18,8 +18,15 @@ class Fight:
             self.player1 = player1
             self.player2 = player2
         elif file_path.endswith('.txt'):
-            self.player1 = Player(os.path.basename(self.file_path).split("_vs_")[0], txt=self.file_path)
-            self.player2 = Player(os.path.basename(file_path).split("_vs_")[1].rstrip(".txt"), txt=self.file_path)
+            names = os.path.basename(self.file_path).split("_vs_")
+            self.player1 = Player(names[0], txt=self.file_path)
+
+            # TODO fix this shitty ass naming system
+            if len(names[1].rstrip(".txt").split(" "))>1:
+                self.player2 = Player(names[1].split(" ")[0], txt=self.file_path)
+            else:
+                self.player2 = Player(names[1].rstrip(".txt"), txt=self.file_path)
+
         else:
             self.player1 = Player(os.path.basename(self.file_path).split("_vs_")[0], json=self.file_path)
             self.player2 = Player(os.path.basename(file_path).split("_vs_")[1].rstrip(".txt"), json=self.file_path)
@@ -55,7 +62,7 @@ class Fight:
 
 
 if __name__ == "__main__":
-    path = os.path.join(os.getcwd(), "..", "..", "Data", "Events_Stats", "TFC", "TFC_4")
+    path = os.path.join(os.getcwd(), "..", "..", "Data", "Events_Stats", "TFC", "TFC_5")
     for file in os.listdir(path):
         match_path = os.path.join(path, file)
         print(match_path)
