@@ -20,7 +20,7 @@ class Record:
                 f"Matches: {len(self.matches)}\n")
 
     def to_txt(self):
-        return f"{self.player.name}: {self.wins}-{self.draws}-{self.losses} [{len(self.matches)}]"
+        return f"{self.player.name}: {self.wins}-{self.losses}-{self.draws} [{len(self.matches)}]"
 
     def add_fight(self, new_fight:Fight):
         self.matches.append(new_fight)
@@ -48,7 +48,7 @@ if __name__ == "__main__":
                 records[fight.player2.name] = Record(fight.player2)
             records[fight.player2.name].add_fight(fight)
             records[fight.player1.name].add_fight(fight)
-    output = "<Name>: <W>-<D>-<L> <played>\n\n"
+    output = "<Name>: <W>-<L>-<D> <played>\n\n"
     for record in sorted(records.values(), key=lambda r: len(r.matches), reverse=True):
         output += record.to_txt() + "\n"
     path = os.path.join(os.getcwd(), "records", "records.txt")
