@@ -14,11 +14,11 @@ def generate_elo():
             fight = Fight(match_path)
             p1 = fight.player1.name
             p2 = fight.player2.name
+            if p1 not in ratings:
+                ratings[p1] = Rating()
+            if p2 not in ratings:
+                ratings[p2] = Rating()
             if fight.result is not MatchResult.UNDOCUMENTED:
-                if p1 not in ratings:
-                    ratings[p1] = Rating()
-                if p2 not in ratings:
-                    ratings[p2] = Rating()
                 if fight.result in [MatchResult.DRAW, MatchResult.SPLIT_DRAW, MatchResult.MAJORITY_DRAW, MatchResult.UNANIMOUS_DRAW]:
                     ratings[p1], ratings[p2] = rate_1vs1(ratings[p1], ratings[p2], drawn=True)
                 elif fight.winner.name == p1:
@@ -51,13 +51,23 @@ def player_record(name: str) -> list[str]:
             fight = Fight(match_path)
             p1 = fight.player1.name
             p2 = fight.player2.name
+            if p1 not in ratings.keys():
+                ratings[p1] = Rating()
+            if p2 not in ratings.keys():
+                ratings[p2] = Rating()
+            if p1 == name or p2 == name:
+                bruh = f"[{ratings[name].mu:.2f}, {ratings[name].sigma:.2f}] "
+                if p1 == name:
+                    bruh += f"{p2} ({ratings[p2].mu:.2f}, {ratings[p2].sigma:.2f}) "
+                elif p2 == name:
+                    bruh += f"{p1} ({ratings[p1].mu:.2f}, {ratings[p1].sigma:.2f}) "
+                if fight.result is not MatchResult.UNDOCUMENTED:
+                    if name != fight.winner.name:
+                        bruh += f"lost {fight.result.value}"
+                    else:
+                        bruh += f"{fight.result.value}"
+                out.append(bruh)
             if fight.result is not MatchResult.UNDOCUMENTED:
-                if p1 not in ratings:
-                    ratings[p1] = Rating()
-                if p2 not in ratings:
-                    ratings[p2] = Rating()
-                if p1 == name or p2 == name:
-                   bruh  = f"[{ratings[name].mu:.2f}, {ratings[name].sigma:.2f}] "
                 if fight.result in [MatchResult.DRAW, MatchResult.SPLIT_DRAW, MatchResult.MAJORITY_DRAW,
                                     MatchResult.UNANIMOUS_DRAW]:
                     ratings[p1], ratings[p2] = rate_1vs1(ratings[p1], ratings[p2], drawn=True)
@@ -65,12 +75,9 @@ def player_record(name: str) -> list[str]:
                     ratings[p1], ratings[p2] = rate_1vs1(ratings[p1], ratings[p2])
                 else:
                     ratings[p2], ratings[p1] = rate_1vs1(ratings[p2], ratings[p1])
-                if p1 == name:
-                    out.append(bruh + f"{p2} ({ratings[p2].mu:.2f}, {ratings[p2].sigma:.2f}) {fight.result.value}")
-                elif p2 == name:
-                    out.append(bruh + f"{p1} ({ratings[p1].mu:.2f}, {ratings[p1].sigma:.2f}) {fight.result.value}")
+
     out.append(f"Final rating: {ratings[name].mu:.2f}, {ratings[name].sigma:.2f}")
     return out
 
 if __name__ == "__main__":
-    print("\n".join(player_record("exzplode")))
+    print("\n".join(player_record("danewninja")))
