@@ -30,8 +30,5 @@ Times Taken Down 1
 Takedown Defense Rate 50%
 Submissions Attempted 0
 
--- RECORDS --
--  in the 3rd round with 944 frames surpassed -
-
---- RESULT --- 
-Rouxster via TKO.
+--- RESULT ---
+Rouxster via TKO in the 3rd round with 944 frames surpassed.
