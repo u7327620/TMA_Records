@@ -3,6 +3,13 @@
         "Name": "Mushin_vs_Bladerunnr",
         "Event": "TFC_8"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Mushin",
+        "29-28 Mushin",
+        "Mushin via decision.",
+        "DECISION"
+    ],
     "Mushin": {
         "Strikes Landed": 19,
         "Strikes Thrown": 25,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Mushin",
-        "29-28 Mushin",
-        "Mushin via decision."
-    ]
+    "Winner": "mushin"
 }

@@ -3,6 +3,13 @@
         "Name": "2number9_vs_LokkiXD",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "29-29 draw",
+        "30-28 2number9",
+        "29-28 Lokki",
+        "Split draw."
+    ],
     "2number9": {
         "Strikes Landed": 10,
         "Strikes Thrown": 24,
@@ -32,11 +39,5 @@
         "Times Taken Down": 1,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-29 draw",
-        "30-28 2number9",
-        "29-28 Lokki",
-        "Split draw."
-    ]
+    }
 }

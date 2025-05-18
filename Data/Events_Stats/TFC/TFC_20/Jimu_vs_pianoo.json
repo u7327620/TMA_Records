@@ -3,6 +3,13 @@
         "Name": "Jimu_vs_pianoo",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Pianoo",
+        "30-29 Pianoo",
+        "Pianoo via decision.",
+        "DECISION"
+    ],
     "Jimu": {
         "Strikes Landed": 7,
         "Strikes Thrown": 30,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Pianoo",
-        "30-29 Pianoo",
-        "Pianoo via decision."
-    ]
+    "Winner": "pianoo"
 }

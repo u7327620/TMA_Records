@@ -3,6 +3,13 @@
         "Name": "Reclusivx_vs_Wesmontag",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Reclusivx",
+        "29-28 Reclusivx",
+        "Reclusivx via decision.",
+        "DECISION"
+    ],
     "Reclusivx": {
         "Strikes Landed": 25,
         "Strikes Thrown": 40,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Reclusivx",
-        "29-28 Reclusivx",
-        "Reclusivx via decision."
-    ]
+    "Winner": "reclusivx"
 }

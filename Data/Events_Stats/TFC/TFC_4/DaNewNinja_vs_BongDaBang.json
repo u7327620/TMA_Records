@@ -3,6 +3,13 @@
         "Name": "DaNewNinja_vs_BongDaBang",
         "Event": "TFC_4"
     },
+    "Records": [],
+    "Result": [
+        "29-28 danewninja",
+        "29-28 danewninja",
+        "danewninja via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 7,
         "Strikes Thrown": 19,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 danewninja",
-        "29-28 danewninja",
-        "danewninja via decision."
-    ]
+    "Winner": "danewninja"
 }

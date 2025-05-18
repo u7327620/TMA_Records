@@ -3,6 +3,13 @@
         "Name": "dyingderp_vs_Warfare",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Warfare",
+        "29-28 Warfare",
+        "Warfare via decision.",
+        "DECISION"
+    ],
     "dyingderp": {
         "Strikes Landed": 14,
         "Strikes Thrown": 39,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Warfare",
-        "29-28 Warfare",
-        "Warfare via decision."
-    ]
+    "Winner": "warfare"
 }

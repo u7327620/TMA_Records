@@ -3,6 +3,13 @@
         "Name": "lokkiXD_vs_coco 2",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 coco",
+        "29-28 coco",
+        "coco via decision.",
+        "DECISION"
+    ],
     "lokkiXD": {
         "Strikes Landed": 4,
         "Strikes Thrown": 22,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 coco",
-        "29-28 coco",
-        "coco via decision."
-    ]
+    "Winner": "coco"
 }

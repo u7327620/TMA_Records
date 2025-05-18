@@ -3,6 +3,13 @@
         "Name": "Dogki12_vs_Reiki",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "29-28 dogki12",
+        "29-28 dogki12",
+        "dogki12 via decision.",
+        "DECISION"
+    ],
     "Dogki12": {
         "Strikes Landed": 13,
         "Strikes Thrown": 24,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 dogki12",
-        "29-28 dogki12",
-        "dogki12 via decision."
-    ]
+    "Winner": "dogki12"
 }

@@ -3,6 +3,13 @@
         "Name": "anx_vs_bongdabang",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "30-27 anx",
+        "30-27 anx",
+        "anx via decision.",
+        "DECISION"
+    ],
     "anx": {
         "Strikes Landed": 21,
         "Strikes Thrown": 40,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 anx",
-        "30-27 anx",
-        "anx via decision."
-    ]
+    "Winner": "anx"
 }

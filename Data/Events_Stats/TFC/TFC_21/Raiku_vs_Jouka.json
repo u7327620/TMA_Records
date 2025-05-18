@@ -3,6 +3,13 @@
         "Name": "Raiku_vs_Jouka",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 jouka",
+        "29-28 jouka",
+        "jouka via decision.",
+        "DECISION"
+    ],
     "jouka": {
         "Strikes Landed": 13,
         "Strikes Thrown": 36,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 jouka",
-        "29-28 jouka",
-        "jouka via decision."
-    ]
+    "Winner": "jouka"
 }

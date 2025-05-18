@@ -3,6 +3,11 @@
         "Name": "Reclusivx_vs_Chev",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "Chev via forfeit.",
+        "FORFEIT"
+    ],
     "Reclusivx": {
         "Strikes Landed": 14,
         "Strikes Thrown": 35,
@@ -34,5 +39,5 @@
         "Submissions Attempted": 0
     },
     "Rec forfeited with exactly 1000 frames surpassed in the 3rd round.": {},
-    "Result": "Chev via forfeit."
+    "Winner": "chev"
 }

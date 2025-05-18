@@ -3,6 +3,13 @@
         "Name": "Warfare_vs_kapacbbbb",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Warfare",
+        "30-27 Warfare",
+        "Warfare via decision.",
+        "DECISION"
+    ],
     "Warfare": {
         "Strikes Landed": 23,
         "Strikes Thrown": 42,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Warfare",
-        "30-27 Warfare",
-        "Warfare via decision."
-    ]
+    "Winner": "warfare"
 }

@@ -3,6 +3,13 @@
         "Name": "Dyingderp_vs_Ricopaxton",
         "Event": "TFC_10"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Ricopaxton",
+        "29-28 Ricopaxton",
+        "Ricopaxton via decision.",
+        "DECISION"
+    ],
     "Dyingderp": {
         "Strikes Landed": 6,
         "Strikes Thrown": 14,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Ricopaxton",
-        "29-28 Ricopaxton",
-        "Ricopaxton via decision."
-    ]
+    "Winner": "ricopaxton"
 }

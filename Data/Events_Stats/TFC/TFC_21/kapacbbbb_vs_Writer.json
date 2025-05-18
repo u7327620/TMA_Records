@@ -3,6 +3,13 @@
         "Name": "kapacbbbb_vs_Writer",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Writer",
+        "29-28 Writer",
+        "Writer via decision.",
+        "DECISION"
+    ],
     "kapacbbbb": {
         "Strikes Landed": 9,
         "Strikes Thrown": 38,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Writer",
-        "29-28 Writer",
-        "Writer via decision."
-    ]
+    "Winner": "writer"
 }

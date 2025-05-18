@@ -3,6 +3,11 @@
         "Name": "Lostmail_vs_Dzage",
         "Event": "TFC_2"
     },
+    "Records": [],
+    "Result": [
+        "dzage via decision.",
+        "DECISION"
+    ],
     "Lostmail": {
         "Strikes Landed": 14,
         "Strikes Thrown": 28,
@@ -33,5 +38,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": "dzage via decision."
+    "Winner": "dzage"
 }

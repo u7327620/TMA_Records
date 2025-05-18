@@ -3,6 +3,13 @@
         "Name": "hamfisted_vs_danewninja",
         "Event": "TFC_3"
     },
+    "Records": [],
+    "Result": [
+        "29-28 hamfisted",
+        "29-28 hamfisted",
+        "hamfisted via decision.",
+        "DECISION"
+    ],
     "Hamfisted": {
         "Strikes Landed": 14,
         "Strikes Thrown": 27,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 hamfisted",
-        "29-28 hamfisted",
-        "hamfisted via decision."
-    ]
+    "Winner": "hamfisted"
 }

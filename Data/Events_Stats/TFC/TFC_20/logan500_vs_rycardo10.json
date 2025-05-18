@@ -3,6 +3,13 @@
         "Name": "logan500_vs_rycardo10",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 rycardo10",
+        "29-28 rycardo10",
+        "rycardo10 via decision.",
+        "DECISION"
+    ],
     "logan500": {
         "Strikes Landed": 13,
         "Strikes Thrown": 41,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 rycardo10",
-        "29-28 rycardo10",
-        "rycardo10 via decision."
-    ]
+    "Winner": "rycardo10"
 }

@@ -3,6 +3,13 @@
         "Name": "Semari_vs_Bongdabang",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Semari",
+        "29-28 Semari",
+        "Semari via decision.",
+        "DECISION"
+    ],
     "Semari": {
         "Strikes Landed": 15,
         "Strikes Thrown": 22,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Semari",
-        "29-28 Semari",
-        "Semari via decision."
-    ]
+    "Winner": "semari"
 }

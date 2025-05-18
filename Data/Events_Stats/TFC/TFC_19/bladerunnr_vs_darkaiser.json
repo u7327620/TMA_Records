@@ -3,6 +3,14 @@
         "Name": "bladerunnr_vs_darkaiser",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "29-28 darkaiser",
+        "28-27 bladerunnr (Two points deducted from Darkaiser in R2 due to egregious phasing through frames 915 - 820 and 650 - 440, plus some smaller moments throughout the round.)",
+        "29-26 bladerunnr (2 points taken from darkaiser)",
+        "bladerunnr via split decision.",
+        "DECISION"
+    ],
     "bladerunnr": {
         "Strikes Landed": 12,
         "Strikes Thrown": 20,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 darkaiser",
-        "28-27 bladerunnr (Two points deducted from Darkaiser in R2 due to egregious phasing through frames 915 - 820 and 650 - 440, plus some smaller moments throughout the round.)",
-        "29-26 bladerunnr (2 points taken from darkaiser)",
-        "bladerunnr via split decision."
-    ]
+    "Winner": "bladerunnr"
 }

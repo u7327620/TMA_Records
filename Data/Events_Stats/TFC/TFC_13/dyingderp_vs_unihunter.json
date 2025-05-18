@@ -3,6 +3,13 @@
         "Name": "dyingderp_vs_unihunter",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "29-28 dyingderp",
+        "29-28 dyingderp",
+        "dyingderp via decision.",
+        "DECISION"
+    ],
     "unihunter": {
         "Strikes Landed": 13,
         "Strikes Thrown": 35,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 dyingderp",
-        "29-28 dyingderp",
-        "dyingderp via decision."
-    ]
+    "Winner": "dyingderp"
 }

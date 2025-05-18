@@ -3,6 +3,13 @@
         "Name": "sammyboi20_vs_Clemencie",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "29-28 sammyboi20",
+        "30-27 sammyboi20",
+        "sammyboi20 via decision.",
+        "DECISION"
+    ],
     "Clemencie": {
         "Strikes Landed": 5,
         "Strikes Thrown": 18,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 sammyboi20",
-        "30-27 sammyboi20",
-        "sammyboi20 via decision."
-    ]
+    "Winner": "sammyboi20"
 }

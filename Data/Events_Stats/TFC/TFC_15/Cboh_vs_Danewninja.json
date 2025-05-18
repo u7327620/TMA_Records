@@ -3,6 +3,14 @@
         "Name": "Cboh_vs_Danewninja",
         "Event": "TFC_15"
     },
+    "Records": [],
+    "Result": [
+        "30-29 Danewninja",
+        "28-28 Draw (point deduction from Danew in R2 for doing too much crapoeira)",
+        "29-28 Danewninja",
+        "Danewninja via decision.",
+        "DECISION"
+    ],
     "Cboh": {
         "Strikes Landed": 10,
         "Strikes Thrown": 21,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-29 Danewninja",
-        "28-28 Draw (point deduction from Danew in R2 for doing too much crapoeira)",
-        "29-28 Danewninja",
-        "Danewninja via decision."
-    ]
+    "Winner": "danewninja"
 }

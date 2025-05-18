@@ -3,6 +3,13 @@
         "Name": "Chev_vs_Unihunter",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "29-28 chev",
+        "29-28 chev",
+        "chev via decision.",
+        "DECISION"
+    ],
     "unihunter": {
         "Strikes Landed": 10,
         "Strikes Thrown": 25,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 chev",
-        "29-28 chev",
-        "chev via decision."
-    ]
+    "Winner": "chev"
 }

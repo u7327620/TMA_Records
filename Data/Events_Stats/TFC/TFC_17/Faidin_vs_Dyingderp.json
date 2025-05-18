@@ -3,6 +3,13 @@
         "Name": "Faidin_vs_Dyingderp",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Faidin",
+        "30-27 Faidin",
+        "Faidin via decision.",
+        "DECISION"
+    ],
     "Dyingderp": {
         "Strikes Landed": 8,
         "Strikes Thrown": 27,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Faidin",
-        "30-27 Faidin",
-        "Faidin via decision."
-    ]
+    "Winner": "faidin"
 }

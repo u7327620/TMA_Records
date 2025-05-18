@@ -6,6 +6,12 @@
             "3 2150 FRAME ROUNDS"
         ]
     },
+    "Records": [],
+    "Result": [
+        "0mino refused to continue after the 1st round.",
+        "Anx via forfeit.",
+        "FORFEIT"
+    ],
     "anx": {
         "Strikes Landed": 9,
         "Strikes Thrown": 17,
@@ -42,8 +48,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "0mino refused to continue after the 1st round.",
-        "Anx via forfeit."
-    ]
+    "Winner": "anx"
 }

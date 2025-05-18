@@ -3,6 +3,13 @@
         "Name": "Mainland_vs_Dyingderp",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "30-29 Mainland",
+        "30-28 Mainland",
+        "Mainland via decision.",
+        "DECISION"
+    ],
     "Mainland": {
         "Strikes Landed": 12,
         "Strikes Thrown": 28,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-29 Mainland",
-        "30-28 Mainland",
-        "Mainland via decision."
-    ]
+    "Winner": "mainland"
 }

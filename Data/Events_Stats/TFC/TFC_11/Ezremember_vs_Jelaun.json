@@ -3,6 +3,14 @@
         "Name": "Ezremember_vs_Jelaun",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "30-29 Ezremember",
+        "29-29 draw",
+        "29-28 Ezremember",
+        "Ezremember via decision.",
+        "DECISION"
+    ],
     "Ezremember": {
         "Strikes Landed": 11,
         "Strikes Thrown": 27,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-29 Ezremember",
-        "29-29 draw",
-        "29-28 Ezremember",
-        "Ezremember via decision."
-    ]
+    "Winner": "ezremember"
 }

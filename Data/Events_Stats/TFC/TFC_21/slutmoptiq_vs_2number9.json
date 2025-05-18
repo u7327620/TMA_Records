@@ -3,6 +3,13 @@
         "Name": "slutmoptiq_vs_2number9",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "30-27 slutmoptiq",
+        "30-27 slutmoptiq",
+        "slutmoptiq via decision.",
+        "DECISION"
+    ],
     "slutmoptiq": {
         "Strikes Landed": 18,
         "Strikes Thrown": 28,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "30-27 slutmoptiq",
-        "30-27 slutmoptiq",
-        "slutmoptiq via decision."
-    ]
+    "Winner": "slutmoptiq"
 }

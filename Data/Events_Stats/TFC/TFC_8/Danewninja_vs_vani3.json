@@ -3,6 +3,13 @@
         "Name": "Danewninja_vs_vani3",
         "Event": "TFC_8"
     },
+    "Records": [],
+    "Result": [
+        "30-26 vani3",
+        "30-27 vani3",
+        "vani3 via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 13,
         "Strikes Thrown": 22,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-26 vani3",
-        "30-27 vani3",
-        "vani3 via decision."
-    ]
+    "Winner": "vani3"
 }

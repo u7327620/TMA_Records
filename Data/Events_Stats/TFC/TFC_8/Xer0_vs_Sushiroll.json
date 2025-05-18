@@ -3,6 +3,12 @@
         "Name": "Xer0_vs_Sushiroll",
         "Event": "TFC_8"
     },
+    "Records": [],
+    "Result": [
+        "30-26 Sushiroll",
+        "Sushiroll via decision.",
+        "DECISION"
+    ],
     "Sushiroll": {
         "Strikes Landed": 11,
         "Strikes Thrown": 26,
@@ -33,8 +39,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-26 Sushiroll",
-        "Sushiroll via decision."
-    ]
+    "Winner": "sushiroll"
 }

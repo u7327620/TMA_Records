@@ -3,6 +3,14 @@
         "Name": "vonnn_vs_Pharma",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Pharma",
+        "30-27 Pharma",
+        "30-27 Pharma",
+        "Pharma via unanimous decision.",
+        "DECISION"
+    ],
     "vonnn": {
         "Strikes Landed": 9,
         "Strikes Thrown": 23,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Pharma",
-        "30-27 Pharma",
-        "30-27 Pharma",
-        "Pharma via unanimous decision."
-    ]
+    "Winner": "pharma"
 }

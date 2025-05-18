@@ -3,6 +3,13 @@
         "Name": "Jelaun_vs_Chev",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Chev (point deducted from jelaun for cheese from frames 228-200 of R2)",
+        "29-28 Chev",
+        "Chev via decision.",
+        "DECISION"
+    ],
     "Jelaun": {
         "Strikes Landed": 9,
         "Strikes Thrown": 24,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 Chev (point deducted from jelaun for cheese from frames 228-200 of R2)",
-        "29-28 Chev",
-        "Chev via decision."
-    ]
+    "Winner": "chev"
 }

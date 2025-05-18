@@ -3,6 +3,13 @@
         "Name": "Dzage_vs_Bladerunnr",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "29-28 bladerunnr",
+        "29-28 bladerunnr",
+        "bladerunnr via decision.",
+        "DECISION"
+    ],
     "Dzage": {
         "Strikes Landed": 7,
         "Strikes Thrown": 28,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 bladerunnr",
-        "29-28 bladerunnr",
-        "bladerunnr via decision."
-    ]
+    "Winner": "bladerunnr"
 }

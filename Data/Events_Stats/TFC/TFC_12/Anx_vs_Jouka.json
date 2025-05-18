@@ -3,6 +3,13 @@
         "Name": "Anx_vs_Jouka",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Jouka",
+        "29-28 Jouka",
+        "Jouka via decision.",
+        "DECISION"
+    ],
     "Anx": {
         "Strikes Landed": 9,
         "Strikes Thrown": 21,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Jouka",
-        "29-28 Jouka",
-        "Jouka via decision."
-    ]
+    "Winner": "jouka"
 }

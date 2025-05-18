@@ -3,6 +3,14 @@
         "Name": "Cryink_vs_Nasa",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Nasa",
+        "30-27 Cryink",
+        "29-28 Cryink",
+        "Cryink via split decision.",
+        "DECISION"
+    ],
     "Cryink": {
         "Strikes Landed": 9,
         "Strikes Thrown": 24,
@@ -39,10 +47,5 @@
         "Takedown Defense Rate": 0,
         "Submissions Attempted": 0.0
     },
-    "Result": [
-        "29-28 Nasa",
-        "30-27 Cryink",
-        "29-28 Cryink",
-        "Cryink via split decision."
-    ]
+    "Winner": "cryink"
 }

@@ -3,6 +3,13 @@
         "Name": "Comicxsans_vs_Robbix",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Comicxsans",
+        "29-27 Comicxsans",
+        "Comicxsans via decision.",
+        "DECISION"
+    ],
     "Comicxsans": {
         "Strikes Landed": 14,
         "Strikes Thrown": 23,
@@ -35,9 +42,5 @@
         "Submissions Attempted": 0,
         "Piledrived": 1
     },
-    "Result": [
-        "29-27 Comicxsans",
-        "29-27 Comicxsans",
-        "Comicxsans via decision."
-    ]
+    "Winner": "comicxsans"
 }

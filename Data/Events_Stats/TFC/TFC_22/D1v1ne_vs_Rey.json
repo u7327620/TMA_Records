@@ -3,6 +3,13 @@
         "Name": "D1v1ne_vs_Rey",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "29-28 D1v1ne",
+        "29-28 D1v1ne",
+        "D1v1ne via decision.",
+        "DECISION"
+    ],
     "D1v1ne": {
         "Strikes Landed": 19,
         "Strikes Thrown": 49,
@@ -40,9 +47,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 D1v1ne",
-        "29-28 D1v1ne",
-        "D1v1ne via decision."
-    ]
+    "Winner": "d1v1ne"
 }

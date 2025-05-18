@@ -3,6 +3,13 @@
         "Name": "Reclusivx_vs_Sparturnha",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "30-28 Sparturnha",
+        "30-28 Sparturnha",
+        "Sparturnha via decision.",
+        "DECISION"
+    ],
     "Reclusivx": {
         "Strikes Landed": 8,
         "Strikes Thrown": 13,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-28 Sparturnha",
-        "30-28 Sparturnha",
-        "Sparturnha via decision."
-    ]
+    "Winner": "sparturnha"
 }

@@ -3,6 +3,13 @@
         "Name": "LokkiXD_vs_BongDaBang",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "29-28 LokkiXD",
+        "29-28 LokkiXD",
+        "LokkiXD via decision.",
+        "DECISION"
+    ],
     "LokkiXD": {
         "Strikes Landed": 14,
         "Strikes Thrown": 30,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 LokkiXD",
-        "29-28 LokkiXD",
-        "LokkiXD via decision."
-    ]
+    "Winner": "lokkixd"
 }

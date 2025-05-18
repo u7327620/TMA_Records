@@ -3,6 +3,10 @@
         "Name": "comicxsans_vs_Fedoraman64",
         "Event": "TFC_8"
     },
+    "Records": [],
+    "Result": [
+        "Fedoraman64 via TKO in the 3rd round with 758 frames surpassed.."
+    ],
     "comicxsans": {
         "Strikes Landed": 16,
         "Strikes Thrown": 33,
@@ -33,5 +37,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": "Fedoraman64 via TKO in the 3rd round with 758 frames surpassed.."
+    "Winner": "fedoraman64"
 }

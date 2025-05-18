@@ -3,6 +3,14 @@
         "Name": "Eamon_vs_Fedoraman64",
         "Event": "TFC_10"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Eamon",
+        "30-27 Eamon",
+        "30-27 Eamon",
+        "Eamon via decision.",
+        "DECISION"
+    ],
     "Eamon": {
         "Strikes Landed": 22,
         "Strikes Thrown": 35,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Eamon",
-        "30-27 Eamon",
-        "30-27 Eamon",
-        "Eamon via decision."
-    ]
+    "Winner": "eamon"
 }

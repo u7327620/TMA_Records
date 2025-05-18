@@ -3,6 +3,14 @@
         "Name": "jelaun_vs_Fuuji",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Fuuji",
+        "29-28 Jelaun",
+        "29-28 Jelaun",
+        "Jelaun via decision.",
+        "DECISION"
+    ],
     "Fuuji": {
         "Strikes Landed": 7,
         "Strikes Thrown": 20,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Fuuji",
-        "29-28 Jelaun",
-        "29-28 Jelaun",
-        "Jelaun via decision."
-    ]
+    "Winner": "jelaun"
 }

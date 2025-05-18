@@ -3,6 +3,13 @@
         "Name": "Semari_vs_Vani3",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Vani3",
+        "30-29 Vani3",
+        "Vani3 via decision.",
+        "DECISION"
+    ],
     "Semari": {
         "Strikes Landed": 6,
         "Strikes Thrown": 12,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Vani3",
-        "30-29 Vani3",
-        "Vani3 via decision."
-    ]
+    "Winner": "vani3"
 }

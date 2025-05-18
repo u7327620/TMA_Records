@@ -3,6 +3,13 @@
         "Name": "Cboh_vs_Dyingderp",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Cboh",
+        "30-29 Cboh",
+        "Cboh via decision.",
+        "DECISION"
+    ],
     "Cboh": {
         "Strikes Landed": 13,
         "Strikes Thrown": 21,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Cboh",
-        "30-29 Cboh",
-        "Cboh via decision."
-    ]
+    "Winner": "cboh"
 }

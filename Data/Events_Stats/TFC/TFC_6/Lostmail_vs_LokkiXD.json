@@ -3,6 +3,13 @@
         "Name": "Lostmail_vs_LokkiXD",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "29-28 LokkiXD",
+        "29-28 LokkiXD",
+        "LokkiXD via decision.",
+        "DECISION"
+    ],
     "Lostmail": {
         "Strikes Landed": 4,
         "Strikes Thrown": 16,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 75.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 LokkiXD",
-        "29-28 LokkiXD",
-        "LokkiXD via decision."
-    ]
+    "Winner": "lokkixd"
 }

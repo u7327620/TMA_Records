@@ -3,6 +3,13 @@
         "Name": "Supatroop_vs_fanczBR",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "29-28 FanczBR",
+        "29-28 FanczBR",
+        "FanczBR via decision.",
+        "DECISION"
+    ],
     "Supatroop": {
         "Strikes Landed": 9,
         "Strikes Thrown": 23,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 FanczBR",
-        "29-28 FanczBR",
-        "FanczBR via decision."
-    ]
+    "Winner": "fanczbr"
 }

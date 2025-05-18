@@ -3,6 +3,13 @@
         "Name": "D1v1ne_vs_Dyingderp",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 dyingderp",
+        "29-28 dyingderp",
+        "dyingderp via decision.",
+        "DECISION"
+    ],
     "D1v1ne": {
         "Strikes Landed": 12,
         "Strikes Thrown": 26,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 dyingderp",
-        "29-28 dyingderp",
-        "dyingderp via decision."
-    ]
+    "Winner": "dyingderp"
 }

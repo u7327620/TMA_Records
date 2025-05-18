@@ -3,6 +3,14 @@
         "Name": "Semari_vs_Rouxster",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "39-38 Semari",
+        "39-37 Semari",
+        "tiebreaker",
+        "Semari via decision.",
+        "DECISION"
+    ],
     "Semari": {
         "Strikes Landed": 18,
         "Strikes Thrown": 41,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "39-38 Semari",
-        "39-37 Semari",
-        "tiebreaker",
-        "Semari via decision."
-    ]
+    "Winner": "semari"
 }

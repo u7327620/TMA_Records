@@ -3,6 +3,13 @@
         "Name": "caezer_vs_pianoo",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "30-26 Caezer",
+        "30-27 Caezer",
+        "Caezer via decision.",
+        "DECISION"
+    ],
     "pianoo": {
         "Strikes Landed": 6,
         "Strikes Thrown": 33,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "30-26 Caezer",
-        "30-27 Caezer",
-        "Caezer via decision."
-    ]
+    "Winner": "caezer"
 }

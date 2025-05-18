@@ -3,6 +3,13 @@
         "Name": "BongDaBang_vs_Unihunter",
         "Event": "TFC_2"
     },
+    "Records": [],
+    "Result": [
+        "39-38 Bong",
+        "39-38 Bong",
+        "Bong via decision.",
+        "DECISION"
+    ],
     "BongDaBang": {
         "Strikes Landed": 6,
         "Strikes Thrown": 15,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "39-38 Bong",
-        "39-38 Bong",
-        "Bong via decision."
-    ]
+    "Winner": "bong"
 }

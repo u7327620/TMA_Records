@@ -3,6 +3,12 @@
         "Name": "Semari_vs_Glimpsed",
         "Event": "TFC_15"
     },
+    "Records": [],
+    "Result": [
+        "in the 3rd round",
+        "Semari via forfeit.",
+        "FORFEIT"
+    ],
     "Semari": {
         "Strikes Landed": 17,
         "Strikes Thrown": 27,
@@ -34,8 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "in the 3rd round",
-        "Semari via forfeit."
-    ]
+    "Winner": "semari"
 }

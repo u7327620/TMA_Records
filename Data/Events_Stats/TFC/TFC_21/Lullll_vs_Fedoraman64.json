@@ -6,6 +6,14 @@
             "5 3000 FRAME ROUNDS"
         ]
     },
+    "Records": [],
+    "Result": [
+        "48-47 Lullll",
+        "48-47 Lullll",
+        "48-47 Lullll",
+        "Lullll via unanimous decision.",
+        "DECISION"
+    ],
     "Lullll": {
         "Strikes Landed": 41,
         "Strikes Thrown": 74,
@@ -42,10 +50,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "48-47 Lullll",
-        "48-47 Lullll",
-        "48-47 Lullll",
-        "Lullll via unanimous decision."
-    ]
+    "Winner": "lullll"
 }

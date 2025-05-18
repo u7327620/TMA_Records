@@ -3,6 +3,12 @@
         "Name": "Sorude_vs_Reclusivx",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "in the 3rd round",
+        "Sorude via forfeit.",
+        "FORFEIT"
+    ],
     "Sorude": {
         "Strikes Landed": 9,
         "Strikes Thrown": 18,
@@ -33,8 +39,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "in the 3rd round",
-        "Sorude via forfeit."
-    ]
+    "Winner": "sorude"
 }

@@ -3,6 +3,13 @@
         "Name": "Comicxsans_vs_Supatroop",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Supatroop",
+        "29-28 Supatroop",
+        "Supatroop via decision.",
+        "DECISION"
+    ],
     "Comicxsans": {
         "Strikes Landed": 9,
         "Strikes Thrown": 14,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Supatroop",
-        "29-28 Supatroop",
-        "Supatroop via decision."
-    ]
+    "Winner": "supatroop"
 }

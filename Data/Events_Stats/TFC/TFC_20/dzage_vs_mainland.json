@@ -3,6 +3,13 @@
         "Name": "dzage_vs_mainland",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Mainland",
+        "29-28 Mainland",
+        "Mainland via decision.",
+        "DECISION"
+    ],
     "dzage": {
         "Strikes Landed": 20,
         "Strikes Thrown": 34,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 33.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Mainland",
-        "29-28 Mainland",
-        "Mainland via decision."
-    ]
+    "Winner": "mainland"
 }

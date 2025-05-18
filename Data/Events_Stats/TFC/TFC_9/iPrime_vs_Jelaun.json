@@ -3,6 +3,13 @@
         "Name": "iPrime_vs_Jelaun",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "29-28 iPrime",
+        "29-28 iPrime",
+        "iPrime via decision.",
+        "DECISION"
+    ],
     "iPrime": {
         "Strikes Landed": 8,
         "Strikes Thrown": 24,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 iPrime",
-        "29-28 iPrime",
-        "iPrime via decision."
-    ]
+    "Winner": "iprime"
 }

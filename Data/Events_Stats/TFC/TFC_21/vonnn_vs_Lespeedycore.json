@@ -3,6 +3,14 @@
         "Name": "vonnn_vs_Lespeedycore",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Lespeedycore",
+        "29-29 Draw",
+        "29-28 Lespeedycore",
+        "Lespeedycore via majority decision.",
+        "DECISION"
+    ],
     "vonnn": {
         "Strikes Landed": 11,
         "Strikes Thrown": 18,
@@ -39,10 +47,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Lespeedycore",
-        "29-29 Draw",
-        "29-28 Lespeedycore",
-        "Lespeedycore via majority decision."
-    ]
+    "Winner": "lespeedycore"
 }

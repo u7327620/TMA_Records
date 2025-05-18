@@ -6,6 +6,14 @@
             "5 ROUND FIGHT (2 OT rounds)"
         ]
     },
+    "Records": [],
+    "Result": [
+        "49-45 Odyss (1 point deduction for danew)",
+        "49-48 Danewninja (1 point deduction for danew)",
+        "49-48 Danewninja (1 point deduction for danew)",
+        "Danewninja via decision.",
+        "DECISION"
+    ],
     "Odyss": {
         "Strikes Landed": 20,
         "Strikes Thrown": 62,
@@ -43,10 +51,5 @@
         "Submissions Attempted": 0,
         "Most overtime rounds in a fight,": 2
     },
-    "Result": [
-        "49-45 Odyss (1 point deduction for danew)",
-        "49-48 Danewninja (1 point deduction for danew)",
-        "49-48 Danewninja (1 point deduction for danew)",
-        "Danewninja via decision."
-    ]
+    "Winner": "danewninja"
 }

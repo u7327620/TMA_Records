@@ -3,6 +3,13 @@
         "Name": "d1v1ne_vs_noob02s",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-27 (point deducted from d1v1ne for cheese at 800 frames in R2)",
+        "29-27 (point deducted from d1v1ne)",
+        "D1v1ne via decision.",
+        "DECISION"
+    ],
     "d1v1ne": {
         "Strikes Landed": 2,
         "Strikes Thrown": 10,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 (point deducted from d1v1ne for cheese at 800 frames in R2)",
-        "29-27 (point deducted from d1v1ne)",
-        "D1v1ne via decision."
-    ]
+    "Winner": "d1v1ne"
 }

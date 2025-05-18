@@ -3,6 +3,14 @@
         "Name": "Footlox_vs_Dogki12",
         "Event": "TFC_10"
     },
+    "Records": [],
+    "Result": [
+        "30-27 dogki12",
+        "30-28 dogki12",
+        "30-28 dogki12",
+        "dogki12 via decision.",
+        "DECISION"
+    ],
     "Footlox": {
         "Strikes Landed": 10,
         "Strikes Thrown": 24,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 dogki12",
-        "30-28 dogki12",
-        "30-28 dogki12",
-        "dogki12 via decision."
-    ]
+    "Winner": "dogki12"
 }

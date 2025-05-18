@@ -3,6 +3,12 @@
         "Name": "Reiki_vs_Danewninja",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "28-28 Draw",
+        "28-28 Draw",
+        "Majority draw."
+    ],
     "Reiki": {
         "Strikes Landed": 10,
         "Strikes Thrown": 25,
@@ -32,10 +38,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "28-28 Draw",
-        "28-28 Draw",
-        "Majority draw."
-    ]
+    }
 }

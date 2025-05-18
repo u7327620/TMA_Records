@@ -3,6 +3,13 @@
         "Name": "raiku_vs_bloodyjay",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 raiku",
+        "29-28 raiku",
+        "raiku via decision.",
+        "DECISION"
+    ],
     "raiku": {
         "Strikes Landed": 18,
         "Strikes Thrown": 42,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 raiku",
-        "29-28 raiku",
-        "raiku via decision."
-    ]
+    "Winner": "raiku"
 }

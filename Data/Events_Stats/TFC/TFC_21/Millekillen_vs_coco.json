@@ -3,6 +3,14 @@
         "Name": "Millekillen_vs_coco",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Coco",
+        "29-28 Millekillen",
+        "29-28 Millekillen",
+        "Millekillen via split decision.",
+        "DECISION"
+    ],
     "coco": {
         "Strikes Landed": 11,
         "Strikes Thrown": 33,
@@ -39,10 +47,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Coco",
-        "29-28 Millekillen",
-        "29-28 Millekillen",
-        "Millekillen via split decision."
-    ]
+    "Winner": "millekillen"
 }

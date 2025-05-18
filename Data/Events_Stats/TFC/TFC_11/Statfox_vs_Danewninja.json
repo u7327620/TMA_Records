@@ -3,6 +3,13 @@
         "Name": "Statfox_vs_Danewninja",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Statfox",
+        "30-27 Statfox",
+        "Statfox via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 10,
         "Strikes Thrown": 34,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Statfox",
-        "30-27 Statfox",
-        "Statfox via decision."
-    ]
+    "Winner": "statfox"
 }

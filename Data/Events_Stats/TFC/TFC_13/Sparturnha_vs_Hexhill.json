@@ -3,6 +3,11 @@
         "Name": "Sparturnha_vs_Hexhill",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "they fucking dirtbiked for the 3rd round.",
+        "Undocumented."
+    ],
     "Sparturnha": {
         "Strikes Landed": 7,
         "Strikes Thrown": 18,
@@ -34,9 +39,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0,
         "Hugs": 1
-    },
-    "Result": [
-        "they fucking dirtbiked for the 3rd round.",
-        "Undocumented."
-    ]
+    }
 }

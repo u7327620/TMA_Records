@@ -3,6 +3,13 @@
         "Name": "yahummy_vs_Rouxster 2",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Rouxster",
+        "29-28 Rouxster",
+        "Rouxster via decision.",
+        "DECISION"
+    ],
     "yahummy": {
         "Strikes Landed": 16,
         "Strikes Thrown": 26,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Rouxster",
-        "29-28 Rouxster",
-        "Rouxster via decision."
-    ]
+    "Winner": "rouxster"
 }

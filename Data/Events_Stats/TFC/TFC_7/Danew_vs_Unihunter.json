@@ -3,6 +3,13 @@
         "Name": "Danew_vs_Unihunter",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "30-27 unihunter",
+        "29-28 unihunter",
+        "unihunter via decision.",
+        "DECISION"
+    ],
     "unihunter": {
         "Strikes Landed": 19,
         "Strikes Thrown": 47,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 unihunter",
-        "29-28 unihunter",
-        "unihunter via decision."
-    ]
+    "Winner": "unihunter"
 }

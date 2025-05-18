@@ -3,6 +3,13 @@
         "Name": "Cryonpen_vs_Renixxx",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "38-37 Cryonpen",
+        "38-37 Cryonpen",
+        "Cryonpen via decision.",
+        "DECISION"
+    ],
     "Cryonpen": {
         "Strikes Landed": 19,
         "Strikes Thrown": 33,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "38-37 Cryonpen",
-        "38-37 Cryonpen",
-        "Cryonpen via decision."
-    ]
+    "Winner": "cryonpen"
 }

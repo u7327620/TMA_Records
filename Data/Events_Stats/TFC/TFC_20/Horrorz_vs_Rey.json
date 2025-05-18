@@ -3,6 +3,13 @@
         "Name": "Horrorz_vs_Rey",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Rey",
+        "30-27 Rey",
+        "Rey via decision.",
+        "DECISION"
+    ],
     "Horrorz": {
         "Strikes Landed": 12,
         "Strikes Thrown": 46,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Rey",
-        "30-27 Rey",
-        "Rey via decision."
-    ]
+    "Winner": "rey"
 }

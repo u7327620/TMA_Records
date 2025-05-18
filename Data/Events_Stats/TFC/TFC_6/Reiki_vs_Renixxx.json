@@ -3,6 +3,14 @@
         "Name": "Reiki_vs_Renixxx",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "28-26 Reiki",
+        "29-28 Renixxx",
+        "29-28 Reiki",
+        "Reiki via decision.",
+        "DECISION"
+    ],
     "Reiki": {
         "Strikes Landed": 10,
         "Strikes Thrown": 23,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "28-26 Reiki",
-        "29-28 Renixxx",
-        "29-28 Reiki",
-        "Reiki via decision."
-    ]
+    "Winner": "reiki"
 }

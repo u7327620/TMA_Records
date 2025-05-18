@@ -6,6 +6,15 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [
+        "possible record for strikes thrown/absorbed, will have to check later"
+    ],
+    "Result": [
+        "50-45 rYCArdo10",
+        "50-45 rYCArdo10",
+        "rYCArdo10 via decision.",
+        "DECISION"
+    ],
     "Hollow": {
         "Strikes Landed": 22,
         "Strikes Thrown": 64,
@@ -36,12 +45,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Records": [
-        "possible record for strikes thrown/absorbed, will have to check later"
-    ],
-    "Result": [
-        "50-45 rYCArdo10",
-        "50-45 rYCArdo10",
-        "rYCArdo10 via decision."
-    ]
+    "Winner": "rycardo10"
 }

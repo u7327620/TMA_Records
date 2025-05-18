@@ -3,6 +3,13 @@
         "Name": "Linxz_vs_Rouxster",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Linxz",
+        "30-27 Linxz",
+        "Linxz via decision.",
+        "DECISION"
+    ],
     "Linxz": {
         "Strikes Landed": 16,
         "Strikes Thrown": 23,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 2
     },
-    "Result": [
-        "30-27 Linxz",
-        "30-27 Linxz",
-        "Linxz via decision."
-    ]
+    "Winner": "linxz"
 }

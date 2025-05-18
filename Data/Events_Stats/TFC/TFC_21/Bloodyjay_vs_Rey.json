@@ -3,6 +3,13 @@
         "Name": "Bloodyjay_vs_Rey",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Bloodyjay",
+        "29-28 Bloodyjay",
+        "Bloodyjay via decision.",
+        "DECISION"
+    ],
     "Bloodyjay": {
         "Strikes Landed": 19,
         "Strikes Thrown": 30,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Bloodyjay",
-        "29-28 Bloodyjay",
-        "Bloodyjay via decision."
-    ]
+    "Winner": "bloodyjay"
 }

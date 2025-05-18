@@ -3,6 +3,12 @@
         "Name": "Kapacbbbb_vs_Shine",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "29-29 Draw",
+        "29-29 Draw",
+        "Majority draw."
+    ],
     "Kapacbbbb": {
         "Strikes Landed": 8,
         "Strikes Thrown": 25,
@@ -32,10 +38,5 @@
         "Times Taken Down": 2,
         "Takedown Defense Rate": 33.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-29 Draw",
-        "29-29 Draw",
-        "Majority draw."
-    ]
+    }
 }

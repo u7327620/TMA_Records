@@ -3,6 +3,14 @@
         "Name": "Bossyninja_vs_Comicxsans",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "30-28 Comicxsans",
+        "29-29 Draw",
+        "29-28 Comicxsans",
+        "Comicxsans via majority decision.",
+        "DECISION"
+    ],
     "Bossyninja": {
         "Strikes Landed": 9,
         "Strikes Thrown": 18,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "30-28 Comicxsans",
-        "29-29 Draw",
-        "29-28 Comicxsans",
-        "Comicxsans via majority decision."
-    ]
+    "Winner": "comicxsans"
 }

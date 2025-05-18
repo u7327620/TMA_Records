@@ -6,6 +6,12 @@
             "TITLE FIGHT - 5 5000 FRAME ROUNDS"
         ]
     },
+    "Records": [],
+    "Result": [
+        "Lullll forfeited after the 2nd round finished.",
+        "Semari via forfeit.",
+        "FORFEIT"
+    ],
     "Semari": {
         "Strikes Landed": 40,
         "Strikes Thrown": 88,
@@ -42,8 +48,5 @@
         "Takedown Defense Rate": 71.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "Lullll forfeited after the 2nd round finished.",
-        "Semari via forfeit."
-    ]
+    "Winner": "semari"
 }

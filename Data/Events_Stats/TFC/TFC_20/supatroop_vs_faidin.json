@@ -3,6 +3,13 @@
         "Name": "supatroop_vs_faidin",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Faidin",
+        "29-28 Faidin",
+        "Faidin via decision.",
+        "DECISION"
+    ],
     "supatroop": {
         "Strikes Landed": 8,
         "Strikes Thrown": 23,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 Faidin",
-        "29-28 Faidin",
-        "Faidin via decision."
-    ]
+    "Winner": "faidin"
 }

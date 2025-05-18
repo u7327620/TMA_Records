@@ -3,6 +3,13 @@
         "Name": "Odyss_vs_Lespeedycore",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Odyss",
+        "29-28 Odyss",
+        "Odyss via decision.",
+        "DECISION"
+    ],
     "Odyss": {
         "Strikes Landed": 10,
         "Strikes Thrown": 44,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Odyss",
-        "29-28 Odyss",
-        "Odyss via decision."
-    ]
+    "Winner": "odyss"
 }

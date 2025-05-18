@@ -3,6 +3,13 @@
         "Name": "Darkaiser_vs_Slutmoptiq",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Darkaiser",
+        "28-28 Draw (Point deducted from darkaiser in the third round for cheese (frame 65 to frame 10) 2 warnings were given for similar moves prior to the deduction)",
+        "28-28 Draw (Point deducted from Darkaiser R3 for cheese through frames 65-10 as well as timidity)",
+        "Majority draw."
+    ],
     "Slutmoptiq": {
         "Strikes Landed": 11,
         "Strikes Thrown": 28,
@@ -32,11 +39,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-28 Darkaiser",
-        "28-28 Draw (Point deducted from darkaiser in the third round for cheese (frame 65 to frame 10) 2 warnings were given for similar moves prior to the deduction)",
-        "28-28 Draw (Point deducted from Darkaiser R3 for cheese through frames 65-10 as well as timidity)",
-        "Majority draw."
-    ]
+    }
 }

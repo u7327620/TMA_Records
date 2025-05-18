@@ -3,6 +3,10 @@
         "Name": "Rouxster_vs_Bladerunnr 2",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "Rouxster via TKO in the 3rd round with 944 frames surpassed."
+    ],
     "Rouxster": {
         "Strikes Landed": 20,
         "Strikes Thrown": 33,
@@ -33,5 +37,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": "Rouxster via TKO in the 3rd round with 944 frames surpassed."
+    "Winner": "rouxster"
 }

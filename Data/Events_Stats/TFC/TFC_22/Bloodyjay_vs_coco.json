@@ -3,6 +3,12 @@
         "Name": "Bloodyjay_vs_coco",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "coco forfeits with about 200 frames surpassed in the 2nd round.",
+        "Bloodyjay via forfeit.",
+        "FORFEIT"
+    ],
     "Bloodyjay": {
         "Strikes Landed": 8,
         "Strikes Thrown": 19,
@@ -39,8 +45,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "coco forfeits with about 200 frames surpassed in the 2nd round.",
-        "Bloodyjay via forfeit."
-    ]
+    "Winner": "bloodyjay"
 }

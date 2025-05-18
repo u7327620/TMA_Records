@@ -3,6 +3,13 @@
         "Name": "Kamara_vs_Mainland",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Kamara",
+        "30-27 Kamara",
+        "Kamara via decision.",
+        "DECISION"
+    ],
     "Kamara": {
         "Strikes Landed": 17,
         "Strikes Thrown": 37,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Kamara",
-        "30-27 Kamara",
-        "Kamara via decision."
-    ]
+    "Winner": "kamara"
 }

@@ -3,6 +3,13 @@
         "Name": "bladerunnr_vs_kamara",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Kamara",
+        "29-28 Kamara",
+        "Kamara via decision.",
+        "DECISION"
+    ],
     "bladerunnr": {
         "Strikes Landed": 9,
         "Strikes Thrown": 32,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 75.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Kamara",
-        "29-28 Kamara",
-        "Kamara via decision."
-    ]
+    "Winner": "kamara"
 }

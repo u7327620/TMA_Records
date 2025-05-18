@@ -3,6 +3,13 @@
         "Name": "Dyingderp_vs_Vertex",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Vertex",
+        "29-28 Vertex",
+        "Vertex via decision.",
+        "DECISION"
+    ],
     "Dyingderp": {
         "Strikes Landed": 5,
         "Strikes Thrown": 24,
@@ -35,9 +42,5 @@
         "Submissions Attempted": 0,
         "Eamon Smashed": 1
     },
-    "Result": [
-        "29-28 Vertex",
-        "29-28 Vertex",
-        "Vertex via decision."
-    ]
+    "Winner": "vertex"
 }

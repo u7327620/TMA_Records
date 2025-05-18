@@ -3,6 +3,13 @@
         "Name": "Danewninja_vs_Exzplode",
         "Event": "TFC_5"
     },
+    "Records": [],
+    "Result": [
+        "30-27 exzplode",
+        "30-27 exzplode",
+        "exzplode via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 9,
         "Strikes Thrown": 29,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 exzplode",
-        "30-27 exzplode",
-        "exzplode via decision."
-    ]
+    "Winner": "exzplode"
 }

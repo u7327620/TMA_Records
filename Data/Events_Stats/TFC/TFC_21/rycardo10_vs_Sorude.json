@@ -3,6 +3,13 @@
         "Name": "rycardo10_vs_Sorude",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Rycardo10",
+        "29-28 Sorude",
+        "29-29 Draw",
+        "Split draw."
+    ],
     "rycardo10": {
         "Strikes Landed": 10,
         "Strikes Thrown": 25,
@@ -38,11 +45,5 @@
         "Times Taken Down": 1,
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-28 Rycardo10",
-        "29-28 Sorude",
-        "29-29 Draw",
-        "Split draw."
-    ]
+    }
 }

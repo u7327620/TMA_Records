@@ -3,6 +3,12 @@
         "Name": "Lespeedycore_vs_Jimu",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "Jimu refused to continue after the first round.",
+        "Lespeedycore via forfeit.",
+        "FORFEIT"
+    ],
     "Lespeedycore": {
         "Strikes Landed": 3,
         "Strikes Thrown": 9,
@@ -39,8 +45,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "Jimu refused to continue after the first round.",
-        "Lespeedycore via forfeit."
-    ]
+    "Winner": "lespeedycore"
 }

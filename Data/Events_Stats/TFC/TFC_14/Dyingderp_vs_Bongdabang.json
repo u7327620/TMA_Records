@@ -3,6 +3,13 @@
         "Name": "Dyingderp_vs_Bongdabang",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Bongdabang",
+        "29-28 Bongdabang",
+        "Bongdabang via decision.",
+        "DECISION"
+    ],
     "Dyingderp": {
         "Strikes Landed": 18,
         "Strikes Thrown": 29,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Bongdabang",
-        "29-28 Bongdabang",
-        "Bongdabang via decision."
-    ]
+    "Winner": "bongdabang"
 }

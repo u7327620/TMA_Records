@@ -3,6 +3,13 @@
         "Name": "comicxsans_vs_WesMontag",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "30-27 WesMontag",
+        "29-27 WesMontag",
+        "WesMontag via decision.",
+        "DECISION"
+    ],
     "comicxsans": {
         "Strikes Landed": 16,
         "Strikes Thrown": 29,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 WesMontag",
-        "29-27 WesMontag",
-        "WesMontag via decision."
-    ]
+    "Winner": "wesmontag"
 }

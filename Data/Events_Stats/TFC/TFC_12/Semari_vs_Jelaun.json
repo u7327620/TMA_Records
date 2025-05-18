@@ -3,6 +3,13 @@
         "Name": "Semari_vs_Jelaun",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Jelaun",
+        "29-28 Jelaun",
+        "Jelaun via decision.",
+        "DECISION"
+    ],
     "Semari": {
         "Strikes Landed": 13,
         "Strikes Thrown": 22,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Jelaun",
-        "29-28 Jelaun",
-        "Jelaun via decision."
-    ]
+    "Winner": "jelaun"
 }

@@ -3,6 +3,13 @@
         "Name": "HAWK152_vs_BongDaBang",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Hawk",
+        "30-26 Hawk",
+        "Hawk via decision.",
+        "DECISION"
+    ],
     "HAWK152": {
         "Strikes Landed": 11,
         "Strikes Thrown": 23,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 Hawk",
-        "30-26 Hawk",
-        "Hawk via decision."
-    ]
+    "Winner": "hawk"
 }

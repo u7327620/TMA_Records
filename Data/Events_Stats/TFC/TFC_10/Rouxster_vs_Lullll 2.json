@@ -6,6 +6,13 @@
             "5 ROUND FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "48-48 Draw",
+        "48-48 Draw",
+        "48-48 Draw",
+        "Majority draw."
+    ],
     "Rouxster": {
         "Strikes Landed": 16,
         "Strikes Thrown": 28,
@@ -42,11 +49,5 @@
     },
     "Takedown Defense Rate": {
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "48-48 Draw",
-        "48-48 Draw",
-        "48-48 Draw",
-        "Majority draw."
-    ]
+    }
 }

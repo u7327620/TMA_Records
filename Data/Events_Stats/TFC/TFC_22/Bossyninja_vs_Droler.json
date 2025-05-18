@@ -3,6 +3,13 @@
         "Name": "Bossyninja_vs_Droler",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "29-28 droler",
+        "29-28 droler",
+        "droler via decision.",
+        "DECISION"
+    ],
     "Bossyninja": {
         "Strikes Landed": 6,
         "Strikes Thrown": 23,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 droler",
-        "29-28 droler",
-        "droler via decision."
-    ]
+    "Winner": "droler"
 }

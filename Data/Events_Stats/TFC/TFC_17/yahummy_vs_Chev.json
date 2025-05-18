@@ -3,6 +3,14 @@
         "Name": "yahummy_vs_Chev",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Chev",
+        "29-28 Chev",
+        "28-28 Draw (point deducted from Chev for an egregious phase at frame 385 and crotch kick at frame 125 in R2)",
+        "Chev via decision.",
+        "DECISION"
+    ],
     "yahummy": {
         "Strikes Landed": 15,
         "Strikes Thrown": 29,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Chev",
-        "29-28 Chev",
-        "28-28 Draw (point deducted from Chev for an egregious phase at frame 385 and crotch kick at frame 125 in R2)",
-        "Chev via decision."
-    ]
+    "Winner": "chev"
 }

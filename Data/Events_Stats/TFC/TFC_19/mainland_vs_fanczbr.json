@@ -3,6 +3,13 @@
         "Name": "mainland_vs_fanczbr",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Mainland",
+        "30-27 Mainland",
+        "Mainland via decision.",
+        "DECISION"
+    ],
     "mainland": {
         "Strikes Landed": 23,
         "Strikes Thrown": 39,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Mainland",
-        "30-27 Mainland",
-        "Mainland via decision."
-    ]
+    "Winner": "mainland"
 }

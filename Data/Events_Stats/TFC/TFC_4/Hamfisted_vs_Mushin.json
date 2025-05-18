@@ -3,6 +3,13 @@
         "Name": "Hamfisted_vs_Mushin",
         "Event": "TFC_4"
     },
+    "Records": [],
+    "Result": [
+        "30-28 ham",
+        "30-28 ham",
+        "hamfisted via decision.",
+        "DECISION"
+    ],
     "Mushin": {
         "Strikes Landed": 5,
         "Strikes Thrown": 23,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-28 ham",
-        "30-28 ham",
-        "hamfisted via decision."
-    ]
+    "Winner": "hamfisted"
 }

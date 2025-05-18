@@ -3,6 +3,13 @@
         "Name": "sushiroll_vs_Exzplode",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Exzplode",
+        "29-29 draw",
+        "29-29 draw",
+        "Majority draw."
+    ],
     "Exzplode": {
         "Strikes Landed": 10,
         "Strikes Thrown": 32,
@@ -32,11 +39,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-28 Exzplode",
-        "29-29 draw",
-        "29-29 draw",
-        "Majority draw."
-    ]
+    }
 }

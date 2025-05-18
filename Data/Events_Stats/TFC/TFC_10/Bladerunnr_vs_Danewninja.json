@@ -3,6 +3,10 @@
         "Name": "Bladerunnr_vs_Danewninja",
         "Event": "TFC_10"
     },
+    "Records": [],
+    "Result": [
+        "Bladerunnr via submission (flying armbar) in the 3rd round with 940 frames surpassed."
+    ],
     "Bladerunnr": {
         "Strikes Landed": 16,
         "Strikes Thrown": 26,
@@ -34,5 +38,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": "Bladerunnr via submission (flying armbar) in the 3rd round with 940 frames surpassed."
+    "Winner": "bladerunnr"
 }

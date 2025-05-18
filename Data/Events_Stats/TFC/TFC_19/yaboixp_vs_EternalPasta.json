@@ -3,6 +3,13 @@
         "Name": "yaboixp_vs_EternalPasta",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "30-28 yaboixp",
+        "29-29 draw",
+        "29-29 draw",
+        "Majority draw."
+    ],
     "yaboixp": {
         "Strikes Landed": 4,
         "Strikes Thrown": 24,
@@ -33,11 +40,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "30-28 yaboixp",
-        "29-29 draw",
-        "29-29 draw",
-        "Majority draw."
-    ]
+    }
 }

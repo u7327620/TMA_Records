@@ -3,6 +3,14 @@
         "Name": "Vlonenixks_vs_Cryink",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Cryink",
+        "28-28 Draw",
+        "29-28 Cryink",
+        "Cryink via decision.",
+        "DECISION"
+    ],
     "Vlonenixks": {
         "Strikes Landed": 15,
         "Strikes Thrown": 29,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Cryink",
-        "28-28 Draw",
-        "29-28 Cryink",
-        "Cryink via decision."
-    ]
+    "Winner": "cryink"
 }

@@ -3,6 +3,15 @@
         "Name": "Mushin_vs_HAWK152",
         "Event": "TFC_7"
     },
+    "Records": [
+        "-Highest striking differential in a fight, +23-"
+    ],
+    "Result": [
+        "30-25 Mushin",
+        "30-26 Mushin",
+        "Mushin via decision.",
+        "DECISION"
+    ],
     "Mushin": {
         "Strikes Landed": 24,
         "Strikes Thrown": 28,
@@ -33,12 +42,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Records": [
-        "-Highest striking differential in a fight, +23-"
-    ],
-    "Result": [
-        "30-25 Mushin",
-        "30-26 Mushin",
-        "Mushin via decision."
-    ]
+    "Winner": "mushin"
 }

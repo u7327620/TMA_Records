@@ -6,6 +6,14 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "48-47 Semari",
+        "49-48 Semari",
+        "48-48 Draw",
+        "Semari via majority decision.",
+        "DECISION"
+    ],
     "Linxz": {
         "Strikes Landed": 11,
         "Strikes Thrown": 33,
@@ -36,10 +44,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "48-47 Semari",
-        "49-48 Semari",
-        "48-48 Draw",
-        "Semari via majority decision."
-    ]
+    "Winner": "semari"
 }

@@ -3,6 +3,13 @@
         "Name": "Hollow_vs_icyl",
         "Event": "TFC_3"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Hollow",
+        "29-27 Hollow",
+        "Hollow via decision.",
+        "DECISION"
+    ],
     "Hollow": {
         "Strikes Landed": 9,
         "Strikes Thrown": 25,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Hollow",
-        "29-27 Hollow",
-        "Hollow via decision."
-    ]
+    "Winner": "hollow"
 }

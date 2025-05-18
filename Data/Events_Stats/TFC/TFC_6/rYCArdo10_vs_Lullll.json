@@ -6,6 +6,13 @@
             "5 ROUND FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "50-44 rYCArdo10",
+        "50-44 rYCArdo10",
+        "rYCArdo10 via decision.",
+        "DECISION"
+    ],
     "rYCArdo10": {
         "Strikes Landed": 31,
         "Strikes Thrown": 60,
@@ -42,9 +49,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "50-44 rYCArdo10",
-        "50-44 rYCArdo10",
-        "rYCArdo10 via decision."
-    ]
+    "Winner": "rycardo10"
 }

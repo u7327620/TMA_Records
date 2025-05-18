@@ -3,6 +3,13 @@
         "Name": "Bladerunnr_vs_Seagal",
         "Event": "TFC_2"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Hollow",
+        "30-26 Hollow",
+        "Hollow via decision.",
+        "DECISION"
+    ],
     "Bladerunnr": {
         "Strikes Landed": 5,
         "Strikes Thrown": 14,
@@ -35,9 +42,5 @@
         "Submissions Attempted": 0,
         "Jerked off on opponent:": 1
     },
-    "Result": [
-        "30-27 Hollow",
-        "30-26 Hollow",
-        "Hollow via decision."
-    ]
+    "Winner": "hollow"
 }

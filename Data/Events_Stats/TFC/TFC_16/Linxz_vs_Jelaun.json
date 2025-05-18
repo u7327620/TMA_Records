@@ -6,6 +6,12 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "in the 1st round",
+        "Linxz via forfeit.",
+        "FORFEIT"
+    ],
     "Linxz": {
         "Strikes Landed": 7,
         "Strikes Thrown": 10,
@@ -36,8 +42,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "in the 1st round",
-        "Linxz via forfeit."
-    ]
+    "Winner": "linxz"
 }

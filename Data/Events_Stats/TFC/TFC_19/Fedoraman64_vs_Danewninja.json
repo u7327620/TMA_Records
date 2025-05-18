@@ -3,6 +3,13 @@
         "Name": "Fedoraman64_vs_Danewninja",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "30-26 Fedoraman64 (point deducted from danew for cheese from frames 775-750 in R2)",
+        "29-27 Fedoraman64 (deduction)",
+        "Fedoraman64 via decision.",
+        "DECISION"
+    ],
     "Fedoraman64": {
         "Strikes Landed": 10,
         "Strikes Thrown": 30,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-26 Fedoraman64 (point deducted from danew for cheese from frames 775-750 in R2)",
-        "29-27 Fedoraman64 (deduction)",
-        "Fedoraman64 via decision."
-    ]
+    "Winner": "fedoraman64"
 }

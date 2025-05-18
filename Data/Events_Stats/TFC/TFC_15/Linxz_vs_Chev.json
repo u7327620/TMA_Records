@@ -6,6 +6,12 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "in a tiebreaker",
+        "Linxz via decision.",
+        "DECISION"
+    ],
     "Linxz": {
         "Strikes Landed": 28,
         "Strikes Thrown": 59,
@@ -36,8 +42,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "in a tiebreaker",
-        "Linxz via decision."
-    ]
+    "Winner": "linxz"
 }

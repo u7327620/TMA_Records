@@ -3,6 +3,13 @@
         "Name": "Lullll_vs_HAWK152",
         "Event": "TFC_3"
     },
+    "Records": [],
+    "Result": [
+        "30-27 lullll",
+        "30-27 lullll",
+        "lullll via decision.",
+        "DECISION"
+    ],
     "Lullll": {
         "Strikes Landed": 10,
         "Strikes Thrown": 21,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 lullll",
-        "30-27 lullll",
-        "lullll via decision."
-    ]
+    "Winner": "lullll"
 }

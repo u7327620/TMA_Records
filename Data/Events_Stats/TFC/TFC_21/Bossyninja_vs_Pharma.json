@@ -3,6 +3,13 @@
         "Name": "Bossyninja_vs_Pharma",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "30-28 Bossyninja",
+        "30-28 Bossyninja",
+        "Bossyninja via decision.",
+        "DECISION"
+    ],
     "Bossyninja": {
         "Strikes Landed": 6,
         "Strikes Thrown": 18,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-28 Bossyninja",
-        "30-28 Bossyninja",
-        "Bossyninja via decision."
-    ]
+    "Winner": "bossyninja"
 }

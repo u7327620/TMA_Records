@@ -3,6 +3,13 @@
         "Name": "bossyninja_vs_Fuuji",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "29-27 bossyninja",
+        "29-28 bossyninja",
+        "bossyninja via decision.",
+        "DECISION"
+    ],
     "bossyninja": {
         "Strikes Landed": 12,
         "Strikes Thrown": 19,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 bossyninja",
-        "29-28 bossyninja",
-        "bossyninja via decision."
-    ]
+    "Winner": "bossyninja"
 }

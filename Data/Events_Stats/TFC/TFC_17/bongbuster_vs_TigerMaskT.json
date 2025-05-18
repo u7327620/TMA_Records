@@ -3,6 +3,13 @@
         "Name": "bongbuster_vs_TigerMaskT",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "29-28 bongbuster",
+        "29-29 Draw",
+        "29-29 Draw",
+        "Majority Draw."
+    ],
     "bongbuster": {
         "Strikes Landed": 4,
         "Strikes Thrown": 13,
@@ -32,11 +39,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-28 bongbuster",
-        "29-29 Draw",
-        "29-29 Draw",
-        "Majority Draw."
-    ]
+    }
 }

@@ -3,6 +3,14 @@
         "Name": "Mushin_vs_Lullll",
         "Event": "TFC_5"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Mushin",
+        "29-28 Lullll",
+        "29-28 Lullll",
+        "Lullll via decision.",
+        "DECISION"
+    ],
     "Mushin": {
         "Strikes Landed": 13,
         "Strikes Thrown": 27,
@@ -39,10 +47,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Mushin",
-        "29-28 Lullll",
-        "29-28 Lullll",
-        "Lullll via decision."
-    ]
+    "Winner": "lullll"
 }

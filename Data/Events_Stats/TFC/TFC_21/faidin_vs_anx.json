@@ -3,6 +3,13 @@
         "Name": "faidin_vs_anx",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 faidin",
+        "29-28 faidin",
+        "faidin via decision.",
+        "DECISION"
+    ],
     "faidin": {
         "Strikes Landed": 11,
         "Strikes Thrown": 25,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 faidin",
-        "29-28 faidin",
-        "faidin via decision."
-    ]
+    "Winner": "faidin"
 }

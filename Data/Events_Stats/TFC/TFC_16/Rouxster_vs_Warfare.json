@@ -3,6 +3,14 @@
         "Name": "Rouxster_vs_Warfare",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Warfare",
+        "29-28 Rouxster",
+        "29-28 Rouxster",
+        "Rouxster via decision.",
+        "DECISION"
+    ],
     "Rouxster": {
         "Strikes Landed": 22,
         "Strikes Thrown": 39,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Warfare",
-        "29-28 Rouxster",
-        "29-28 Rouxster",
-        "Rouxster via decision."
-    ]
+    "Winner": "rouxster"
 }

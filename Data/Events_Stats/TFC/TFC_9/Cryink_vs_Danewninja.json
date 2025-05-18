@@ -3,6 +3,12 @@
         "Name": "Cryink_vs_Danewninja",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "30-28 Danewninja",
+        "30-28 Danewninja",
+        "Undocumented."
+    ],
     "Danewninja": {
         "Strikes Landed": 12,
         "Strikes Thrown": 30,
@@ -32,10 +38,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "30-28 Danewninja",
-        "30-28 Danewninja",
-        "Undocumented."
-    ]
+    }
 }

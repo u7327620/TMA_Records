@@ -3,6 +3,12 @@
         "Name": "Danewninja_vs_Unity",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Unity",
+        "30-27 Unity",
+        "Undocumented."
+    ],
     "Danewninja": {
         "Strikes Landed": 6,
         "Strikes Thrown": 26,
@@ -32,10 +38,5 @@
         "Times Taken Down": 1,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "30-27 Unity",
-        "30-27 Unity",
-        "Undocumented."
-    ]
+    }
 }

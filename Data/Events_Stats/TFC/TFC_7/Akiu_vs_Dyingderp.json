@@ -3,6 +3,13 @@
         "Name": "Akiu_vs_Dyingderp",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "30-26 Akiu",
+        "30-27 Akiu",
+        "Akiu via decision.",
+        "DECISION"
+    ],
     "Akiu": {
         "Strikes Landed": 8,
         "Strikes Thrown": 20,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-26 Akiu",
-        "30-27 Akiu",
-        "Akiu via decision."
-    ]
+    "Winner": "akiu"
 }

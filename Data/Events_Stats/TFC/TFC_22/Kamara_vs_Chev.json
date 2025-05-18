@@ -3,6 +3,13 @@
         "Name": "Kamara_vs_Chev",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Chev",
+        "29-28 Chev",
+        "Chev via decision.",
+        "DECISION"
+    ],
     "Kamara": {
         "Strikes Landed": 14,
         "Strikes Thrown": 31,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Chev",
-        "29-28 Chev",
-        "Chev via decision."
-    ]
+    "Winner": "chev"
 }

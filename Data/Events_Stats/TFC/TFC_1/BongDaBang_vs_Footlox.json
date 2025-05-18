@@ -3,6 +3,11 @@
         "Name": "BongDaBang_vs_Footlox",
         "Event": "TFC_1"
     },
+    "Records": [],
+    "Result": [
+        "Footlox via decision.",
+        "DECISION"
+    ],
     "BongDaBang": {
         "Strikes Landed": 2,
         "Strikes Thrown": 16,
@@ -33,5 +38,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": "Footlox via decision."
+    "Winner": "footlox"
 }

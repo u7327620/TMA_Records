@@ -3,6 +3,12 @@
         "Name": "Jelaun_vs_Unity",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Unity",
+        "30-29 Unity",
+        "Undocumented."
+    ],
     "Jelaun": {
         "Strikes Landed": 8,
         "Strikes Thrown": 24,
@@ -32,10 +38,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-27 Unity",
-        "30-29 Unity",
-        "Undocumented."
-    ]
+    }
 }

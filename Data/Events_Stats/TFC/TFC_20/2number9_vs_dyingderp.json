@@ -3,6 +3,14 @@
         "Name": "2number9_vs_dyingderp",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "39-38 2number9",
+        "39-38 2number9",
+        "with a tiebreaker round",
+        "2number9 via decision.",
+        "DECISION"
+    ],
     "dyingderp": {
         "Strikes Landed": 8,
         "Strikes Thrown": 22,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 3
     },
-    "Result": [
-        "39-38 2number9",
-        "39-38 2number9",
-        "with a tiebreaker round",
-        "2number9 via decision."
-    ]
+    "Winner": "2number9"
 }

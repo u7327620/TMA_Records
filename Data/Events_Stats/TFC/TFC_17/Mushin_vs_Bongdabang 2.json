@@ -3,6 +3,13 @@
         "Name": "Mushin_vs_Bongdabang 2",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "30-25 Mushin",
+        "30-25 Mushin",
+        "Mushin via decision.",
+        "DECISION"
+    ],
     "Mushin": {
         "Strikes Landed": 22,
         "Strikes Thrown": 28,
@@ -34,9 +41,5 @@
         "Submissions Attempted": 0
     },
     "*in the 3rd round mushin passed the required strikes for a tko in gnp, but it was not scored a tko for some reason": {},
-    "Result": [
-        "30-25 Mushin",
-        "30-25 Mushin",
-        "Mushin via decision."
-    ]
+    "Winner": "mushin"
 }

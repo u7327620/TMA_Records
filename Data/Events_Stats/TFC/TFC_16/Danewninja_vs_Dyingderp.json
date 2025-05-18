@@ -3,6 +3,14 @@
         "Name": "Danewninja_vs_Dyingderp",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Dyingderp",
+        "29-28 Danewninja",
+        "29-28 Dyingderp",
+        "Dyingderp via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 15,
         "Strikes Thrown": 38,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Dyingderp",
-        "29-28 Danewninja",
-        "29-28 Dyingderp",
-        "Dyingderp via decision."
-    ]
+    "Winner": "dyingderp"
 }

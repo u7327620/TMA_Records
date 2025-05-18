@@ -3,6 +3,14 @@
         "Name": "Sorude_vs_Semari",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Semari",
+        "29-28 Semari",
+        "29-29 Draw",
+        "Semari via majority decision.",
+        "DECISION"
+    ],
     "Semari": {
         "Strikes Landed": 15,
         "Strikes Thrown": 34,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Semari",
-        "29-28 Semari",
-        "29-29 Draw",
-        "Semari via majority decision."
-    ]
+    "Winner": "semari"
 }

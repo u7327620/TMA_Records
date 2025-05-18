@@ -3,6 +3,14 @@
         "Name": "Mainland_vs_Clemencie",
         "Event": "TFC_4"
     },
+    "Records": [],
+    "Result": [
+        "30-27 mainland",
+        "29-28 mainland",
+        "29-28 mainland",
+        "mainland via decision.",
+        "DECISION"
+    ],
     "Mainland": {
         "Strikes Landed": 12,
         "Strikes Thrown": 23,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 mainland",
-        "29-28 mainland",
-        "29-28 mainland",
-        "mainland via decision."
-    ]
+    "Winner": "mainland"
 }

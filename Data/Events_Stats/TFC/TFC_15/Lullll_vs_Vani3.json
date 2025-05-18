@@ -3,6 +3,13 @@
         "Name": "Lullll_vs_Vani3",
         "Event": "TFC_15"
     },
+    "Records": [],
+    "Result": [
+        "30-26 Lullll",
+        "30-26 Lullll",
+        "Lullll via decision.",
+        "DECISION"
+    ],
     "Lullll": {
         "Strikes Landed": 18,
         "Strikes Thrown": 26,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-26 Lullll",
-        "30-26 Lullll",
-        "Lullll via decision."
-    ]
+    "Winner": "lullll"
 }

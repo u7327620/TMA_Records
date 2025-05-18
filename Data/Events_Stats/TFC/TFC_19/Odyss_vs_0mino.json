@@ -3,6 +3,13 @@
         "Name": "Odyss_vs_0mino",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "30-27 0mino",
+        "29-28 0mino",
+        "0mino via decision.",
+        "DECISION"
+    ],
     "Odyss": {
         "Strikes Landed": 6,
         "Strikes Thrown": 26,
@@ -34,9 +41,5 @@
         "Submissions Attempted *": 1
     },
     "* 0mino could have finished his submission attempt, but his arm phased through Odyss's neck. game sux": {},
-    "Result": [
-        "30-27 0mino",
-        "29-28 0mino",
-        "0mino via decision."
-    ]
+    "Winner": "0mino"
 }

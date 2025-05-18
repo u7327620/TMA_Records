@@ -3,6 +3,13 @@
         "Name": "X2XP_vs_Dragonguts",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "28-26 X2XP",
+        "29-28 X2XP",
+        "X2XP via decision.",
+        "DECISION"
+    ],
     "X2XP": {
         "Strikes Landed": 10,
         "Strikes Thrown": 19,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "28-26 X2XP",
-        "29-28 X2XP",
-        "X2XP via decision."
-    ]
+    "Winner": "x2xp"
 }

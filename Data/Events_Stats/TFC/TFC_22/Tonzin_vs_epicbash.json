@@ -3,6 +3,13 @@
         "Name": "Tonzin_vs_epicbash",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "29-29 draw (point deducted from tonzin for cheesing to get up during the frames 270-120)",
+        "30-27 Epicbash (tonzin point deduction)",
+        "29-29 draw (tonzin point deduction)",
+        "Majority draw."
+    ],
     "Tonzin": {
         "Strikes Landed": 12,
         "Strikes Thrown": 32,
@@ -38,11 +45,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-29 draw (point deducted from tonzin for cheesing to get up during the frames 270-120)",
-        "30-27 Epicbash (tonzin point deduction)",
-        "29-29 draw (tonzin point deduction)",
-        "Majority draw."
-    ]
+    }
 }

@@ -3,6 +3,13 @@
         "Name": "Cryink_vs_Kapacbbbb",
         "Event": "TFC_15"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Cryink",
+        "29-28 Cryink",
+        "Cryink via decision.",
+        "DECISION"
+    ],
     "Cryink": {
         "Strikes Landed": 16,
         "Strikes Thrown": 19,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Cryink",
-        "29-28 Cryink",
-        "Cryink via decision."
-    ]
+    "Winner": "cryink"
 }

@@ -3,6 +3,12 @@
         "Name": "Eamon_vs_Dogki12",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "in the 2nd round",
+        "Dogki12 via forfeit.",
+        "FORFEIT"
+    ],
     "Eamon": {
         "Strikes Landed": 6,
         "Strikes Thrown": 10,
@@ -33,8 +39,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "in the 2nd round",
-        "Dogki12 via forfeit."
-    ]
+    "Winner": "dogki12"
 }

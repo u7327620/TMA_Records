@@ -3,6 +3,13 @@
         "Name": "LokkiXD_vs_Unihunter",
         "Event": "TFC_4"
     },
+    "Records": [],
+    "Result": [
+        "29-27 unihunter",
+        "30-26 unihunter",
+        "unihunter via decision.",
+        "DECISION"
+    ],
     "unihunter": {
         "Strikes Landed": 11,
         "Strikes Thrown": 18,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 unihunter",
-        "30-26 unihunter",
-        "unihunter via decision."
-    ]
+    "Winner": "unihunter"
 }

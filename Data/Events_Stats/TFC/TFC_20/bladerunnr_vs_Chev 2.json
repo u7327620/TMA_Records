@@ -3,6 +3,13 @@
         "Name": "bladerunnr_vs_Chev 2",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 chev",
+        "29-28 chev",
+        "chev via decision.",
+        "DECISION"
+    ],
     "bladerunnr": {
         "Strikes Landed": 8,
         "Strikes Thrown": 17,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 chev",
-        "29-28 chev",
-        "chev via decision."
-    ]
+    "Winner": "chev"
 }

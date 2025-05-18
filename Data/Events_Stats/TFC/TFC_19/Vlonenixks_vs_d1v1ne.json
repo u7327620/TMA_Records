@@ -3,6 +3,14 @@
         "Name": "Vlonenixks_vs_d1v1ne",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Vlone",
+        "29-29 Draw",
+        "29-28 Vlone",
+        "Vlonenixks via majority decision.",
+        "DECISION"
+    ],
     "Vlonenixks": {
         "Strikes Landed": 10,
         "Strikes Thrown": 33,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Vlone",
-        "29-29 Draw",
-        "29-28 Vlone",
-        "Vlonenixks via majority decision."
-    ]
+    "Winner": "vlonenixks"
 }

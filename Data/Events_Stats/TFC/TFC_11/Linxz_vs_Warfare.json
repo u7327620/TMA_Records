@@ -3,6 +3,13 @@
         "Name": "Linxz_vs_Warfare",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Linxz",
+        "29-28 Linxz",
+        "Linxz via decision.",
+        "DECISION"
+    ],
     "Linxz": {
         "Strikes Landed": 18,
         "Strikes Thrown": 37,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 33.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "30-27 Linxz",
-        "29-28 Linxz",
-        "Linxz via decision."
-    ]
+    "Winner": "linxz"
 }

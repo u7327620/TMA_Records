@@ -3,6 +3,14 @@
         "Name": "bongdabang_vs_pianoo",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 pianoo",
+        "29-27 pianoo",
+        "30-27 pianoo",
+        "pianoo via decision.",
+        "DECISION"
+    ],
     "bongdabang": {
         "Strikes Landed": 11,
         "Strikes Thrown": 33,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 pianoo",
-        "29-27 pianoo",
-        "30-27 pianoo",
-        "pianoo via decision."
-    ]
+    "Winner": "pianoo"
 }

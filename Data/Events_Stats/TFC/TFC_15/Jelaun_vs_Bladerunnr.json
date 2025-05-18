@@ -3,6 +3,14 @@
         "Name": "Jelaun_vs_Bladerunnr",
         "Event": "TFC_15"
     },
+    "Records": [],
+    "Result": [
+        "29-29 Draw (point deducted from blade for cheese around the frame 110)",
+        "29-28 Jelaun (point taken from blade for an unacceptable teep at 140.)",
+        "29-28 Jelaun (Point deducted from the unholy tip at the ending of the round.)",
+        "Jelaun via decision.",
+        "DECISION"
+    ],
     "Jelaun": {
         "Strikes Landed": 7,
         "Strikes Thrown": 14,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-29 Draw (point deducted from blade for cheese around the frame 110)",
-        "29-28 Jelaun (point taken from blade for an unacceptable teep at 140.)",
-        "29-28 Jelaun (Point deducted from the unholy tip at the ending of the round.)",
-        "Jelaun via decision."
-    ]
+    "Winner": "jelaun"
 }

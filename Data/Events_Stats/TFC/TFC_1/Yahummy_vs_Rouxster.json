@@ -6,6 +6,11 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "Rouxster via decision.",
+        "DECISION"
+    ],
     "Rouxster": {
         "Strikes Landed": 9,
         "Strikes Thrown": 38,
@@ -36,5 +41,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": "Rouxster via decision."
+    "Winner": "rouxster"
 }

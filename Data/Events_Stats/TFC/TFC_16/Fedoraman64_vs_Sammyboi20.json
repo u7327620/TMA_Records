@@ -3,6 +3,12 @@
         "Name": "Fedoraman64_vs_Sammyboi20",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "armbar in the 3rd round with 100 non-slowed frames remaining",
+        "Sammyboi20 via Submission.",
+        "SUBMISSION"
+    ],
     "Fedoraman64": {
         "Strikes Landed": 7,
         "Strikes Thrown": 20,
@@ -33,8 +39,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "armbar in the 3rd round with 100 non-slowed frames remaining",
-        "Sammyboi20 via Submission."
-    ]
+    "Winner": "sammyboi20"
 }

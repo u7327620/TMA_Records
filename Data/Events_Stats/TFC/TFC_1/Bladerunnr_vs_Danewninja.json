@@ -3,6 +3,10 @@
         "Name": "Bladerunnr_vs_Danewninja",
         "Event": "TFC_1"
     },
+    "Records": [],
+    "Result": [
+        "Undocumented."
+    ],
     "Bladerunnr": {
         "Strikes Landed": 1,
         "Strikes Thrown": 6,
@@ -32,6 +36,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
-    },
-    "Result": "Undocumented."
+    }
 }

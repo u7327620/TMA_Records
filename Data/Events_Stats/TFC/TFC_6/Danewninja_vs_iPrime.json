@@ -3,6 +3,14 @@
         "Name": "Danewninja_vs_iPrime",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "20-18 iPrime",
+        "19-19 Draw",
+        "29-28 iPrime",
+        "iPrime via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 10,
         "Strikes Thrown": 27,
@@ -34,10 +42,5 @@
         "Submissions Attempted": 0
     },
     "Dick Kicks 6 (holy shit)": {},
-    "Result": [
-        "20-18 iPrime",
-        "19-19 Draw",
-        "29-28 iPrime",
-        "iPrime via decision."
-    ]
+    "Winner": "iprime"
 }

@@ -3,6 +3,13 @@
         "Name": "Kamara_vs_Lloyd54321",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Lloyd",
+        "29-28 Lloyd",
+        "Lloyd54321 via decision.",
+        "DECISION"
+    ],
     "Kamara": {
         "Strikes Landed": 9,
         "Strikes Thrown": 29,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Lloyd",
-        "29-28 Lloyd",
-        "Lloyd54321 via decision."
-    ]
+    "Winner": "lloyd54321"
 }

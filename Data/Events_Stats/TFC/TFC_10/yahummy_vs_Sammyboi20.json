@@ -3,6 +3,13 @@
         "Name": "yahummy_vs_Sammyboi20",
         "Event": "TFC_10"
     },
+    "Records": [],
+    "Result": [
+        "29-28 yahummy",
+        "29-29 draw",
+        "29-28 sammyboi20",
+        "Majority draw."
+    ],
     "yahummy": {
         "Strikes Landed": 25,
         "Strikes Thrown": 37,
@@ -32,11 +39,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-28 yahummy",
-        "29-29 draw",
-        "29-28 sammyboi20",
-        "Majority draw."
-    ]
+    }
 }

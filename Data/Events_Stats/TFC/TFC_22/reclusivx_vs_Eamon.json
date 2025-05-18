@@ -6,6 +6,14 @@
             "3 2000 FRAME MATCHES"
         ]
     },
+    "Records": [],
+    "Result": [
+        "29-28 Reclusivx",
+        "29-28 Eamon",
+        "29-28 Reclusivx",
+        "Relusivx via split decision.",
+        "DECISION"
+    ],
     "reclusivx": {
         "Strikes Landed": 31,
         "Strikes Thrown": 62,
@@ -42,10 +50,5 @@
         "Takedown Defense Rate": 57.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Reclusivx",
-        "29-28 Eamon",
-        "29-28 Reclusivx",
-        "Relusivx via split decision."
-    ]
+    "Winner": "relusivx"
 }

@@ -3,6 +3,11 @@
         "Name": "Lullll_vs_LokkiXD",
         "Event": "TFC_1"
     },
+    "Records": [],
+    "Result": [
+        "LokkiXD via decision.",
+        "DECISION"
+    ],
     "Lullll": {
         "Strikes Landed": 8,
         "Strikes Thrown": 13,
@@ -39,5 +44,5 @@
         "Takedown Defense Rate": 0,
         "Submissions Attempted": 0
     },
-    "Result": "LokkiXD via decision."
+    "Winner": "lokkixd"
 }

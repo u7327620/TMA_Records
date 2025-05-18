@@ -3,6 +3,12 @@
         "Name": "HAWK152_vs_Semari",
         "Event": "TFC_5"
     },
+    "Records": [
+        "Fastest TKO in the 1st round with 210 (Slowed) frames remaining"
+    ],
+    "Result": [
+        "Hawk152 via TKO."
+    ],
     "Semari": {
         "Strikes Landed": 2,
         "Strikes Thrown": 2,
@@ -33,8 +39,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Records": [
-        "Fastest TKO in the 1st round with 210 (Slowed) frames remaining"
-    ],
-    "Result": "Hawk152 via TKO."
+    "Winner": "hawk152"
 }

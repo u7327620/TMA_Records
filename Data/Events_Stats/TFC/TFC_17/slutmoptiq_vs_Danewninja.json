@@ -3,6 +3,13 @@
         "Name": "slutmoptiq_vs_Danewninja",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "30-28 slutmoptiq",
+        "30-27 slutmoptiq",
+        "slutmoptiq via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 8,
         "Strikes Thrown": 34,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-28 slutmoptiq",
-        "30-27 slutmoptiq",
-        "slutmoptiq via decision."
-    ]
+    "Winner": "slutmoptiq"
 }

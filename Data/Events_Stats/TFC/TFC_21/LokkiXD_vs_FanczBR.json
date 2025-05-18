@@ -3,6 +3,14 @@
         "Name": "LokkiXD_vs_FanczBR",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "29-28 FanczBR",
+        "30-28 FanczBR",
+        "30-27 FanczBR",
+        "FanczBR via decision.",
+        "DECISION"
+    ],
     "LokkiXD": {
         "Strikes Landed": 10,
         "Strikes Thrown": 25,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 FanczBR",
-        "30-28 FanczBR",
-        "30-27 FanczBR",
-        "FanczBR via decision."
-    ]
+    "Winner": "fanczbr"
 }

@@ -1,6 +1,8 @@
 import json
 import os
 import re
+
+from records.util.path_finding import from_relative
 from records.util.possible_results import MatchResult
 
 def convert_match_to_json(p: str) ->  dict[str, dict]:
@@ -9,8 +11,8 @@ def convert_match_to_json(p: str) ->  dict[str, dict]:
 
     lines = [line.strip() for line in raw_lines if line.strip()]
     stats = {"Meta": {}, "Records": [], "Result": []}
-    stats["Meta"]["Name"] = p.split("/")[-1].split(".")[0]
-    stats["Meta"]["Event"] = p.split("/")[-2]
+    stats["Meta"]["Name"] = p.split("\\")[-1].split(".")[0]
+    stats["Meta"]["Event"] = p.split("\\")[-2]
 
     meta_lines = []
     record_lines = []
@@ -78,22 +80,32 @@ def convert_match_to_json(p: str) ->  dict[str, dict]:
     if record_lines:
         stats["Records"] = record_lines
     if result_lines:
-        stats["Result"] = result_lines if len(result_lines) > 1 else result_lines[0]
+        stats["Result"] = result_lines
     else:
         stats["Result"] = ["Unknown"]
 
-    res = MatchResult(stats["Result"][-1])
+    res = stats["Result"][-1].lower().split(" ")
+    if len(res) < 3:
+        # Should only be draws or undocumented
+        res = MatchResult.from_text(res)
+    else:
+        # Should be <Name> via <win type>
+        winner = res[0]
+        stats["Winner"] = winner
+        res = MatchResult.from_text(" ".join(res[1:]))
+
     if res == MatchResult.DRAW:
         stats["Result"].append("DRAW")
     elif res == MatchResult.UNDOCUMENTED:
         stats["Result"].append("UNDOCUMENTED")
-    else:
-        stats["Result"].append(res)
+    elif res:
+        stats["Result"].append(res.name)
+
     return stats
 
 
 if __name__ == '__main__':
-    root_path = "/home/ryan/Documents/TMA/TMA_Records/Data/Events_Stats/TFC"
+    root_path = from_relative("../Data/Events_Stats/TFC/")
     for directory in sorted(os.listdir(root_path), key=lambda x: int(x.split("_")[1])):
         directory_path = os.path.join(root_path, directory)
         for file in sorted(os.listdir(directory_path)):

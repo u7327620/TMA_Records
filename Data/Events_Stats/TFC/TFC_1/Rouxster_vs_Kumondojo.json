@@ -3,6 +3,11 @@
         "Name": "Rouxster_vs_Kumondojo",
         "Event": "TFC_1"
     },
+    "Records": [],
+    "Result": [
+        "Rouxster via decision.",
+        "DECISION"
+    ],
     "Rouxster": {
         "Strikes Landed": 1,
         "Strikes Thrown": 17,
@@ -33,5 +38,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": "Rouxster via decision."
+    "Winner": "rouxster"
 }

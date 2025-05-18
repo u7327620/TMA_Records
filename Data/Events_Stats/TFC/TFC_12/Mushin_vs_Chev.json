@@ -3,6 +3,13 @@
         "Name": "Mushin_vs_Chev",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Mushin",
+        "30-28 Mushin",
+        "Mushin via decision.",
+        "DECISION"
+    ],
     "Mushin": {
         "Strikes Landed": 24,
         "Strikes Thrown": 31,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Mushin",
-        "30-28 Mushin",
-        "Mushin via decision."
-    ]
+    "Winner": "mushin"
 }

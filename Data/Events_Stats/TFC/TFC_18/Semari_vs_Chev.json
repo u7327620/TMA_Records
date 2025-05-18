@@ -3,6 +3,14 @@
         "Name": "Semari_vs_Chev",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "Chev 29-28",
+        "Semari 29-28",
+        "Semari 29-28",
+        "Semari via split decision.",
+        "DECISION"
+    ],
     "Semari": {
         "Strikes Landed": 15,
         "Strikes Thrown": 25,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "Chev 29-28",
-        "Semari 29-28",
-        "Semari 29-28",
-        "Semari via split decision."
-    ]
+    "Winner": "semari"
 }

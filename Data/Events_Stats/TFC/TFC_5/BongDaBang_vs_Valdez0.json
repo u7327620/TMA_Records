@@ -3,6 +3,13 @@
         "Name": "BongDaBang_vs_Valdez0",
         "Event": "TFC_5"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Valdez0",
+        "29-28 Valdez0",
+        "Valdez0 via decision.",
+        "DECISION"
+    ],
     "Bongdabang": {
         "Strikes Landed": 11,
         "Strikes Thrown": 25,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Valdez0",
-        "29-28 Valdez0",
-        "Valdez0 via decision."
-    ]
+    "Winner": "valdez0"
 }

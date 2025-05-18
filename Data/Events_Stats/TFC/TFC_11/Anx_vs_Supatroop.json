@@ -3,6 +3,13 @@
         "Name": "Anx_vs_Supatroop",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Anx",
+        "30-27 Anx",
+        "Anx via decision.",
+        "DECISION"
+    ],
     "Anx": {
         "Strikes Landed": 8,
         "Strikes Thrown": 20,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Anx",
-        "30-27 Anx",
-        "Anx via decision."
-    ]
+    "Winner": "anx"
 }

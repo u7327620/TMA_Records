@@ -3,6 +3,14 @@
         "Name": "furkan3541_vs_dzage",
         "Event": "TFC_3"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Dzage",
+        "29-28 Dzage",
+        "29-27 Dzage",
+        "Dzage via decision.",
+        "DECISION"
+    ],
     "furkan3541": {
         "Strikes Landed": 2,
         "Strikes Thrown": 11,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Dzage",
-        "29-28 Dzage",
-        "29-27 Dzage",
-        "Dzage via decision."
-    ]
+    "Winner": "dzage"
 }

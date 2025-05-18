@@ -3,6 +3,12 @@
         "Name": "Bongdabang_vs_Sparturnha",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Bongdabang",
+        "29-28 Bongdabang",
+        "Undocumented."
+    ],
     "Bongdabang": {
         "Strikes Landed": 12,
         "Strikes Thrown": 21,
@@ -32,10 +38,5 @@
         "Times Taken Down": 1,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
-    },
-    "Result": [
-        "29-28 Bongdabang",
-        "29-28 Bongdabang",
-        "Undocumented."
-    ]
+    }
 }

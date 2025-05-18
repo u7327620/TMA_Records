@@ -6,6 +6,14 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "49-47 Linxz",
+        "49-48 Linxz",
+        "49-47 Linxz (cheese footwork from yahummy frame 280 in R2)",
+        "Linxz via decision.",
+        "DECISION"
+    ],
     "Linxz": {
         "Strikes Landed": 15,
         "Strikes Thrown": 42,
@@ -36,10 +44,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "49-47 Linxz",
-        "49-48 Linxz",
-        "49-47 Linxz (cheese footwork from yahummy frame 280 in R2)",
-        "Linxz via decision."
-    ]
+    "Winner": "linxz"
 }

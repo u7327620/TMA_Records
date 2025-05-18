@@ -3,6 +3,13 @@
         "Name": "HexHill_vs_HAWK152",
         "Event": "TFC_4"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Hawk152",
+        "29-28 Hawk152",
+        "Hawk152 via decision.",
+        "DECISION"
+    ],
     "HexHill": {
         "Strikes Landed": 10,
         "Strikes Thrown": 26,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Hawk152",
-        "29-28 Hawk152",
-        "Hawk152 via decision."
-    ]
+    "Winner": "hawk152"
 }

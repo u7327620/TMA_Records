@@ -3,6 +3,13 @@
         "Name": "Sorude_vs_Unity",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "30-28 Sorude",
+        "29-28 Sorude",
+        "Sorude via decision.",
+        "DECISION"
+    ],
     "Sorude": {
         "Strikes Landed": 7,
         "Strikes Thrown": 11,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-28 Sorude",
-        "29-28 Sorude",
-        "Sorude via decision."
-    ]
+    "Winner": "sorude"
 }

@@ -3,6 +3,13 @@
         "Name": "Bongdabang_vs_Supatroop",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Supatroop",
+        "29-28 Supatroop",
+        "Supatroop via decision.",
+        "DECISION"
+    ],
     "Bongdabang": {
         "Strikes Landed": 10,
         "Strikes Thrown": 22,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 75.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Supatroop",
-        "29-28 Supatroop",
-        "Supatroop via decision."
-    ]
+    "Winner": "supatroop"
 }

@@ -3,6 +3,11 @@
         "Name": "Bladerunnr_vs_Dogki12",
         "Event": "TFC_3"
     },
+    "Records": [],
+    "Result": [
+        "dogki12 via decision.",
+        "DECISION"
+    ],
     "Bladerunnr": {
         "Strikes Landed": 6,
         "Strikes Thrown": 18,
@@ -33,5 +38,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": "dogki12 via decision."
+    "Winner": "dogki12"
 }

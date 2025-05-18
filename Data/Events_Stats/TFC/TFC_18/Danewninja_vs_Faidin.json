@@ -3,6 +3,14 @@
         "Name": "Danewninja_vs_Faidin",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Faidin",
+        "29-28 Faidin",
+        "29-28 Faidin",
+        "Faidin via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 16,
         "Strikes Thrown": 38,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Faidin",
-        "29-28 Faidin",
-        "29-28 Faidin",
-        "Faidin via decision."
-    ]
+    "Winner": "faidin"
 }

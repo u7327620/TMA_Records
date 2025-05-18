@@ -3,6 +3,13 @@
         "Name": "Dzage_vs_LokkiXD",
         "Event": "TFC_5"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Dzage",
+        "29-28 Dzage",
+        "Dzage via decision.",
+        "DECISION"
+    ],
     "Dzage": {
         "Strikes Landed": 7,
         "Strikes Thrown": 19,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Dzage",
-        "29-28 Dzage",
-        "Dzage via decision."
-    ]
+    "Winner": "dzage"
 }

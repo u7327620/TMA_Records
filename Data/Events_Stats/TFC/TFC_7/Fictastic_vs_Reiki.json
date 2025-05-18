@@ -3,6 +3,13 @@
         "Name": "Fictastic_vs_Reiki",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Reiki",
+        "29-28 Reiki",
+        "Reiki via decision.",
+        "DECISION"
+    ],
     "Reiki": {
         "Strikes Landed": 9,
         "Strikes Thrown": 17,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Reiki",
-        "29-28 Reiki",
-        "Reiki via decision."
-    ]
+    "Winner": "reiki"
 }

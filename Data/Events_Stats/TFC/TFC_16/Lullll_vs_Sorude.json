@@ -3,6 +3,13 @@
         "Name": "Lullll_vs_Sorude",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "28-27 Lullll",
+        "28-27 Lullll",
+        "Lullll via decision.",
+        "DECISION"
+    ],
     "Lullll": {
         "Strikes Landed": 12,
         "Strikes Thrown": 24,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "28-27 Lullll",
-        "28-27 Lullll",
-        "Lullll via decision."
-    ]
+    "Winner": "lullll"
 }

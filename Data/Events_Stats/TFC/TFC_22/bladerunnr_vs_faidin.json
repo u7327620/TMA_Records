@@ -6,6 +6,14 @@
             "3 3000 FRAME ROUNDS"
         ]
     },
+    "Records": [
+        "First ever von flue choke in TFC"
+    ],
+    "Result": [
+        "defeats faidin via von flue choke in the 2nd round with 1700 frames surpassed.",
+        "bladerunnr via submission.",
+        "SUBMISSION"
+    ],
     "bladerunnr": {
         "Strikes Landed": 19,
         "Strikes Thrown": 38,
@@ -42,11 +50,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 1
     },
-    "Records": [
-        "First ever von flue choke in TFC"
-    ],
-    "Result": [
-        "defeats faidin via von flue choke in the 2nd round with 1700 frames surpassed.",
-        "bladerunnr via submission."
-    ]
+    "Winner": "bladerunnr"
 }

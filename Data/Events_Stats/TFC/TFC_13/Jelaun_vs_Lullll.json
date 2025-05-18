@@ -3,6 +3,13 @@
         "Name": "Jelaun_vs_Lullll",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Jelaun",
+        "29-28 Jelaun",
+        "Jelaun via decision.",
+        "DECISION"
+    ],
     "Jelaun": {
         "Strikes Landed": 16,
         "Strikes Thrown": 29,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Jelaun",
-        "29-28 Jelaun",
-        "Jelaun via decision."
-    ]
+    "Winner": "jelaun"
 }

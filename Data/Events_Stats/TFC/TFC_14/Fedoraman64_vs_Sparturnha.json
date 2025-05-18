@@ -3,6 +3,13 @@
         "Name": "Fedoraman64_vs_Sparturnha",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "29-25 Sparturnha",
+        "29-26 Sparturnha",
+        "Sparturnha via decision.",
+        "DECISION"
+    ],
     "Fedoraman64": {
         "Strikes Landed": 9,
         "Strikes Thrown": 15,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-25 Sparturnha",
-        "29-26 Sparturnha",
-        "Sparturnha via decision."
-    ]
+    "Winner": "sparturnha"
 }

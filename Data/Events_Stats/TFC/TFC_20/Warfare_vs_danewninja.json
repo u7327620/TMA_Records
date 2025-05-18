@@ -3,6 +3,13 @@
         "Name": "Warfare_vs_danewninja",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Warfare",
+        "29-28 Warfare",
+        "Warfare via decision.",
+        "DECISION"
+    ],
     "Warfare": {
         "Strikes Landed": 24,
         "Strikes Thrown": 42,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Warfare",
-        "29-28 Warfare",
-        "Warfare via decision."
-    ]
+    "Winner": "warfare"
 }

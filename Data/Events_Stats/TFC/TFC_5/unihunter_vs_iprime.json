@@ -3,6 +3,13 @@
         "Name": "unihunter_vs_iprime",
         "Event": "TFC_5"
     },
+    "Records": [],
+    "Result": [
+        "29-28 iPrime",
+        "29-28 iPrime",
+        "iPrime via decision.",
+        "DECISION"
+    ],
     "Unihunter": {
         "Strikes Landed": 7,
         "Strikes Thrown": 27,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 iPrime",
-        "29-28 iPrime",
-        "iPrime via decision."
-    ]
+    "Winner": "iprime"
 }

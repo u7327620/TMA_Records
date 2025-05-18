@@ -3,6 +3,13 @@
         "Name": "2number9_vs_Horrorz",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "29-28 2number9",
+        "29-28 2number9",
+        "2number9 via decision.",
+        "DECISION"
+    ],
     "Horrorz": {
         "Strikes Landed": 10,
         "Strikes Thrown": 16,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 2number9",
-        "29-28 2number9",
-        "2number9 via decision."
-    ]
+    "Winner": "2number9"
 }

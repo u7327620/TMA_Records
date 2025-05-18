@@ -3,6 +3,13 @@
         "Name": "vonnn_vs_Sereinity",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "29-28 vonnn",
+        "29-28 vonnn (point deduction from Sereinity for an egregiously unrealistic knee launch starting at frame 440 that prevents Vonnn from getting mount)",
+        "vonnn via decision.",
+        "DECISION"
+    ],
     "vonnn": {
         "Strikes Landed": 13,
         "Strikes Thrown": 24,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 vonnn",
-        "29-28 vonnn (point deduction from Sereinity for an egregiously unrealistic knee launch starting at frame 440 that prevents Vonnn from getting mount)",
-        "vonnn via decision."
-    ]
+    "Winner": "vonnn"
 }

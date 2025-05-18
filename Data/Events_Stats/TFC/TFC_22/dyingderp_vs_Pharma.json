@@ -6,6 +6,13 @@
             "3 2000 FRAME ROUNDS"
         ]
     },
+    "Records": [],
+    "Result": [
+        "30-27 DyingDerp",
+        "29-28 DyingDerp",
+        "DyingDerp via decision.",
+        "DECISION"
+    ],
     "dyingderp": {
         "Strikes Landed": 13,
         "Strikes Thrown": 43,
@@ -42,9 +49,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "30-27 DyingDerp",
-        "29-28 DyingDerp",
-        "DyingDerp via decision."
-    ]
+    "Winner": "dyingderp"
 }

@@ -6,6 +6,14 @@
             "5 ROUND FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "50-47 Sorude",
+        "50-45 Sorude",
+        "49-46 Sorude",
+        "Sorude via decision.",
+        "DECISION"
+    ],
     "bladerunnr": {
         "Strikes Landed": 11,
         "Strikes Thrown": 43,
@@ -37,10 +45,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "50-47 Sorude",
-        "50-45 Sorude",
-        "49-46 Sorude",
-        "Sorude via decision."
-    ]
+    "Winner": "sorude"
 }

@@ -6,6 +6,17 @@
             "5 ROUND FIGHT"
         ]
     },
+    "Records": [
+        "-Latest submission in a fight-",
+        "-Latest submission in a 5 round fight-",
+        "-Latest finish in a 5 round fight-",
+        "-Latest finish in a fight-"
+    ],
+    "Result": [
+        "in the 5th round with 580 frames surpassed",
+        "Bladerunnr via submission.",
+        "SUBMISSION"
+    ],
     "rYCArdo10": {
         "Strikes Landed": 26,
         "Strikes Thrown": 42,
@@ -37,14 +48,5 @@
         "Submissions Attempted": 1,
         "BLADEBAR": 1
     },
-    "Records": [
-        "-Latest submission in a fight-",
-        "-Latest submission in a 5 round fight-",
-        "-Latest finish in a 5 round fight-",
-        "-Latest finish in a fight-"
-    ],
-    "Result": [
-        "in the 5th round with 580 frames surpassed",
-        "Bladerunnr via submission."
-    ]
+    "Winner": "bladerunnr"
 }

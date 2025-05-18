@@ -3,6 +3,12 @@
         "Name": "Jouka_vs_Ezremember",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "29-29 Draw",
+        "29-29 Draw",
+        "Majority draw."
+    ],
     "Jouka": {
         "Strikes Landed": 10,
         "Strikes Thrown": 13,
@@ -32,10 +38,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-29 Draw",
-        "29-29 Draw",
-        "Majority draw."
-    ]
+    }
 }

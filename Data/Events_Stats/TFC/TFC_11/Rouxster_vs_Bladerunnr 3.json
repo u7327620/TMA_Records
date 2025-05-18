@@ -6,6 +6,13 @@
             "5 ROUND FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "48-47 Bladerunnr",
+        "48-47 Bladerunnr",
+        "Bladerunnr via decision.",
+        "DECISION"
+    ],
     "Rouxster": {
         "Strikes Landed": 12,
         "Strikes Thrown": 28,
@@ -36,9 +43,5 @@
         "Takedown Defense Rate": 86.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "48-47 Bladerunnr",
-        "48-47 Bladerunnr",
-        "Bladerunnr via decision."
-    ]
+    "Winner": "bladerunnr"
 }

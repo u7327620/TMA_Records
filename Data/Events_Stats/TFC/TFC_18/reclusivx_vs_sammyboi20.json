@@ -3,6 +3,13 @@
         "Name": "reclusivx_vs_sammyboi20",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Reclusivx",
+        "30-29 Reclusivx",
+        "Reclusivx via decision.",
+        "DECISION"
+    ],
     "Reclusivx": {
         "Strikes Landed": 14,
         "Strikes Thrown": 36,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Reclusivx",
-        "30-29 Reclusivx",
-        "Reclusivx via decision."
-    ]
+    "Winner": "reclusivx"
 }

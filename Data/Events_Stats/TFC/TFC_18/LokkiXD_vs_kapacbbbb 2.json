@@ -3,6 +3,13 @@
         "Name": "LokkiXD_vs_kapacbbbb 2",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Kapa",
+        "29-28 Kapa",
+        "Kapacbbbb via decision.",
+        "DECISION"
+    ],
     "LokkiXD": {
         "Strikes Landed": 6,
         "Strikes Thrown": 17,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Kapa",
-        "29-28 Kapa",
-        "Kapacbbbb via decision."
-    ]
+    "Winner": "kapacbbbb"
 }

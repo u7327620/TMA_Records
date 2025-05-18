@@ -3,6 +3,13 @@
         "Name": "kekc1995_vs_ricopaxton",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "29-28 ricopaxton",
+        "29-28 ricopaxton",
+        "ricopaxton via decision.",
+        "DECISION"
+    ],
     "kekc1995": {
         "Strikes Landed": 9,
         "Strikes Thrown": 30,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 ricopaxton",
-        "29-28 ricopaxton",
-        "ricopaxton via decision."
-    ]
+    "Winner": "ricopaxton"
 }

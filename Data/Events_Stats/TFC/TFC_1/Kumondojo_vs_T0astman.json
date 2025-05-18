@@ -3,6 +3,11 @@
         "Name": "Kumondojo_vs_T0astman",
         "Event": "TFC_1"
     },
+    "Records": [],
+    "Result": [
+        "Kumondojo via decision.",
+        "DECISION"
+    ],
     "Kumondojo": {
         "Strikes Landed": 14,
         "Strikes Thrown": 25,
@@ -33,5 +38,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": "Kumondojo via decision."
+    "Winner": "kumondojo"
 }

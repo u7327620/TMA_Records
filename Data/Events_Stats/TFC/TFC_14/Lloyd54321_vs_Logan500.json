@@ -3,6 +3,13 @@
         "Name": "Lloyd54321_vs_Logan500",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Logan",
+        "28-28 Draw",
+        "28-28 Draw",
+        "Majority draw."
+    ],
     "Lloyd54321": {
         "Strikes Landed": 8,
         "Strikes Thrown": 21,
@@ -32,11 +39,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Result": [
-        "29-27 Logan",
-        "28-28 Draw",
-        "28-28 Draw",
-        "Majority draw."
-    ]
+    }
 }

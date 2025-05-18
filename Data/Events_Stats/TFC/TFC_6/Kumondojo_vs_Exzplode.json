@@ -3,6 +3,13 @@
         "Name": "Kumondojo_vs_Exzplode",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "Judges ruled that Kumondojo threw the match,",
+        "and settled on counting it as a forfeit.",
+        "Exzplode via forfeit.",
+        "FORFEIT"
+    ],
     "Kumondojo": {
         "Strikes Landed": 6,
         "Strikes Thrown": 19,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "Judges ruled that Kumondojo threw the match,",
-        "and settled on counting it as a forfeit.",
-        "Exzplode via forfeit."
-    ]
+    "Winner": "exzplode"
 }

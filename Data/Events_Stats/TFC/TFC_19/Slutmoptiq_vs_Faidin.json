@@ -6,6 +6,13 @@
             "5 ROUND FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "48-47 Slut",
+        "49-45 Slut (point deducted from faidin for cheesing to get up at frames 140-90 of round 1)",
+        "Slutmoptiq via decision.",
+        "DECISION"
+    ],
     "Slutmoptiq": {
         "Strikes Landed": 14,
         "Strikes Thrown": 40,
@@ -36,9 +43,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "48-47 Slut",
-        "49-45 Slut (point deducted from faidin for cheesing to get up at frames 140-90 of round 1)",
-        "Slutmoptiq via decision."
-    ]
+    "Winner": "slutmoptiq"
 }

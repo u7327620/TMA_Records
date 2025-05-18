@@ -3,6 +3,13 @@
         "Name": "Jelaun_vs_Ricopaxton",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "30-24 Jelaun",
+        "30-27 Jelaun",
+        "Jelaun via decision.",
+        "DECISION"
+    ],
     "Jelaun": {
         "Strikes Landed": 27,
         "Strikes Thrown": 38,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-24 Jelaun",
-        "30-27 Jelaun",
-        "Jelaun via decision."
-    ]
+    "Winner": "jelaun"
 }

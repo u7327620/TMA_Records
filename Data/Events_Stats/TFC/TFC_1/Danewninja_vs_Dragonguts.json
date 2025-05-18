@@ -3,6 +3,11 @@
         "Name": "Danewninja_vs_Dragonguts",
         "Event": "TFC_1"
     },
+    "Records": [],
+    "Result": [
+        "Danewninja via decision.",
+        "DECISION"
+    ],
     "Danew": {
         "Strikes Landed": 12,
         "Strikes Thrown": 31,
@@ -33,5 +38,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": "Danewninja via decision."
+    "Winner": "danewninja"
 }

@@ -3,6 +3,14 @@
         "Name": "vlonenixks_vs_batiscafff",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Batiscafff",
+        "29-28 Vlonenixks",
+        "29-28 Vlonenixks",
+        "Vlonenixks via split decision.",
+        "DECISION"
+    ],
     "vlonenixks": {
         "Strikes Landed": 11,
         "Strikes Thrown": 32,
@@ -39,10 +47,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Batiscafff",
-        "29-28 Vlonenixks",
-        "29-28 Vlonenixks",
-        "Vlonenixks via split decision."
-    ]
+    "Winner": "vlonenixks"
 }

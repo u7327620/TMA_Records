@@ -6,6 +6,13 @@
             "5 ROUND FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "50-47 X2XP",
+        "49-48 X2XP",
+        "X2XP via decision.",
+        "DECISION"
+    ],
     "X2XP": {
         "Strikes Landed": 32,
         "Strikes Thrown": 58,
@@ -36,9 +43,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "50-47 X2XP",
-        "49-48 X2XP",
-        "X2XP via decision."
-    ]
+    "Winner": "x2xp"
 }

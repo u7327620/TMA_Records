@@ -6,6 +6,13 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [],
+    "Result": [
+        "50-48 X2XP",
+        "50-49 X2XP",
+        "X2XP via decision.",
+        "DECISION"
+    ],
     "X2XP": {
         "Strikes Landed": 13,
         "Strikes Thrown": 39,
@@ -36,9 +43,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "50-48 X2XP",
-        "50-49 X2XP",
-        "X2XP via decision."
-    ]
+    "Winner": "x2xp"
 }

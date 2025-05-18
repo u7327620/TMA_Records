@@ -3,6 +3,14 @@
         "Name": "Kamara_vs_Anx",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Kamara",
+        "30-27 Kamara",
+        "finished ? What the fuck does \"Kamara finished\" mean. Did he cum on him? - Lostmail",
+        "Kamara via decision.",
+        "DECISION"
+    ],
     "Kamara": {
         "Strikes Landed": 16,
         "Strikes Thrown": 30,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Kamara",
-        "30-27 Kamara",
-        "finished ? What the fuck does \"Kamara finished\" mean. Did he cum on him? - Lostmail",
-        "Kamara via decision."
-    ]
+    "Winner": "kamara"
 }

@@ -3,6 +3,13 @@
         "Name": "Fedoraman64_vs_Reclusivx",
         "Event": "TFC_20"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Fedoraman64",
+        "29-28 Fedoraman64",
+        "Fedoraman64 via decision.",
+        "DECISION"
+    ],
     "Fedoraman64": {
         "Strikes Landed": 11,
         "Strikes Thrown": 29,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Fedoraman64",
-        "29-28 Fedoraman64",
-        "Fedoraman64 via decision."
-    ]
+    "Winner": "fedoraman64"
 }

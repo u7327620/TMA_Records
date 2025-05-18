@@ -3,6 +3,13 @@
         "Name": "Laucha22_vs_HexHill",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "29-28 hexhill",
+        "29-28 hexhill",
+        "hexhill via decision.",
+        "DECISION"
+    ],
     "Laucha22": {
         "Strikes Landed": 9,
         "Strikes Thrown": 33,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 hexhill",
-        "29-28 hexhill",
-        "hexhill via decision."
-    ]
+    "Winner": "hexhill"
 }

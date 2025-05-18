@@ -3,6 +3,13 @@
         "Name": "Dogki12_vs_Chev",
         "Event": "TFC_13"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Chev",
+        "30-27 Chev",
+        "Chev via decision.",
+        "DECISION"
+    ],
     "Chev": {
         "Strikes Landed": 16,
         "Strikes Thrown": 24,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Chev",
-        "30-27 Chev",
-        "Chev via decision."
-    ]
+    "Winner": "chev"
 }

@@ -6,6 +6,15 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [
+        "Highest Striking Differential in a title fight, +20"
+    ],
+    "Result": [
+        "49-47 Hollow",
+        "48-47 Hollow",
+        "Hollow via decision.",
+        "DECISION"
+    ],
     "Hollow": {
         "Strikes Landed": 25,
         "Strikes Thrown": 39,
@@ -36,12 +45,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 2
     },
-    "Records": [
-        "Highest Striking Differential in a title fight, +20"
-    ],
-    "Result": [
-        "49-47 Hollow",
-        "48-47 Hollow",
-        "Hollow via decision."
-    ]
+    "Winner": "hollow"
 }

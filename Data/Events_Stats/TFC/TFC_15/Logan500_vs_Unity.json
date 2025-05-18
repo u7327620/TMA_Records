@@ -3,6 +3,13 @@
         "Name": "Logan500_vs_Unity",
         "Event": "TFC_15"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Logan500",
+        "29-28 Logan500",
+        "Logan500 via decision.",
+        "DECISION"
+    ],
     "Logan500": {
         "Strikes Landed": 8,
         "Strikes Thrown": 20,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Logan500",
-        "29-28 Logan500",
-        "Logan500 via decision."
-    ]
+    "Winner": "logan500"
 }

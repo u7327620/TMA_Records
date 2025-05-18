@@ -3,6 +3,13 @@
         "Name": "Bladerunnr_vs_Sorude",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Bladerunnr",
+        "29-28 Bladerunnr",
+        "Bladerunnr via decision.",
+        "DECISION"
+    ],
     "Bladerunnr": {
         "Strikes Landed": 8,
         "Strikes Thrown": 15,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Bladerunnr",
-        "29-28 Bladerunnr",
-        "Bladerunnr via decision."
-    ]
+    "Winner": "bladerunnr"
 }

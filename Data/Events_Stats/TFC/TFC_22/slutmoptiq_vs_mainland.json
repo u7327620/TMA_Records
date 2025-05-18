@@ -3,6 +3,13 @@
         "Name": "slutmoptiq_vs_mainland",
         "Event": "TFC_22"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Slutmoptiq",
+        "30-27 Slutmoptiq",
+        "slutmoptiq via decision.",
+        "DECISION"
+    ],
     "slutmoptiq": {
         "Strikes Landed": 24,
         "Strikes Thrown": 33,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Slutmoptiq",
-        "30-27 Slutmoptiq",
-        "slutmoptiq via decision."
-    ]
+    "Winner": "slutmoptiq"
 }

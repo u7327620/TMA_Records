@@ -6,6 +6,13 @@
             "3 2000 FRAME ROUNDS"
         ]
     },
+    "Records": [],
+    "Result": [
+        "29-28 Sorude",
+        "29-28 Sorude",
+        "Sorude via decision.",
+        "DECISION"
+    ],
     "Sorude": {
         "Strikes Landed": 13,
         "Strikes Thrown": 31,
@@ -42,9 +49,5 @@
         "Takedown Defense Rate": 20.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Sorude",
-        "29-28 Sorude",
-        "Sorude via decision."
-    ]
+    "Winner": "sorude"
 }

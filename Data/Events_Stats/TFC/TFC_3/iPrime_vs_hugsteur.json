@@ -3,6 +3,13 @@
         "Name": "iPrime_vs_hugsteur",
         "Event": "TFC_3"
     },
+    "Records": [],
+    "Result": [
+        "39-38 iPrime",
+        "39-38 iPrime",
+        "iPrime via decision.",
+        "DECISION"
+    ],
     "iPrime": {
         "Strikes Landed": 5,
         "Strikes Thrown": 20,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "39-38 iPrime",
-        "39-38 iPrime",
-        "iPrime via decision."
-    ]
+    "Winner": "iprime"
 }

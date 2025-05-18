@@ -6,6 +6,17 @@
             "TITLE FIGHT"
         ]
     },
+    "Records": [
+        "-Fastest submission-",
+        "-Fastest submission in a title fight-",
+        "-Fastest finish in a title fight-",
+        "-Fastest finish-"
+    ],
+    "Result": [
+        "armbar in the 1st round with 556 frames surpassed",
+        "yahummy via Submission.",
+        "SUBMISSION"
+    ],
     "yahummy": {
         "Strikes Landed": 3,
         "Strikes Thrown": 4,
@@ -36,14 +47,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Records": [
-        "-Fastest submission-",
-        "-Fastest submission in a title fight-",
-        "-Fastest finish in a title fight-",
-        "-Fastest finish-"
-    ],
-    "Result": [
-        "armbar in the 1st round with 556 frames surpassed",
-        "yahummy via Submission."
-    ]
+    "Winner": "yahummy"
 }

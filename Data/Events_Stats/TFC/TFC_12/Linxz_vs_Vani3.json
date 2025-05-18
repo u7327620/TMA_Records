@@ -3,6 +3,13 @@
         "Name": "Linxz_vs_Vani3",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Linxz",
+        "30-27 Linxz",
+        "Linxz via decision.",
+        "DECISION"
+    ],
     "Linxz": {
         "Strikes Landed": 21,
         "Strikes Thrown": 33,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Linxz",
-        "30-27 Linxz",
-        "Linxz via decision."
-    ]
+    "Winner": "linxz"
 }

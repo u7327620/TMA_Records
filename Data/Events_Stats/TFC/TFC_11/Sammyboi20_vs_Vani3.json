@@ -3,6 +3,14 @@
         "Name": "Sammyboi20_vs_Vani3",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Vani3",
+        "29-28 Vani3",
+        "29-28 Vani3",
+        "Vani3 via decision.",
+        "DECISION"
+    ],
     "Sammyboi20": {
         "Strikes Landed": 11,
         "Strikes Thrown": 25,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Vani3",
-        "29-28 Vani3",
-        "29-28 Vani3",
-        "Vani3 via decision."
-    ]
+    "Winner": "vani3"
 }

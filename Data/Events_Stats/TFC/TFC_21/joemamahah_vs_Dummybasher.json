@@ -3,6 +3,11 @@
         "Name": "joemamahah_vs_Dummybasher",
         "Event": "TFC_21"
     },
+    "Records": [],
+    "Result": [
+        "in the 3rd round with 890 frames surpassed in the round",
+        "joemamahah via TKO."
+    ],
     "joemamahah": {
         "Strikes Landed": 13,
         "Strikes Thrown": 24,
@@ -33,8 +38,5 @@
         "Takedown Defense Rate": 75.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "in the 3rd round with 890 frames surpassed in the round",
-        "joemamahah via TKO."
-    ]
+    "Winner": "joemamahah"
 }

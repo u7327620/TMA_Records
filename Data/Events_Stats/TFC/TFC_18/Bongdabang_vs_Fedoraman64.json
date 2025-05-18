@@ -3,6 +3,14 @@
         "Name": "Bongdabang_vs_Fedoraman64",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "29-29 Draw",
+        "30-27 Fedoraman64",
+        "30-27 Fedoraman64",
+        "Fedoraman64 via split decision.",
+        "DECISION"
+    ],
     "Bongdabang": {
         "Strikes Landed": 15,
         "Strikes Thrown": 32,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-29 Draw",
-        "30-27 Fedoraman64",
-        "30-27 Fedoraman64",
-        "Fedoraman64 via split decision."
-    ]
+    "Winner": "fedoraman64"
 }

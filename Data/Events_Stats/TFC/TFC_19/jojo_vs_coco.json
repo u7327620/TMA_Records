@@ -3,6 +3,14 @@
         "Name": "jojo_vs_coco",
         "Event": "TFC_19"
     },
+    "Records": [],
+    "Result": [
+        "30-27 coco",
+        "29-28 coco",
+        "27-27 draw",
+        "coco via majority decision.",
+        "DECISION"
+    ],
     "jojo": {
         "Strikes Landed": 6,
         "Strikes Thrown": 21,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 coco",
-        "29-28 coco",
-        "27-27 draw",
-        "coco via majority decision."
-    ]
+    "Winner": "coco"
 }

@@ -3,6 +3,14 @@
         "Name": "Semari_vs_Jouka",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Semari",
+        "29-29 Draw",
+        "29-28 Semari",
+        "Semari via decision.",
+        "DECISION"
+    ],
     "Semari": {
         "Strikes Landed": 17,
         "Strikes Thrown": 36,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Semari",
-        "29-29 Draw",
-        "29-28 Semari",
-        "Semari via decision."
-    ]
+    "Winner": "semari"
 }

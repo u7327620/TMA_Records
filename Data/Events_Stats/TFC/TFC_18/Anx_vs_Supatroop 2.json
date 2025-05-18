@@ -3,6 +3,14 @@
         "Name": "Anx_vs_Supatroop 2",
         "Event": "TFC_18"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Anx",
+        "29-28 Supatroop",
+        "29-28 Anx",
+        "Anx via split decision.",
+        "DECISION"
+    ],
     "Anx": {
         "Strikes Landed": 12,
         "Strikes Thrown": 24,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 Anx",
-        "29-28 Supatroop",
-        "29-28 Anx",
-        "Anx via split decision."
-    ]
+    "Winner": "anx"
 }

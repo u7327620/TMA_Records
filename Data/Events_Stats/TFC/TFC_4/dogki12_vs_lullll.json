@@ -3,6 +3,13 @@
         "Name": "dogki12_vs_lullll",
         "Event": "TFC_4"
     },
+    "Records": [],
+    "Result": [
+        "29-28 lullll",
+        "29-28 lullll",
+        "lullll via decision.",
+        "DECISION"
+    ],
     "dogki12": {
         "Strikes Landed": 4,
         "Strikes Thrown": 13,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 lullll",
-        "29-28 lullll",
-        "lullll via decision."
-    ]
+    "Winner": "lullll"
 }

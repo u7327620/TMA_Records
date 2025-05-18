@@ -3,6 +3,13 @@
         "Name": "Bongdabang_vs_Logan500",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Bongdabang",
+        "29-28 Bongdabang",
+        "Bongdabang via decision.",
+        "DECISION"
+    ],
     "Bongdabang": {
         "Strikes Landed": 11,
         "Strikes Thrown": 21,
@@ -34,9 +41,5 @@
         "Submissions Attempted": 0,
         "Dipshit Level": 100.0
     },
-    "Result": [
-        "29-28 Bongdabang",
-        "29-28 Bongdabang",
-        "Bongdabang via decision."
-    ]
+    "Winner": "bongdabang"
 }

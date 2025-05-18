@@ -3,6 +3,13 @@
         "Name": "Lostmail_vs_Supatroop",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Supatroop",
+        "29-28 Supatroop",
+        "Supatroop via decision.",
+        "DECISION"
+    ],
     "Lostmail": {
         "Strikes Landed": 7,
         "Strikes Thrown": 18,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Supatroop",
-        "29-28 Supatroop",
-        "Supatroop via decision."
-    ]
+    "Winner": "supatroop"
 }

@@ -3,6 +3,14 @@
         "Name": "Danewninja_vs_Dogki12",
         "Event": "TFC_14"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Danewninja",
+        "28-27 Dogki12  (cheese from danew frame 180 R1)(cheese from danew frame 165 R3)",
+        "28-27 Dogki12 (point deducted from danew for cheese at frames 335-330 and at frame 20-10 in R2)(point deducted from danew for cheese)",
+        "Dogki12 via decision.",
+        "DECISION"
+    ],
     "Danewninja": {
         "Strikes Landed": 19,
         "Strikes Thrown": 37,
@@ -33,10 +41,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 1
     },
-    "Result": [
-        "29-28 Danewninja",
-        "28-27 Dogki12  (cheese from danew frame 180 R1)(cheese from danew frame 165 R3)",
-        "28-27 Dogki12 (point deducted from danew for cheese at frames 335-330 and at frame 20-10 in R2)(point deducted from danew for cheese)",
-        "Dogki12 via decision."
-    ]
+    "Winner": "dogki12"
 }

@@ -3,6 +3,13 @@
         "Name": "Reclusivx_vs_Bloodyjay",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "29-26 Reclucivx",
+        "29-26 Reclusivx",
+        "Reclusivx via decision.",
+        "DECISION"
+    ],
     "Reclusivx": {
         "Strikes Landed": 14,
         "Strikes Thrown": 26,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-26 Reclucivx",
-        "29-26 Reclusivx",
-        "Reclusivx via decision."
-    ]
+    "Winner": "reclusivx"
 }

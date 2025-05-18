@@ -3,6 +3,13 @@
         "Name": "Sparturnha_vs_Danewninja",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Sparturnha",
+        "30-26 Sparturnha",
+        "Sparturnha via decision.",
+        "DECISION"
+    ],
     "Sparturnha": {
         "Strikes Landed": 31,
         "Strikes Thrown": 52,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 Sparturnha",
-        "30-26 Sparturnha",
-        "Sparturnha via decision."
-    ]
+    "Winner": "sparturnha"
 }

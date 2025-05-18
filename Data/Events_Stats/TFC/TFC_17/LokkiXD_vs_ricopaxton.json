@@ -3,6 +3,13 @@
         "Name": "LokkiXD_vs_ricopaxton",
         "Event": "TFC_17"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Ricopaxton",
+        "29-28 Ricopaxton",
+        "Ricopaxton via decision.",
+        "DECISION"
+    ],
     "LokkiXD": {
         "Strikes Landed": 0,
         "Strikes Thrown": 8,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Ricopaxton",
-        "29-28 Ricopaxton",
-        "Ricopaxton via decision."
-    ]
+    "Winner": "ricopaxton"
 }

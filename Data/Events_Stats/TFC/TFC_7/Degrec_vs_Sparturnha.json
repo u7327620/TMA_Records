@@ -3,6 +3,13 @@
         "Name": "Degrec_vs_Sparturnha",
         "Event": "TFC_7"
     },
+    "Records": [],
+    "Result": [
+        "30-27 Sparturnha",
+        "30-27 Sparturnha",
+        "Sparturnha via decision.",
+        "DECISION"
+    ],
     "Degrec": {
         "Strikes Landed": 11,
         "Strikes Thrown": 28,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 100.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 Sparturnha",
-        "30-27 Sparturnha",
-        "Sparturnha via decision."
-    ]
+    "Winner": "sparturnha"
 }

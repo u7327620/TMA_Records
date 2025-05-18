@@ -3,6 +3,13 @@
         "Name": "Rouxster_vs_Lullll",
         "Event": "TFC_9"
     },
+    "Records": [],
+    "Result": [
+        "29-27 Rouxster",
+        "29-28 Rouxster",
+        "Rouxster via decision.",
+        "DECISION"
+    ],
     "Rouxster": {
         "Strikes Landed": 15,
         "Strikes Thrown": 29,
@@ -39,9 +46,5 @@
         "Takedown Defense Rate": 66.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-27 Rouxster",
-        "29-28 Rouxster",
-        "Rouxster via decision."
-    ]
+    "Winner": "rouxster"
 }

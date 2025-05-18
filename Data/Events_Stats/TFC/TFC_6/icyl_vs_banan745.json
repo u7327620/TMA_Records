@@ -3,6 +3,13 @@
         "Name": "icyl_vs_banan745",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "29-28 icyl",
+        "29-28 icyl",
+        "icyl via decision.",
+        "DECISION"
+    ],
     "icyl": {
         "Strikes Landed": 13,
         "Strikes Thrown": 31,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 icyl",
-        "29-28 icyl",
-        "icyl via decision."
-    ]
+    "Winner": "icyl"
 }

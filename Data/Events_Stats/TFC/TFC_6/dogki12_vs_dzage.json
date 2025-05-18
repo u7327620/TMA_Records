@@ -3,6 +3,13 @@
         "Name": "dogki12_vs_dzage",
         "Event": "TFC_6"
     },
+    "Records": [],
+    "Result": [
+        "29-28 Dzage",
+        "29-28 Dzage",
+        "Dzage via decision.",
+        "DECISION"
+    ],
     "dogki12": {
         "Strikes Landed": 12,
         "Strikes Thrown": 21,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 Dzage",
-        "29-28 Dzage",
-        "Dzage via decision."
-    ]
+    "Winner": "dzage"
 }

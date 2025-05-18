@@ -3,6 +3,13 @@
         "Name": "yahummy_vs_Chev",
         "Event": "TFC_11"
     },
+    "Records": [],
+    "Result": [
+        "29-28 yahummy",
+        "29-28 yahummy",
+        "yahummy via decision.",
+        "DECISION"
+    ],
     "yahummy": {
         "Strikes Landed": 23,
         "Strikes Thrown": 41,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "29-28 yahummy",
-        "29-28 yahummy",
-        "yahummy via decision."
-    ]
+    "Winner": "yahummy"
 }

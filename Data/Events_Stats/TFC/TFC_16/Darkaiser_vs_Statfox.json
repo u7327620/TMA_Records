@@ -3,6 +3,13 @@
         "Name": "Darkaiser_vs_Statfox",
         "Event": "TFC_16"
     },
+    "Records": [],
+    "Result": [
+        "30-26 Darkaiser",
+        "30-26 Darkaiser",
+        "Darkaiser via decision.",
+        "DECISION"
+    ],
     "Statfox": {
         "Strikes Landed": 4,
         "Strikes Thrown": 21,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-26 Darkaiser",
-        "30-26 Darkaiser",
-        "Darkaiser via decision."
-    ]
+    "Winner": "darkaiser"
 }

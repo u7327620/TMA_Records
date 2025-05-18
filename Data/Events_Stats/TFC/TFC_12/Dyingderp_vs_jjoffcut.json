@@ -3,6 +3,13 @@
         "Name": "Dyingderp_vs_jjoffcut",
         "Event": "TFC_12"
     },
+    "Records": [],
+    "Result": [
+        "30-27 jjoffcut",
+        "30-27 jjoffcut",
+        "jjoffcut via decision.",
+        "DECISION"
+    ],
     "Dyingderp": {
         "Strikes Landed": 8,
         "Strikes Thrown": 15,
@@ -33,9 +40,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
     },
-    "Result": [
-        "30-27 jjoffcut",
-        "30-27 jjoffcut",
-        "jjoffcut via decision."
-    ]
+    "Winner": "jjoffcut"
 }

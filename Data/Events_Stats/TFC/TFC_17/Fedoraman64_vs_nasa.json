@@ -6,6 +6,13 @@
             "only 1st round"
         ]
     },
+    "Records": [],
+    "Result": [
+        "29-28 Fedoraman64",
+        "29-28 Fedoraman64",
+        "Fedoraman64 via decision.",
+        "DECISION"
+    ],
     "Fedoraman64": {
         "Strikes Landed": 15,
         "Strikes Thrown": 28,
@@ -36,9 +43,5 @@
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 2
     },
-    "Result": [
-        "29-28 Fedoraman64",
-        "29-28 Fedoraman64",
-        "Fedoraman64 via decision."
-    ]
+    "Winner": "fedoraman64"
 }
