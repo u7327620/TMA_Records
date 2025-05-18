@@ -18,6 +18,14 @@ class Player:
         else:
             return self.matches
 
+    def get_win_loss(self, event_name: str=None) -> {}:
+        if event_name:
+            matches = [x for x in self.matches if x.event_name == event_name]
+        else:
+            matches = self.matches
+
+        wins = len([x for x in self.matches if x.result])
+
     def get_stats(self, event_name: str=None) -> dict:
         if event_name: # Filter by specific event
             matches = [x for x in self.matches if x.event_name == event_name]

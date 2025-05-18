@@ -1,0 +1,9 @@
+from enum import Enum
+
+class MatchResult(Enum):
+    DECISION = "via decision.", "via unanimous decision.", "via split decision.", "via majority decision."
+    FORFEIT = "via forfeit."
+    TKO = "via TKO."
+    DRAW = "unanimous draw.", "split draw.", "majority draw.", "draw."
+    SUBMISSION = "via submission."
+    UNDOCUMENTED = "undocumented."

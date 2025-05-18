@@ -38,5 +38,3 @@ class ToribashMatch:
                     self.stats.update({key: f_data[key]})
                 else:
                     raise RuntimeError("Unknown key in data")
-
-    

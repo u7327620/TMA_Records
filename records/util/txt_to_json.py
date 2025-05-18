@@ -1,15 +1,16 @@
 import json
 import os
 import re
+from records.util.possible_results import MatchResult
 
-def convert_match_to_json(file_path: str) -> dict:
-    with open(file_path, 'r') as file:
-        raw_lines = file.readlines()
+def convert_match_to_json(p: str) ->  dict[str, dict]:
+    with open(p, 'r') as f:
+        raw_lines = f.readlines()
 
     lines = [line.strip() for line in raw_lines if line.strip()]
-    stats = {"Meta": {}}
-    stats["Meta"]["Name"] = file_path.split("/")[-1].split(".")[0]
-    stats["Meta"]["Event"] = file_path.split("/")[-2]
+    stats = {"Meta": {}, "Records": [], "Result": []}
+    stats["Meta"]["Name"] = p.split("/")[-1].split(".")[0]
+    stats["Meta"]["Event"] = p.split("/")[-2]
 
     meta_lines = []
     record_lines = []
@@ -79,8 +80,15 @@ def convert_match_to_json(file_path: str) -> dict:
     if result_lines:
         stats["Result"] = result_lines if len(result_lines) > 1 else result_lines[0]
     else:
-        stats["Result"] = "Unknown"
+        stats["Result"] = ["Unknown"]
 
+    res = MatchResult(stats["Result"][-1])
+    if res == MatchResult.DRAW:
+        stats["Result"].append("DRAW")
+    elif res == MatchResult.UNDOCUMENTED:
+        stats["Result"].append("UNDOCUMENTED")
+    else:
+        stats["Result"].append(res)
     return stats
 
 
