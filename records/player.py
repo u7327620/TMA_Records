@@ -10,9 +10,9 @@ class Player:
         return self.player_name.lower() == other.player_name.lower()
 
     def add_match(self, match: ToribashMatch):
-        pass
+        self.matches.append(match)
 
-    def get_match_history(self, event_name: str=None) -> list[ToribashMatch]:
+    def get_matches(self, event_name: str=None) -> list[ToribashMatch]:
         if event_name: # Filter by specific event
             return [x for x in self.matches if x.event_name == event_name]
         else:
@@ -26,13 +26,15 @@ class Player:
 
         stats = {}
         for match in matches:
-            p = None
             if match.player1_name == self.player_name:
                 p = match.player1_name
             elif match.player2_name == self.player_name:
                 p = match.player2_name
             else:
                 raise RuntimeError(f"{match.player1_name} nor player object {match.player2_name} match {self.player_name}")
-            for stat in match.stats[p]:
-                stats[stat.name] += stat.value
+            for key in match.stats[p]:
+                if key in stats.keys():
+                    stats[key] += match.stats[p][key]
+                else:
+                    stats.update({key: match.stats[p][key]})
         return stats

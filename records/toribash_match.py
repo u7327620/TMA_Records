@@ -1,14 +1,13 @@
 import json
 import os
-from importlib.resources import files
 
 
 class ToribashMatch:
-    def __init__(self, file_path: str):
-        self.file_path: os.path = files(file_path)
+    def __init__(self, file_path: str | os.PathLike):
+        self.file_path: os.path = file_path
         self.player1_name = None
         self.player2_name = None
-        self.stats = None
+        self.stats = {}
         self.meta = None
         self.result = None
         self.records = None
@@ -33,10 +32,10 @@ class ToribashMatch:
             else:
                 if not self.player1_name:
                     self.player1_name = key
-                    self.stats += f_data[key]
+                    self.stats.update({key: f_data[key]})
                 elif not self.player2_name:
                     self.player2_name = key
-                    self.stats += f_data[key]
+                    self.stats.update({key: f_data[key]})
                 else:
                     raise RuntimeError("Unknown key in data")
 
