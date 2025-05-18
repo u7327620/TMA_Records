@@ -1,6 +1,6 @@
 import os
 from trueskill import Rating, quality_1vs1, rate_1vs1
-from Scripts.records.fight import Fight
+from records import Fight
 from result import MatchResult
 from util import get_all_records
 

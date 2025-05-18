@@ -1,6 +1,6 @@
 from result import MatchResult
-from Scripts.records.player import Player
-from Scripts.records.fight import Fight
+from records.player import Player
+from records import Fight
 
 class Record:
     def __init__(self, player:Player):

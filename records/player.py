@@ -1,4 +1,4 @@
-from Scripts.records.toribash_match import ToribashMatch
+from records.toribash_match import ToribashMatch
 
 
 class Player:

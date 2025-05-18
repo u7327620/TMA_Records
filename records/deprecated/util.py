@@ -1,5 +1,5 @@
 import os
-from records import Record
+from records.deprecated.records import Record
 from fight import Fight
 
 def get_all_records() -> dict[str, Record]:
