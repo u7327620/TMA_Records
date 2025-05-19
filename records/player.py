@@ -18,13 +18,23 @@ class Player:
         else:
             return self.matches
 
-    def get_win_loss(self, event_name: str=None) -> {}:
+    def get_win_loss(self, event_name: str=None) -> (int, int, int):
         if event_name:
             matches = [x for x in self.matches if x.event_name == event_name]
         else:
             matches = self.matches
 
-        wins = len([x for x in self.matches if x.result])
+        wins, losses, draws = 0, 0, 0
+        for match in matches:
+            if match.winner:
+                if match.winner.lower() == self.player_name.lower():
+                    wins += 1
+                else:
+                    losses += 1
+            else:
+                if match.result[-1] == "DRAW":
+                    draws += 1
+        return wins, losses, draws
 
     def get_stats(self, event_name: str=None) -> dict:
         if event_name: # Filter by specific event

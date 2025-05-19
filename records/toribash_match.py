@@ -9,6 +9,7 @@ class ToribashMatch:
         self.player2_name = None
         self.stats = {}
         self.meta = None
+        self.winner = None
         self.result = None
         self.records = None
         self.event_name = None
@@ -29,12 +30,14 @@ class ToribashMatch:
                 self.result = f_data[key]
             elif key == 'Records':
                 self.records = f_data[key]
+            elif key == 'Winner':
+                self.winner = f_data[key]
             else:
                 if not self.player1_name:
-                    self.player1_name = key
-                    self.stats.update({key: f_data[key]})
+                    self.player1_name = key.lower()
+                    self.stats.update({key.lower(): f_data[key]})
                 elif not self.player2_name:
-                    self.player2_name = key
-                    self.stats.update({key: f_data[key]})
+                    self.player2_name = key.lower()
+                    self.stats.update({key.lower(): f_data[key]})
                 else:
-                    raise RuntimeError("Unknown key in data")
+                    print(f"Unknown key in data: {key} from {file_path}")

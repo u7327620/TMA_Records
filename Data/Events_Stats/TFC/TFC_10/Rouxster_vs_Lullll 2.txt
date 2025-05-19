@@ -36,7 +36,7 @@ Takedowns Attempted 1
 Takedown Accuracy 0%
 Takedowns Defended 2
 Times Taken Down 4
-Takedown Defense Rate 
+Takedown Defense Rate 33%
 Submissions Attempted 0
 
 --- RESULT --- 

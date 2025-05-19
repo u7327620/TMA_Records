@@ -21,9 +21,8 @@
         "Takedowns Attempted": 0,
         "Takedown Accuracy": 0,
         "Takedowns Defended": 0,
-        "Times Taken Down": 0
-    },
-    "Takedown Defense Rate0": {
+        "Times Taken Down": 0,
+        "Takedown Defense Rate": 0,
         "Submissions Attempted": 0
     },
     "unihunter": {

@@ -11,7 +11,8 @@
         "48-48 Draw",
         "48-48 Draw",
         "48-48 Draw",
-        "Majority draw."
+        "Majority draw.",
+        "DRAW"
     ],
     "Rouxster": {
         "Strikes Landed": 16,
@@ -45,9 +46,8 @@
         "Takedowns Attempted": 1,
         "Takedown Accuracy": 0.0,
         "Takedowns Defended": 2,
-        "Times Taken Down": 4
-    },
-    "Takedown Defense Rate": {
+        "Times Taken Down": 4,
+        "Takedown Defense Rate": 33.0,
         "Submissions Attempted": 0
     }
 }

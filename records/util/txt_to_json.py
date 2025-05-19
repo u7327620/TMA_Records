@@ -87,7 +87,7 @@ def convert_match_to_json(p: str) ->  dict[str, dict]:
     res = stats["Result"][-1].lower().split(" ")
     if len(res) < 3:
         # Should only be draws or undocumented
-        res = MatchResult.from_text(res)
+        res = MatchResult.from_text(stats["Result"][-1].lower())
     else:
         # Should be <Name> via <win type>
         winner = res[0]
