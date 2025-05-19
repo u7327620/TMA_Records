@@ -15,6 +15,15 @@ class ToribashMatch:
         self.event_name = None
         self.extract_file_data()
 
+    def __str__(self):
+        if self.winner:
+           return (f"{self.winner} beats "
+                   f"{self.player1_name if self.winner!=self.player1_name else self.player2_name} in: {self.file_path}")
+        elif self.result[-1] == "DRAW":
+            return f"{self.player1_name} draws with {self.player2_name} in: {self.file_path}"
+        else:
+            return f"{self.player1_name} vs {self.player2_name} in: {self.file_path}"
+
     def extract_file_data(self, file_path: str=None):
         if file_path is None:
             file_path = self.file_path
