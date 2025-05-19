@@ -31,7 +31,7 @@ class ToribashMatch:
             elif key == 'Records':
                 self.records = f_data[key]
             elif key == 'Winner':
-                self.winner = f_data[key]
+                self.winner = f_data[key].lower()
             else:
                 if not self.player1_name:
                     self.player1_name = key.lower()

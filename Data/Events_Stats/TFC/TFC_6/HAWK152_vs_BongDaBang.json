@@ -7,7 +7,7 @@
     "Result": [
         "29-27 Hawk",
         "30-26 Hawk",
-        "Hawk via decision.",
+        "Hawk152 via decision.",
         "DECISION"
     ],
     "HAWK152": {
@@ -40,5 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Winner": "hawk"
+    "Winner": "hawk152"
 }
