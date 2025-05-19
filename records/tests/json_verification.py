@@ -25,5 +25,21 @@ class JsonVerification(unittest.TestCase):
                 res = match.result[-1]
                 self.assertTrue(res == "DRAW" or res == "UNDOCUMENTED")
 
+    def test_verify_names(self):
+        json_matches = []
+        tfc_dir = from_relative("../Data/Events_Stats/TFC")
+        for folder in os.listdir(tfc_dir):
+            current_tfc_dir = os.path.join(tfc_dir, folder)
+            for filename in os.listdir(current_tfc_dir):
+                if filename.endswith(".json"):
+                    json_matches.append(ToribashMatch(os.path.join(current_tfc_dir, filename)))
+
+        for match in json_matches:
+            names = match.meta["Name"].split("_vs_")
+            p1 = names[0].lower()
+            p2 = names[1].split(" ")[0].lower() # just in case it's a <name>_vs_<name> 2.json
+            self.assertTrue(p1 == match.player1_name or p1 == match.player2_name, f"\n{p1} is not a fighter in {match.file_path}")
+            self.assertTrue(p2 == match.player1_name or p2 == match.player2_name, f"\n{p2} is not a fighter in {match.file_path}")
+
 if __name__ == '__main__':
     unittest.main()
