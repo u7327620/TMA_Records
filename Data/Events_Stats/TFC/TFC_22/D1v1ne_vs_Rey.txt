@@ -27,7 +27,7 @@ Strikes Defended 30
 Strike Defense Rate 61%
 Knockdowns 0
 Knocked Down 2
-Striking Differential 
+Striking Differential -6
 Takedowns Finished 0
 Takedowns Attempted 1
 Takedown Accuracy 0%

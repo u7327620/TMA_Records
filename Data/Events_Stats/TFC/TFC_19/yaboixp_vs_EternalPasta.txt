@@ -24,7 +24,7 @@ Knockdowns 0
 Striking Differential 2
 Takedowns Finished 0
 Takedowns Attempted 1
-Takedown Accuracy O%
+Takedown Accuracy 0%
 Takedowns Defended 1
 Times Taken Down 0
 Takedown Defense Rate 100%
