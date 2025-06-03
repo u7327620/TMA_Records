@@ -22,13 +22,38 @@ def get_tfc_history() -> dict[str, Player]:
 
 def record_check():
     r = sorted(get_tfc_history().values(), key=lambda x: x.player_name)
-    out = []
+    a = []
+    i = []
+    recent_tfc = ["TFC_22", "TFC_21", "TFC_20"]
     for player in r:
         wins, losses, draws = player.get_win_loss()
-        out.append(f"{player.player_name}: {wins}-{losses}-{draws}")
+        streak = []
+        active = False
+        for tfc in recent_tfc:
+            match = player.get_matches(tfc)
+            if len(match) > 0:
+                active = True
+                match = match[0] # No handling for multiple fights in one event
+                if match.winner:
+                    if match.winner.lower() == player.player_name.lower():
+                        streak.append("w")
+                        continue
+                    else:
+                        streak.append("l")
+                        continue
+            streak.append("?")
 
+        if active:
+            a.append(f"{player.player_name}: {wins}-{losses}-{draws} [{"-".join(streak)}]")
+        else:
+            i.append(f"{player.player_name}: {wins}-{losses}-{draws}")
+
+    print("# Active rankings (last 2 TFC)")
+    print(f"<Name>: <W>-<L>-<D> <{", ".join(recent_tfc)}>\n")
+    print("\n".join(a))
+    print("\n# Inactive rankings")
     print(f"<Name>: <W>-<L>-<D>\n")
-    print("\n".join(out))
+    print("\n".join(i))
 
 def get_all_matches() -> list[ToribashMatch]:
     all_matches: list[ToribashMatch] = []
@@ -41,16 +66,5 @@ def get_all_matches() -> list[ToribashMatch]:
     return all_matches
 
 if __name__ == "__main__":
-    players = get_tfc_history()
-    active = []
-    inactive = []
-    for player in sorted(players.values(), key=lambda x: len(x.matches), reverse=True):
-        if player.get_matches("TFC_22") or player.get_matches("TFC_21"):
-            active.append(f"{player.player_name}, {player.get_win_loss()}")
-        else:
-            inactive.append(f"{player.player_name}, {player.get_win_loss()}")
-    print("# active rankings:\n")
-    print("\n".join(active))
-    print("# inactive rankings:\n")
-    print("\n".join(inactive))
+    record_check()
 
