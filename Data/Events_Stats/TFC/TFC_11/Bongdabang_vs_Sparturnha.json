@@ -8,7 +8,8 @@
         "29-28 Bongdabang",
         "29-28 Bongdabang",
         "Undocumented.",
-        "UNDOCUMENTED"
+        "Bongdabang via decision.",
+        "DECISION"
     ],
     "Bongdabang": {
         "Strikes Landed": 12,
@@ -39,5 +40,6 @@
         "Times Taken Down": 1,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 1
-    }
+    },
+    "Winner": "bongdabang"
 }
