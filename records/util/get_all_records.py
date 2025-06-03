@@ -42,11 +42,15 @@ def get_all_matches() -> list[ToribashMatch]:
 
 if __name__ == "__main__":
     players = get_tfc_history()
+    active = []
+    inactive = []
     for player in sorted(players.values(), key=lambda x: len(x.matches), reverse=True):
-        for match in player.matches:
-            if match.result[-1] == "UNDOCUMENTED":
-                print(f"{match.file_path}, {match.result}")
-            if match.event_name in ["TFC_22", "TFC_21", "TFC_20"]:
-                print(player.player_name, player.get_win_loss())
-                break
+        if player.get_matches("TFC_22") or player.get_matches("TFC_21"):
+            active.append(f"{player.player_name}, {player.get_win_loss()}")
+        else:
+            inactive.append(f"{player.player_name}, {player.get_win_loss()}")
+    print("# active rankings:\n")
+    print("\n".join(active))
+    print("# inactive rankings:\n")
+    print("\n".join(inactive))
 
