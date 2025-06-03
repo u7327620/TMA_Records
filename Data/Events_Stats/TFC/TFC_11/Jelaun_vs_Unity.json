@@ -8,8 +8,7 @@
         "29-27 Unity",
         "30-29 Unity",
         "Undocumented.",
-        "Unity via decision.",
-        "DECISION"
+        "UNDOCUMENTED"
     ],
     "Jelaun": {
         "Strikes Landed": 8,
@@ -40,6 +39,5 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    },
-    "Winner": "unity"
+    }
 }
