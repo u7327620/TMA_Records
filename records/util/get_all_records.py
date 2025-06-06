@@ -20,7 +20,7 @@ def get_tfc_history() -> dict[str, Player]:
 
     return all_players
 
-def record_check():
+def get_tfc_player_records():
     r = sorted(get_tfc_history().values(), key=lambda x: x.player_name)
     a = []
     i = []
@@ -64,7 +64,3 @@ def get_all_matches() -> list[ToribashMatch]:
             if filename.endswith(".json"):
                 all_matches.append(ToribashMatch(os.path.join(current_tfc_dir, filename)))
     return all_matches
-
-if __name__ == "__main__":
-    record_check()
-
