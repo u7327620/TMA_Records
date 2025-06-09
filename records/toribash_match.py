@@ -3,6 +3,20 @@ import os
 
 
 class ToribashMatch:
+    """
+    Represents a recorded (as a .json) match as documented by Yahummy.
+
+    Attributes:
+        file_path (os.path): the file path to the recorded match
+        player1_name (str): first player to appear in the text file
+        player2_name (str): second player to appear in the text file
+        stats (dict[str, Player]): stats for both players accessible by player name
+        meta (): metadata contained in the .json file
+        winner (None or str): if winner, their name .lower() else None
+        result (List[str]): Result key from the .json file
+        records (): Records key from the .json file
+        event_name (str): name of the event that was recorded [TFC_22, TFC_21]
+    """
     def __init__(self, file_path: str | os.PathLike):
         self.file_path: os.path = file_path
         self.player1_name = None
@@ -25,6 +39,7 @@ class ToribashMatch:
             return f"{self.player1_name} vs {self.player2_name} in: {self.file_path}"
 
     def extract_file_data(self, file_path: str=None):
+        """Extracts from .json into the ToribashMatch format. Prints when encountering unknown keys"""
         if file_path is None:
             file_path = self.file_path
 

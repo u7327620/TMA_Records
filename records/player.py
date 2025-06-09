@@ -2,6 +2,14 @@ from records.toribash_match import ToribashMatch
 
 
 class Player:
+    """
+    Represents a player in a ToribashMatch
+
+    Attributes:
+        player_name (str): name of this player [Used for EQ]
+        matches (list[ToribashMatch]): list of ToribashMatch objects the player participated in
+    """
+
     def __init__(self, player_name):
         self.player_name: str = player_name
         self.matches: list[ToribashMatch] = []
@@ -10,15 +18,18 @@ class Player:
         return self.player_name.lower() == other.player_name.lower()
 
     def add_match(self, match: ToribashMatch):
+        """Adds a match to this player's list of matches without any safety checks"""
         self.matches.append(match)
 
     def get_matches(self, event_name: str=None) -> list[ToribashMatch]:
+        """Returns list[ToribashMatch] optionally filtered by ToribashMatch.event_name"""
         if event_name: # Filter by specific event
             return [x for x in self.matches if x.event_name == event_name]
         else:
             return self.matches
 
     def get_win_loss(self, event_name: str=None) -> (int, int, int):
+        """Returns W/L/D optionally filtered by ToribashMatch.event_name"""
         if event_name:
             matches = [x for x in self.matches if x.event_name == event_name]
         else:
@@ -37,6 +48,7 @@ class Player:
         return wins, losses, draws
 
     def get_stats(self, event_name: str=None) -> dict:
+        """Returns dict of stats found in ToribashMatches optionally filtered by ToribashMatch.event_name"""
         if event_name: # Filter by specific event
             matches = [x for x in self.matches if x.event_name == event_name]
         else:
