@@ -1,4 +1,5 @@
 import os
+from json import JSONDecodeError
 
 from records.player import Player
 from records.toribash_match import ToribashMatch
@@ -62,5 +63,8 @@ def get_all_matches() -> list[ToribashMatch]:
         current_tfc_dir = os.path.join(tfc_dir, folder)
         for filename in os.listdir(current_tfc_dir):
             if filename.endswith(".json"):
-                all_matches.append(ToribashMatch(os.path.join(current_tfc_dir, filename)))
+                try:
+                    all_matches.append(ToribashMatch(os.path.join(current_tfc_dir, filename)))
+                except JSONDecodeError as e:
+                    print(f"Error in JSON code for: {os.path.join(current_tfc_dir, filename)}. {e}")
     return all_matches
