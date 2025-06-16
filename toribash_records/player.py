@@ -62,9 +62,18 @@ class Player:
                 p = match.player2_name
             else:
                 raise RuntimeError(f"{match.player1_name} nor player object {match.player2_name} match {self.player_name}")
+
+            silly_keys = ["Accuracy", "Strike Defense Rate", "Takedown Accuracy", "Takedown Defense Rate"]
             for key in match.stats[p]:
-                if key in stats.keys():
+                if key in silly_keys:
+                    continue
+                elif key in stats.keys():
                     stats[key] += match.stats[p][key]
                 else:
                     stats.update({key: match.stats[p][key]})
+
+        stats.update({"Accuracy": stats["Strikes Landed"]/stats["Strikes Thrown"]*100})
+        stats.update({"Strike Defense Rate": stats["Strikes Defended"] / stats["Strikes Absorbed"] * 100})
+        stats.update({"Takedown Accuracy": stats["Takedowns Finished"] / stats["Takedowns Attempted"] * 100})
+        stats.update({"Takedown Defense Rate": stats["Takedowns Defended"] /(stats["Takedowns Defended"] + stats["Times Taken Down"]) * 100})
         return stats

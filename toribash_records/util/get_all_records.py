@@ -42,6 +42,9 @@ def get_tfc_player_records():
                     else:
                         streak.append("l")
                         continue
+                elif match.result[-1] == "DRAW":
+                    streak.append("d")
+                    continue
             streak.append("?")
 
         if active:
