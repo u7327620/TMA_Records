@@ -1,0 +1,21 @@
+--- icyl stats ---
+[W-L-D]: 1-1-0
+Accuracy: 40.0
+Knockdowns: 1
+Strike Defense Rate: 0.0
+Strikes Absorbed: 13
+Strikes Defended: 0
+Strikes Landed: 18
+Strikes Thrown: 45
+Striking Differential: 5
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 0
+Takedowns Defended: 3
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- icyl match history ---
+**L** DECISION in TFC_3 (Hollow_vs_icyl.json)
+**W** DECISION in TFC_6 (icyl_vs_banan745.json)

@@ -1,0 +1,20 @@
+--- vertex stats ---
+[W-L-D]: 1-0-0
+Accuracy: 50.0
+Eamon Smashed: 1
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 5
+Strikes Defended: 0
+Strikes Landed: 14
+Strikes Thrown: 28
+Striking Differential: 11
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- vertex match history ---
+**W** DECISION in TFC_9 (Dyingderp_vs_Vertex.json)

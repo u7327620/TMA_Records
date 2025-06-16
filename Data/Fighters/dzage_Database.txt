@@ -1,0 +1,26 @@
+--- dzage stats ---
+[W-L-D]: 4-2-0
+Accuracy: 39.0728476821192
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 64
+Strikes Defended: 0
+Strikes Landed: 59
+Strikes Thrown: 151
+Striking Differential: -6
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 41.66666666666667
+Takedown Defense Rate: 66.66666666666666
+Takedowns Attempted: 12
+Takedowns Defended: 6
+Takedowns Finished: 5
+Times Taken Down: 3
+
+--- dzage match history ---
+**W** DECISION in TFC_2 (Lostmail_vs_Dzage.json)
+**L** DECISION in TFC_20 (dzage_vs_mainland.json)
+**W** DECISION in TFC_3 (furkan3541_vs_dzage.json)
+**W** DECISION in TFC_5 (Dzage_vs_LokkiXD.json)
+**W** DECISION in TFC_6 (dogki12_vs_dzage.json)
+**L** DECISION in TFC_7 (Dzage_vs_Bladerunnr.json)

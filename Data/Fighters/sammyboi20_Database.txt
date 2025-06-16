@@ -1,0 +1,27 @@
+--- sammyboi20 stats ---
+[W-L-D]: 2-3-1
+Accuracy: 44.84536082474227
+Knockdowns: 1
+Knocked Down: 2
+Strike Defense Rate: 15.789473684210526
+Strikes Absorbed: 76
+Strikes Defended: 12
+Strikes Landed: 87
+Strikes Thrown: 194
+Striking Differential: 11
+Submissions Attempted: 1
+Successful Submissions: 1
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 85.71428571428571
+Takedowns Attempted: 6
+Takedowns Defended: 6
+Takedowns Finished: 3
+Times Taken Down: 1
+
+--- sammyboi20 match history ---
+**D** DRAW in TFC_10 (yahummy_vs_Sammyboi20.json)
+**L** DECISION in TFC_11 (Sammyboi20_vs_Vani3.json)
+**L** DECISION in TFC_13 (Sorude_vs_Sammyboi20.json)
+**W** SUBMISSION in TFC_16 (Fedoraman64_vs_Sammyboi20.json)
+**L** DECISION in TFC_18 (reclusivx_vs_sammyboi20.json)
+**W** DECISION in TFC_7 (sammyboi20_vs_Clemencie.json)

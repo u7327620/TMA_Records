@@ -1,0 +1,23 @@
+--- joemamahah stats ---
+[W-L-D]: 2-0-0
+Accuracy: 66.0377358490566
+Knockdowns: 0
+Knocked Down: 0
+Strike Defense Rate: 50.0
+Strikes Absorbed: 8
+Strikes Defended: 4
+Strikes Landed: 35
+Strikes Thrown: 53
+Striking Differential: 28
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 6
+Takedowns Defended: 1
+Takedowns Finished: 3
+Times Taken Down: 0
+
+--- joemamahah match history ---
+**W** TKO in TFC_21 (joemamahah_vs_Dummybasher.json)
+**W** TKO in TFC_22 (JoemamaHAH_vs_noob02s.json)

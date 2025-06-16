@@ -54,8 +54,7 @@ class Player:
         else:
             matches = self.matches
 
-        stats = {}
-        stats.update({"Successful Submissions": 0})
+        stats = {"Successful Submissions": 0, "Strikes Defended": 0}
         for match in matches:
             if match.player1_name == self.player_name:
                 p = match.player1_name
@@ -75,8 +74,16 @@ class Player:
             if match.result[-1] == "SUBMISSION":
                 stats["Successful Submissions"] += 1
 
-        stats.update({"Accuracy": stats["Strikes Landed"]/stats["Strikes Thrown"]*100})
-        stats.update({"Strike Defense Rate": stats["Strikes Defended"] / stats["Strikes Absorbed"] * 100})
-        stats.update({"Takedown Accuracy": stats["Takedowns Finished"] / stats["Takedowns Attempted"] * 100})
-        stats.update({"Takedown Defense Rate": stats["Takedowns Defended"] /(stats["Takedowns Defended"] + stats["Times Taken Down"]) * 100})
+        try:
+            if stats["Strikes Thrown"] != 0:
+                stats.update({"Accuracy": stats["Strikes Landed"] / stats["Strikes Thrown"] * 100})
+            if stats["Takedowns Attempted"] != 0:
+                stats.update({"Takedown Accuracy": stats["Takedowns Finished"] / stats["Takedowns Attempted"] * 100})
+            if stats["Takedowns Defended"] + stats["Times Taken Down"] != 0:
+                stats.update({"Takedown Defense Rate": stats["Takedowns Defended"] / (stats["Takedowns Defended"] + stats["Times Taken Down"]) * 100})
+            if "Strikes Defended" in stats.keys():
+                if stats["Strikes Absorbed"] != 0:
+                    stats.update({"Strike Defense Rate": stats["Strikes Defended"] / stats["Strikes Absorbed"] * 100})
+        except KeyError as e:
+            print(f"KeyError {e} during {self.player_name} stat retrieval")
         return stats

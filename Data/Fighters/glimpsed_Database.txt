@@ -1,0 +1,19 @@
+--- glimpsed stats ---
+[W-L-D]: 0-1-0
+Accuracy: 33.33333333333333
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 17
+Strikes Defended: 0
+Strikes Landed: 2
+Strikes Thrown: 6
+Striking Differential: -15
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- glimpsed match history ---
+**L** FORFEIT in TFC_15 (Semari_vs_Glimpsed.json)

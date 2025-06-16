@@ -1,0 +1,25 @@
+--- fanczbr stats ---
+[W-L-D]: 3-1-0
+Accuracy: 37.16216216216216
+Knockdowns: 2
+Knocked Down: 0
+Strike Defense Rate: 29.166666666666668
+Strikes Absorbed: 48
+Strikes Defended: 14
+Strikes Landed: 55
+Strikes Thrown: 148
+Striking Differential: 5
+Submissions Attempted: 1
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 33.33333333333333
+Takedowns Attempted: 1
+Takedowns Defended: 1
+Takedowns Finished: 0
+Times Taken Down: 2
+
+--- fanczbr match history ---
+**L** DECISION in TFC_19 (mainland_vs_fanczbr.json)
+**W** DECISION in TFC_20 (Dummybasher_vs_FanczBR.json)
+**W** DECISION in TFC_21 (LokkiXD_vs_FanczBR.json)
+**W** DECISION in TFC_22 (Supatroop_vs_fanczBR.json)

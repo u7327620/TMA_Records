@@ -1,0 +1,19 @@
+--- death29 stats ---
+[W-L-D]: 0-1-0
+Accuracy: 28.000000000000004
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 19
+Strikes Defended: 0
+Strikes Landed: 7
+Strikes Thrown: 25
+Striking Differential: -12
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- death29 match history ---
+**L** DECISION in TFC_20 (TigermaskT_vs_Death29.json)

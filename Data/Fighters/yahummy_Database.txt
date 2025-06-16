@@ -1,0 +1,32 @@
+--- yahummy stats ---
+[W-L-D]: 6-4-1
+Accuracy: 58.54430379746836
+Knockdowns: 5
+Knocked Down: 0
+Strike Defense Rate: 24.242424242424242
+Strikes Absorbed: 99
+Strikes Defended: 24
+Strikes Landed: 185
+Strikes Thrown: 316
+Striking Differential: 86
+Submissions Attempted: 1
+Successful Submissions: 1
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 78.57142857142857
+Takedowns Attempted: 4
+Takedowns Defended: 22
+Takedowns Finished: 2
+Times Taken Down: 6
+
+--- yahummy match history ---
+**L** DECISION in TFC_1 (Yahummy_vs_Rouxster.json)
+**W** DECISION in TFC_1 (Yahummy_vs_Denisandop.json)
+**W** DECISION in TFC_1 (Yahummy_vs_LokkiXD.json)
+**W** DECISION in TFC_1 (Yahummy_vs_Danewninja.json)
+**D** DRAW in TFC_10 (yahummy_vs_Sammyboi20.json)
+**W** DECISION in TFC_11 (yahummy_vs_Chev.json)
+**L** DECISION in TFC_12 (yahummy_vs_Rouxster 2.json)
+**W** DECISION in TFC_12 (yahummy_vs_Lullll.json)
+**W** SUBMISSION in TFC_13 (yahummy_vs_Bladerunnr.json)
+**L** DECISION in TFC_14 (Linxz_vs_Yahummy.json)
+**L** DECISION in TFC_17 (yahummy_vs_Chev.json)

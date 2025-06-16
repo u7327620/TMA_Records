@@ -1,0 +1,25 @@
+--- vonnn stats ---
+[W-L-D]: 1-3-0
+Accuracy: 47.14285714285714
+Knockdowns: 3
+Knocked Down: 1
+Strike Defense Rate: 87.2340425531915
+Strikes Absorbed: 47
+Strikes Defended: 41
+Strikes Landed: 33
+Strikes Thrown: 70
+Striking Differential: -14
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 33.33333333333333
+Takedown Defense Rate: 66.66666666666666
+Takedowns Attempted: 6
+Takedowns Defended: 2
+Takedowns Finished: 2
+Times Taken Down: 1
+
+--- vonnn match history ---
+**L** FORFEIT in TFC_19 (Dummybasher_vs_vonnn.json)
+**L** DECISION in TFC_20 (vonnn_vs_Pharma.json)
+**L** DECISION in TFC_21 (vonnn_vs_Lespeedycore.json)
+**W** DECISION in TFC_22 (vonnn_vs_Sereinity.json)

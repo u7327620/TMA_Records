@@ -1,0 +1,20 @@
+--- hamfisted stats ---
+[W-L-D]: 2-0-0
+Accuracy: 54.0
+Knockdowns: 1
+Strike Defense Rate: 0.0
+Strikes Absorbed: 12
+Strikes Defended: 0
+Strikes Landed: 27
+Strikes Thrown: 50
+Striking Differential: 15
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- hamfisted match history ---
+**W** DECISION in TFC_3 (hamfisted_vs_danewninja.json)
+**W** DECISION in TFC_4 (Hamfisted_vs_Mushin.json)

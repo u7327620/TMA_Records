@@ -1,0 +1,23 @@
+--- exzplode stats ---
+[W-L-D]: 3-0-1
+Accuracy: 46.0
+Knockdowns: 4
+Strike Defense Rate: 0.0
+Strikes Absorbed: 36
+Strikes Defended: 0
+Strikes Landed: 46
+Strikes Thrown: 100
+Striking Differential: 10
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 0
+Takedowns Defended: 3
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- exzplode match history ---
+**W** DECISION in TFC_5 (Danewninja_vs_Exzplode.json)
+**W** FORFEIT in TFC_6 (Kumondojo_vs_Exzplode.json)
+**D** DRAW in TFC_7 (sushiroll_vs_Exzplode.json)
+**W** DECISION in TFC_8 (Exzplode_vs_Unihunter.json)

@@ -1,0 +1,22 @@
+--- sushiroll stats ---
+[W-L-D]: 1-0-1
+Accuracy: 47.91666666666667
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 15
+Strikes Defended: 0
+Strikes Landed: 23
+Strikes Thrown: 48
+Striking Differential: 8
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 33.33333333333333
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 3
+Takedowns Defended: 1
+Takedowns Finished: 1
+Times Taken Down: 0
+
+--- sushiroll match history ---
+**D** DRAW in TFC_7 (sushiroll_vs_Exzplode.json)
+**W** DECISION in TFC_8 (Xer0_vs_Sushiroll.json)

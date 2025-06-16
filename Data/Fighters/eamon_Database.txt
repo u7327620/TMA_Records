@@ -1,0 +1,26 @@
+--- eamon stats ---
+[W-L-D]: 2-3-0
+Accuracy: 58.08383233532935
+Knockdowns: 1
+Knocked Down: 0
+Strike Defense Rate: 35.63218390804598
+Strikes Absorbed: 87
+Strikes Defended: 31
+Strikes Landed: 97
+Strikes Thrown: 167
+Striking Differential: 10
+Submissions Attempted: 1
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 57.14285714285714
+Takedowns Attempted: 4
+Takedowns Defended: 4
+Takedowns Finished: 0
+Times Taken Down: 3
+
+--- eamon match history ---
+**W** DECISION in TFC_10 (Eamon_vs_Fedoraman64.json)
+**W** DECISION in TFC_21 (Eamon_vs_mainland.json)
+**L** DECISION in TFC_22 (reclusivx_vs_Eamon.json)
+**L** DECISION in TFC_8 (Eamon_vs_Linxz.json)
+**L** FORFEIT in TFC_9 (Eamon_vs_Dogki12.json)

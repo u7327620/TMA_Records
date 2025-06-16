@@ -1,0 +1,20 @@
+--- jjoffcut stats ---
+[W-L-D]: 1-0-0
+Accuracy: 58.536585365853654
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 8
+Strikes Defended: 0
+Strikes Landed: 24
+Strikes Thrown: 41
+Striking Differential: 16
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedowns Attempted: 1
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- jjoffcut match history ---
+**W** DECISION in TFC_12 (Dyingderp_vs_jjoffcut.json)

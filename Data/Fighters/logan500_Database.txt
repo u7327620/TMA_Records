@@ -1,0 +1,26 @@
+--- logan500 stats ---
+[W-L-D]: 1-3-1
+Accuracy: 37.24137931034483
+Dipshit Level: 100.0
+Knockdowns: 1
+Strike Defense Rate: 0.0
+Strikes Absorbed: 53
+Strikes Defended: 0
+Strikes Landed: 54
+Strikes Thrown: 145
+Striking Differential: 1
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 60.0
+Takedowns Attempted: 2
+Takedowns Defended: 3
+Takedowns Finished: 1
+Times Taken Down: 2
+
+--- logan500 match history ---
+**L** DECISION in TFC_12 (Bongdabang_vs_Logan500.json)
+**D** DRAW in TFC_14 (Lloyd54321_vs_Logan500.json)
+**W** DECISION in TFC_15 (Logan500_vs_Unity.json)
+**L** DECISION in TFC_20 (logan500_vs_rycardo10.json)
+**L** DECISION in TFC_21 (Logan500_vs_danewninja.json)

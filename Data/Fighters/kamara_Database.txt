@@ -1,0 +1,28 @@
+--- kamara stats ---
+[W-L-D]: 5-2-0
+Accuracy: 46.391752577319586
+Knockdowns: 2
+Knocked Down: 0
+Strike Defense Rate: 37.68115942028986
+Strikes Absorbed: 69
+Strikes Defended: 26
+Strikes Landed: 90
+Strikes Thrown: 194
+Striking Differential: 21
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 33.33333333333333
+Takedown Defense Rate: 75.0
+Takedowns Attempted: 3
+Takedowns Defended: 9
+Takedowns Finished: 1
+Times Taken Down: 3
+
+--- kamara match history ---
+**L** DECISION in TFC_13 (Kamara_vs_Lloyd54321.json)
+**W** DECISION in TFC_17 (Kamara_vs_Darkaiser.json)
+**W** DECISION in TFC_18 (Kamara_vs_Mainland.json)
+**W** DECISION in TFC_19 (Kamara_vs_Anx.json)
+**W** DECISION in TFC_20 (slutmoptiq_vs_Kamara.json)
+**W** DECISION in TFC_21 (bladerunnr_vs_kamara.json)
+**L** DECISION in TFC_22 (Kamara_vs_Chev.json)

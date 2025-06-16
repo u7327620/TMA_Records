@@ -1,0 +1,24 @@
+--- ricopaxton stats ---
+[W-L-D]: 3-1-0
+Accuracy: 36.76470588235294
+Knockdowns: 2
+Strike Defense Rate: 0.0
+Strikes Absorbed: 42
+Strikes Defended: 0
+Strikes Landed: 25
+Strikes Thrown: 68
+Striking Differential: -17
+Submissions Attempted: 2
+Successful Submissions: 0
+Takedown Accuracy: 60.0
+Takedown Defense Rate: 0.0
+Takedowns Attempted: 5
+Takedowns Defended: 0
+Takedowns Finished: 3
+Times Taken Down: 4
+
+--- ricopaxton match history ---
+**W** DECISION in TFC_10 (Dyingderp_vs_Ricopaxton.json)
+**L** DECISION in TFC_11 (Jelaun_vs_Ricopaxton.json)
+**W** DECISION in TFC_17 (LokkiXD_vs_ricopaxton.json)
+**W** DECISION in TFC_6 (kekc1995_vs_ricopaxton.json)

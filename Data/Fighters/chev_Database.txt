@@ -1,0 +1,36 @@
+--- chev stats ---
+[W-L-D]: 10-5-0
+Accuracy: 43.35511982570806
+Knockdowns: 4
+Knocked Down: 0
+Strike Defense Rate: 8.212560386473431
+Strikes Absorbed: 207
+Strikes Defended: 17
+Strikes Landed: 199
+Strikes Thrown: 459
+Striking Differential: -8
+Submissions Attempted: 1
+Successful Submissions: 0
+Takedown Accuracy: 30.0
+Takedown Defense Rate: 60.0
+Takedowns Attempted: 20
+Takedowns Defended: 12
+Takedowns Finished: 6
+Times Taken Down: 8
+
+--- chev match history ---
+**L** DECISION in TFC_11 (yahummy_vs_Chev.json)
+**L** DECISION in TFC_12 (Mushin_vs_Chev.json)
+**W** DECISION in TFC_13 (Dogki12_vs_Chev.json)
+**W** DECISION in TFC_14 (Jelaun_vs_Chev.json)
+**W** DECISION in TFC_14 (Danewninja_vs_Chev.json)
+**L** DECISION in TFC_15 (Linxz_vs_Chev.json)
+**L** DECISION in TFC_16 (Bladerunnr_vs_Chev.json)
+**W** DECISION in TFC_17 (yahummy_vs_Chev.json)
+**L** DECISION in TFC_18 (Semari_vs_Chev.json)
+**W** FORFEIT in TFC_19 (Reclusivx_vs_Chev.json)
+**W** DECISION in TFC_20 (bladerunnr_vs_Chev 2.json)
+**W** DECISION in TFC_22 (Kamara_vs_Chev.json)
+**W** DECISION in TFC_7 (Banan745_vs_Chev.json)
+**W** DECISION in TFC_8 (Dogki12_vs_Chev.json)
+**W** DECISION in TFC_9 (Chev_vs_Unihunter.json)

@@ -1,0 +1,29 @@
+--- unihunter stats ---
+[W-L-D]: 3-6-0
+Accuracy: 38.69565217391304
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 67
+Strikes Defended: 0
+Strikes Landed: 89
+Strikes Thrown: 230
+Striking Differential: 22
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 25.0
+Takedowns Attempted: 1
+Takedowns Defended: 2
+Takedowns Finished: 0
+Times Taken Down: 6
+
+--- unihunter match history ---
+**L** DECISION in TFC_1 (Brucce_vs_Unihunter.json)
+**L** DECISION in TFC_13 (dyingderp_vs_unihunter.json)
+**L** DECISION in TFC_2 (BongDaBang_vs_Unihunter.json)
+**W** DECISION in TFC_4 (LokkiXD_vs_Unihunter.json)
+**L** DECISION in TFC_5 (unihunter_vs_iprime.json)
+**W** DECISION in TFC_6 (Mainland_vs_Unihunter.json)
+**W** DECISION in TFC_7 (Danewninja_vs_Unihunter.json)
+**L** DECISION in TFC_8 (Exzplode_vs_Unihunter.json)
+**L** DECISION in TFC_9 (Chev_vs_Unihunter.json)

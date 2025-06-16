@@ -1,0 +1,20 @@
+--- batiscafff stats ---
+[W-L-D]: 0-1-0
+Accuracy: 45.16129032258064
+Knockdowns: 0
+Knocked Down: 1
+Strike Defense Rate: 190.9090909090909
+Strikes Absorbed: 11
+Strikes Defended: 21
+Strikes Landed: 14
+Strikes Thrown: 31
+Striking Differential: 3
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- batiscafff match history ---
+**L** DECISION in TFC_22 (vlonenixks_vs_batiscafff.json)

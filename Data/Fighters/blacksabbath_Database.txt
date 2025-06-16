@@ -1,0 +1,20 @@
+--- blacksabbath stats ---
+[W-L-D]: 1-0-0
+Accuracy: 40.909090909090914
+Knockdowns: 0
+Knocked Down: 0
+Strike Defense Rate: 700.0
+Strikes Absorbed: 2
+Strikes Defended: 14
+Strikes Landed: 9
+Strikes Thrown: 22
+Striking Differential: 7
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- blacksabbath match history ---
+**W** FORFEIT in TFC_19 (Cryink_vs_Blacksabbath.json)

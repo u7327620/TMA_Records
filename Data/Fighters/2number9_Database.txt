@@ -1,0 +1,26 @@
+--- 2number9 stats ---
+[W-L-D]: 3-1-1
+Accuracy: 43.08943089430895
+Knockdowns: 0
+Knocked Down: 0
+Strike Defense Rate: 18.181818181818183
+Strikes Absorbed: 55
+Strikes Defended: 10
+Strikes Landed: 53
+Strikes Thrown: 123
+Striking Differential: -2
+Submissions Attempted: 4
+Successful Submissions: 0
+Takedown Accuracy: 45.45454545454545
+Takedown Defense Rate: 42.857142857142854
+Takedowns Attempted: 11
+Takedowns Defended: 3
+Takedowns Finished: 5
+Times Taken Down: 4
+
+--- 2number9 match history ---
+**W** DECISION in TFC_16 (2number9_vs_Horrorz.json)
+**W** DECISION in TFC_18 (noob02s_vs_2number9.json)
+**D** DRAW in TFC_19 (2number9_vs_LokkiXD.json)
+**W** DECISION in TFC_20 (2number9_vs_dyingderp.json)
+**L** DECISION in TFC_21 (slutmoptiq_vs_2number9.json)

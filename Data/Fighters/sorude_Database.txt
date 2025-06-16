@@ -1,0 +1,33 @@
+--- sorude stats ---
+[W-L-D]: 6-4-2
+Accuracy: 45.6
+Knockdowns: 3
+Knocked Down: 0
+Strike Defense Rate: 68.54838709677419
+Strikes Absorbed: 124
+Strikes Defended: 85
+Strikes Landed: 114
+Strikes Thrown: 250
+Striking Differential: -10
+Submissions Attempted: 4
+Successful Submissions: 1
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 88.88888888888889
+Takedowns Attempted: 24
+Takedowns Defended: 16
+Takedowns Finished: 12
+Times Taken Down: 2
+
+--- sorude match history ---
+**W** FORFEIT in TFC_11 (Sorude_vs_Reclusivx.json)
+**D** DRAW in TFC_12 (Sorude_vs_Reiki.json)
+**W** DECISION in TFC_13 (Sorude_vs_Sammyboi20.json)
+**W** DECISION in TFC_14 (Sorude_vs_Unity.json)
+**W** SUBMISSION in TFC_15 (Sorude_vs_Bongdabang.json)
+**L** DECISION in TFC_16 (Lullll_vs_Sorude.json)
+**L** DECISION in TFC_17 (Bladerunnr_vs_Sorude.json)
+**W** DECISION in TFC_18 (bladerunnr_vs_Sorude 2.json)
+**L** DECISION in TFC_19 (Sorude_vs_Semari.json)
+**L** DECISION in TFC_20 (lullll_vs_Sorude 2.json)
+**D** DRAW in TFC_21 (rycardo10_vs_Sorude.json)
+**W** DECISION in TFC_22 (Sorude_vs_Fedoraman64.json)

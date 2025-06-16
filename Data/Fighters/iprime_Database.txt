@@ -1,0 +1,25 @@
+--- iprime stats ---
+[W-L-D]: 4-1-0
+Accuracy: 36.75213675213676
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 31
+Strikes Defended: 0
+Strikes Landed: 43
+Strikes Thrown: 117
+Striking Differential: 12
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 33.33333333333333
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 3
+Takedowns Defended: 5
+Takedowns Finished: 1
+Times Taken Down: 0
+
+--- iprime match history ---
+**L** DECISION in TFC_1 (Bladerunnr_vs_iPrime.json)
+**W** DECISION in TFC_3 (iPrime_vs_hugsteur.json)
+**W** DECISION in TFC_5 (unihunter_vs_iprime.json)
+**W** DECISION in TFC_6 (Danewninja_vs_iPrime.json)
+**W** DECISION in TFC_9 (iPrime_vs_Jelaun.json)

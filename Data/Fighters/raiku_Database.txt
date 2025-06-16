@@ -1,0 +1,24 @@
+--- raiku stats ---
+[W-L-D]: 2-1-0
+Accuracy: 41.228070175438596
+Knockdowns: 3
+Knocked Down: 0
+Strike Defense Rate: 92.3076923076923
+Strikes Absorbed: 39
+Strikes Defended: 36
+Strikes Landed: 47
+Strikes Thrown: 114
+Striking Differential: 8
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 33.33333333333333
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 3
+Takedowns Defended: 9
+Takedowns Finished: 1
+Times Taken Down: 0
+
+--- raiku match history ---
+**W** DECISION in TFC_20 (raiku_vs_bloodyjay.json)
+**L** DECISION in TFC_21 (Raiku_vs_Jouka.json)
+**W** DECISION in TFC_22 (Raiku_vs_xRTNx.json)

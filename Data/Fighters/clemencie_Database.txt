@@ -1,0 +1,22 @@
+--- clemencie stats ---
+[W-L-D]: 0-2-0
+Accuracy: 26.190476190476193
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 29
+Strikes Defended: 0
+Strikes Landed: 11
+Strikes Thrown: 42
+Striking Differential: -18
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 0.0
+Takedowns Attempted: 3
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 2
+
+--- clemencie match history ---
+**L** DECISION in TFC_4 (Mainland_vs_Clemencie.json)
+**L** DECISION in TFC_7 (sammyboi20_vs_Clemencie.json)

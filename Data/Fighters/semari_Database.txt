@@ -1,0 +1,34 @@
+--- semari stats ---
+[W-L-D]: 8-4-0
+Accuracy: 49.597855227882036
+Almighty Bonks: 1
+Knockdowns: 3
+Knocked Down: 0
+Strike Defense Rate: 29.655172413793103
+Strikes Absorbed: 145
+Strikes Defended: 43
+Strikes Landed: 185
+Strikes Thrown: 373
+Striking Differential: 40
+Submissions Attempted: 2
+Successful Submissions: 0
+Takedown Accuracy: 21.73913043478261
+Takedown Defense Rate: 92.3076923076923
+Takedowns Attempted: 23
+Takedowns Defended: 12
+Takedowns Finished: 5
+Times Taken Down: 1
+
+--- semari match history ---
+**W** DECISION in TFC_11 (Semari_vs_Jouka.json)
+**L** DECISION in TFC_12 (Semari_vs_Jelaun.json)
+**L** DECISION in TFC_14 (Semari_vs_Vani3.json)
+**W** FORFEIT in TFC_15 (Semari_vs_Glimpsed.json)
+**W** DECISION in TFC_16 (Semari_vs_Rouxster.json)
+**W** DECISION in TFC_18 (Semari_vs_Chev.json)
+**W** DECISION in TFC_19 (Sorude_vs_Semari.json)
+**W** DECISION in TFC_20 (Linxz_vs_Semari.json)
+**W** FORFEIT in TFC_22 (Semari_vs_Lullll.json)
+**L** TKO in TFC_5 (HAWK152_vs_Semari.json)
+**L** DECISION in TFC_8 (jelaun_vs_Semari.json)
+**W** DECISION in TFC_9 (Semari_vs_Bongdabang.json)

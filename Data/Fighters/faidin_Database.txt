@@ -1,0 +1,27 @@
+--- faidin stats ---
+[W-L-D]: 4-2-0
+Accuracy: 50.0
+Knockdowns: 1
+Knocked Down: 1
+Strike Defense Rate: 25.333333333333336
+Strikes Absorbed: 75
+Strikes Defended: 19
+Strikes Landed: 119
+Strikes Thrown: 238
+Striking Differential: 44
+Submissions Attempted: 1
+Successful Submissions: 1
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 50.0
+Takedowns Attempted: 2
+Takedowns Defended: 4
+Takedowns Finished: 0
+Times Taken Down: 4
+
+--- faidin match history ---
+**W** DECISION in TFC_17 (Faidin_vs_Dyingderp.json)
+**W** DECISION in TFC_18 (Danewninja_vs_Faidin.json)
+**L** DECISION in TFC_19 (Slutmoptiq_vs_Faidin.json)
+**W** DECISION in TFC_20 (supatroop_vs_faidin.json)
+**W** DECISION in TFC_21 (faidin_vs_anx.json)
+**L** SUBMISSION in TFC_22 (bladerunnr_vs_faidin.json)

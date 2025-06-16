@@ -1,0 +1,21 @@
+--- ratcum stats ---
+[W-L-D]: 0-1-0
+Accuracy: 0.0
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 19
+Strikes Defended: 0
+Strikes Landed: 0
+Strikes Thrown: 15
+Striking Differential: -19
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 50.0
+Takedowns Attempted: 1
+Takedowns Defended: 1
+Takedowns Finished: 0
+Times Taken Down: 1
+
+--- ratcum match history ---
+**L** DECISION in TFC_1 (Rouxster_vs_Ratcum.json)

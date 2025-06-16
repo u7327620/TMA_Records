@@ -1,0 +1,32 @@
+--- jelaun stats ---
+[W-L-D]: 6-5-0
+Accuracy: 45.76923076923077
+Knockdowns: 2
+Knocked Down: 0
+Strike Defense Rate: 4.310344827586207
+Strikes Absorbed: 116
+Strikes Defended: 5
+Strikes Landed: 119
+Strikes Thrown: 260
+Striking Differential: 3
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 33.33333333333333
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 6
+Takedowns Defended: 9
+Takedowns Finished: 2
+Times Taken Down: 0
+
+--- jelaun match history ---
+**L** DECISION in TFC_11 (Jelaun_vs_Unity.json)
+**L** DECISION in TFC_11 (Ezremember_vs_Jelaun.json)
+**W** DECISION in TFC_11 (Jelaun_vs_Ricopaxton.json)
+**W** DECISION in TFC_12 (Semari_vs_Jelaun.json)
+**W** DECISION in TFC_13 (Jelaun_vs_Lullll.json)
+**L** DECISION in TFC_14 (Jelaun_vs_Chev.json)
+**W** DECISION in TFC_15 (Jelaun_vs_Bladerunnr.json)
+**L** FORFEIT in TFC_16 (Linxz_vs_Jelaun.json)
+**W** DECISION in TFC_7 (jelaun_vs_Fuuji.json)
+**W** DECISION in TFC_8 (jelaun_vs_Semari.json)
+**L** DECISION in TFC_9 (iPrime_vs_Jelaun.json)

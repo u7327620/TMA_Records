@@ -1,0 +1,26 @@
+--- noob02s stats ---
+[W-L-D]: 2-3-0
+Accuracy: 48.10126582278481
+Knockdowns: 2
+Knocked Down: 0
+Strike Defense Rate: 57.14285714285714
+Strikes Absorbed: 42
+Strikes Defended: 24
+Strikes Landed: 38
+Strikes Thrown: 79
+Striking Differential: -4
+Submissions Attempted: 3
+Successful Submissions: 0
+Takedown Accuracy: 18.181818181818183
+Takedown Defense Rate: 46.15384615384615
+Takedowns Attempted: 11
+Takedowns Defended: 6
+Takedowns Finished: 2
+Times Taken Down: 7
+
+--- noob02s match history ---
+**L** DECISION in TFC_18 (noob02s_vs_2number9.json)
+**W** DECISION in TFC_19 (ninjabee_vs_noob02s.json)
+**L** DECISION in TFC_20 (d1v1ne_vs_noob02s.json)
+**W** DECISION in TFC_21 (spirits_vs_noob02s.json)
+**L** TKO in TFC_22 (JoemamaHAH_vs_noob02s.json)

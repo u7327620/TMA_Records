@@ -1,0 +1,22 @@
+--- dragonguts stats ---
+[W-L-D]: 0-2-0
+Accuracy: 43.90243902439025
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 22
+Strikes Defended: 0
+Strikes Landed: 18
+Strikes Thrown: 41
+Striking Differential: -4
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 33.33333333333333
+Takedown Defense Rate: 50.0
+Takedowns Attempted: 3
+Takedowns Defended: 1
+Takedowns Finished: 1
+Times Taken Down: 1
+
+--- dragonguts match history ---
+**L** DECISION in TFC_1 (Danewninja_vs_Dragonguts.json)
+**L** DECISION in TFC_6 (X2XP_vs_Dragonguts.json)

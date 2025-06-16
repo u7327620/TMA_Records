@@ -1,0 +1,24 @@
+--- lespeedycore stats ---
+[W-L-D]: 2-1-0
+Accuracy: 45.76271186440678
+Knockdowns: 1
+Knocked Down: 2
+Strike Defense Rate: 59.09090909090909
+Strikes Absorbed: 22
+Strikes Defended: 13
+Strikes Landed: 27
+Strikes Thrown: 59
+Striking Differential: 5
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 20.0
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 5
+Takedowns Defended: 3
+Takedowns Finished: 1
+Times Taken Down: 0
+
+--- lespeedycore match history ---
+**L** DECISION in TFC_20 (Odyss_vs_Lespeedycore.json)
+**W** DECISION in TFC_21 (vonnn_vs_Lespeedycore.json)
+**W** FORFEIT in TFC_22 (Lespeedycore_vs_Jimu.json)

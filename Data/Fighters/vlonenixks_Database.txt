@@ -1,0 +1,23 @@
+--- vlonenixks stats ---
+[W-L-D]: 2-1-0
+Accuracy: 38.297872340425535
+Knockdowns: 5
+Knocked Down: 0
+Strike Defense Rate: 44.73684210526316
+Strikes Absorbed: 38
+Strikes Defended: 17
+Strikes Landed: 36
+Strikes Thrown: 94
+Striking Differential: -2
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Defense Rate: 50.0
+Takedowns Attempted: 0
+Takedowns Defended: 1
+Takedowns Finished: 0
+Times Taken Down: 1
+
+--- vlonenixks match history ---
+**W** DECISION in TFC_19 (Vlonenixks_vs_d1v1ne.json)
+**L** DECISION in TFC_20 (Vlonenixks_vs_Cryink.json)
+**W** DECISION in TFC_22 (vlonenixks_vs_batiscafff.json)

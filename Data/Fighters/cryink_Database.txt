@@ -1,0 +1,28 @@
+--- cryink stats ---
+[W-L-D]: 4-3-0
+Accuracy: 49.30555555555556
+Knockdowns: 1
+Knocked Down: 0
+Strike Defense Rate: 51.5625
+Strikes Absorbed: 64
+Strikes Defended: 33
+Strikes Landed: 71
+Strikes Thrown: 144
+Striking Differential: 8
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 33.33333333333333
+Takedowns Attempted: 4
+Takedowns Defended: 1
+Takedowns Finished: 2
+Times Taken Down: 2
+
+--- cryink match history ---
+**W** DECISION in TFC_15 (Cryink_vs_Kapacbbbb.json)
+**L** FORFEIT in TFC_19 (Cryink_vs_Blacksabbath.json)
+**W** DECISION in TFC_20 (Vlonenixks_vs_Cryink.json)
+**W** DECISION in TFC_21 (Cryink_vs_Nasa.json)
+**L** FORFEIT in TFC_22 (BloodyjayvsCryink.json)
+**W** DECISION in TFC_7 (Cryink_vs_Renixxx.json)
+**L** DECISION in TFC_9 (Cryink_vs_Danewninja.json)

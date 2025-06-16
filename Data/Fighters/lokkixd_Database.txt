@@ -1,0 +1,34 @@
+--- lokkixd stats ---
+[W-L-D]: 3-9-1
+Accuracy: 32.37704918032787
+Knockdowns: 1
+Knocked Down: 0
+Strike Defense Rate: 3.7037037037037033
+Strikes Absorbed: 135
+Strikes Defended: 5
+Strikes Landed: 79
+Strikes Thrown: 244
+Striking Differential: -56
+Submissions Attempted: 4
+Successful Submissions: 0
+Takedown Accuracy: 60.86956521739131
+Takedown Defense Rate: 64.28571428571429
+Takedowns Attempted: 23
+Takedowns Defended: 9
+Takedowns Finished: 14
+Times Taken Down: 5
+
+--- lokkixd match history ---
+**W** DECISION in TFC_1 (Lullll_vs_LokkiXD.json)
+**L** DECISION in TFC_1 (Yahummy_vs_LokkiXD.json)
+**L** DECISION in TFC_16 (LokkiXD_vs_Coco .json)
+**L** DECISION in TFC_17 (LokkiXD_vs_ricopaxton.json)
+**L** DECISION in TFC_18 (LokkiXD_vs_kapacbbbb 2.json)
+**D** DRAW in TFC_19 (2number9_vs_LokkiXD.json)
+**L** DECISION in TFC_2 (LokkiXD_vs_Mushin.json)
+**L** DECISION in TFC_20 (lokkiXD_vs_coco 2.json)
+**L** DECISION in TFC_21 (LokkiXD_vs_FanczBR.json)
+**L** DECISION in TFC_4 (LokkiXD_vs_Unihunter.json)
+**L** DECISION in TFC_5 (Dzage_vs_LokkiXD.json)
+**W** DECISION in TFC_6 (Lostmail_vs_LokkiXD.json)
+**W** DECISION in TFC_7 (LokkiXD_vs_BongDaBang.json)

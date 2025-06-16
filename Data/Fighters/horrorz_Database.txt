@@ -1,0 +1,23 @@
+--- horrorz stats ---
+[W-L-D]: 0-3-0
+Accuracy: 39.325842696629216
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 44
+Strikes Defended: 0
+Strikes Landed: 35
+Strikes Thrown: 89
+Striking Differential: -9
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 83.33333333333334
+Takedowns Attempted: 1
+Takedowns Defended: 5
+Takedowns Finished: 0
+Times Taken Down: 1
+
+--- horrorz match history ---
+**L** DECISION in TFC_15 (Dyingderp_vs_Horrorz.json)
+**L** DECISION in TFC_16 (2number9_vs_Horrorz.json)
+**L** DECISION in TFC_20 (Horrorz_vs_Rey.json)

@@ -1,0 +1,21 @@
+--- furkan3541 stats ---
+[W-L-D]: 0-1-0
+Accuracy: 18.181818181818183
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 10
+Strikes Defended: 0
+Strikes Landed: 2
+Strikes Thrown: 11
+Striking Differential: -8
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 0.0
+Takedowns Attempted: 1
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 1
+
+--- furkan3541 match history ---
+**L** DECISION in TFC_3 (furkan3541_vs_dzage.json)

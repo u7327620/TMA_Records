@@ -1,0 +1,27 @@
+--- warfare stats ---
+[W-L-D]: 4-2-0
+Accuracy: 53.30578512396694
+Knockdowns: 6
+Knocked Down: 0
+Strike Defense Rate: 31.313131313131315
+Strikes Absorbed: 99
+Strikes Defended: 31
+Strikes Landed: 129
+Strikes Thrown: 242
+Striking Differential: 30
+Submissions Attempted: 2
+Successful Submissions: 0
+Takedown Accuracy: 25.0
+Takedown Defense Rate: 42.857142857142854
+Takedowns Attempted: 4
+Takedowns Defended: 3
+Takedowns Finished: 1
+Times Taken Down: 4
+
+--- warfare match history ---
+**L** DECISION in TFC_11 (Linxz_vs_Warfare.json)
+**L** DECISION in TFC_16 (Rouxster_vs_Warfare.json)
+**W** DECISION in TFC_19 (dyingderp_vs_Warfare.json)
+**W** DECISION in TFC_20 (Warfare_vs_kapacbbbb.json)
+**W** DECISION in TFC_20 (Warfare_vs_danewninja.json)
+**W** DECISION in TFC_21 (Warfare_vs_Reclusivx.json)

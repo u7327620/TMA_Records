@@ -1,0 +1,22 @@
+--- robbix stats ---
+[W-L-D]: 0-1-0
+Accuracy: 57.14285714285714
+Knockdowns: 1
+Piledrived: 1
+Strike Defense Rate: 0.0
+Strikes Absorbed: 14
+Strikes Defended: 0
+Strikes Landed: 8
+Strikes Thrown: 14
+Striking Differential: -6
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 0.0
+Takedowns Attempted: 2
+Takedowns Defended: 0
+Takedowns Finished: 1
+Times Taken Down: 1
+
+--- robbix match history ---
+**L** DECISION in TFC_13 (Comicxsans_vs_Robbix.json)

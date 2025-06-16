@@ -1,0 +1,26 @@
+--- reiki stats ---
+[W-L-D]: 2-1-2
+Accuracy: 45.370370370370374
+Knockdowns: 2
+Knocked Down: 0
+Strike Defense Rate: 11.666666666666666
+Strikes Absorbed: 60
+Strikes Defended: 7
+Strikes Landed: 49
+Strikes Thrown: 108
+Striking Differential: -11
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 55.55555555555556
+Takedowns Attempted: 2
+Takedowns Defended: 5
+Takedowns Finished: 1
+Times Taken Down: 4
+
+--- reiki match history ---
+**L** DECISION in TFC_11 (Dogki12_vs_Reiki.json)
+**D** DRAW in TFC_12 (Sorude_vs_Reiki.json)
+**D** DRAW in TFC_13 (Reiki_vs_Danewninja.json)
+**W** DECISION in TFC_6 (Reiki_vs_Renixxx.json)
+**W** DECISION in TFC_7 (Fictastic_vs_Reiki.json)

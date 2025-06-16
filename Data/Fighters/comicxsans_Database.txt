@@ -1,0 +1,29 @@
+--- comicxsans stats ---
+[W-L-D]: 3-4-0
+Accuracy: 53.75722543352601
+Knockdowns: 1
+Knocked Down: 1
+Piledrivers: 1
+Strike Defense Rate: 10.75268817204301
+Strikes Absorbed: 93
+Strikes Defended: 10
+Strikes Landed: 93
+Strikes Thrown: 173
+Striking Differential: 0
+Submissions Attempted: 3
+Successful Submissions: 0
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 41.17647058823529
+Takedowns Attempted: 8
+Takedowns Defended: 7
+Takedowns Finished: 4
+Times Taken Down: 10
+
+--- comicxsans match history ---
+**L** DECISION in TFC_12 (Comicxsans_vs_Supatroop.json)
+**W** DECISION in TFC_13 (Comicxsans_vs_Robbix.json)
+**L** DECISION in TFC_16 (comicxsans_vs_WesMontag.json)
+**W** DECISION in TFC_18 (Bossyninja_vs_Comicxsans.json)
+**L** TKO in TFC_22 (nasa_vs_Comicxsans.json)
+**W** DECISION in TFC_7 (comicxsans_vs_bossyninja.json)
+**L** Fedoraman64 via TKO in the 3rd round with 758 frames surpassed.. in TFC_8 (comicxsans_vs_Fedoraman64.json)

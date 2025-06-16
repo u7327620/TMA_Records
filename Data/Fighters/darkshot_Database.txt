@@ -1,0 +1,19 @@
+--- darkshot stats ---
+[W-L-D]: 0-1-0
+Accuracy: 35.714285714285715
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 5
+Strikes Defended: 0
+Strikes Landed: 5
+Strikes Thrown: 14
+Striking Differential: -1
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- darkshot match history ---
+**L** DECISION in TFC_6 (Unity_vs_Darkshot.json)

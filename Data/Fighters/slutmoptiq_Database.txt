@@ -1,0 +1,27 @@
+--- slutmoptiq stats ---
+[W-L-D]: 4-1-1
+Accuracy: 44.11764705882353
+Knockdowns: 3
+Knocked Down: 0
+Strike Defense Rate: 41.77215189873418
+Strikes Absorbed: 79
+Strikes Defended: 33
+Strikes Landed: 90
+Strikes Thrown: 204
+Striking Differential: 11
+Submissions Attempted: 4
+Successful Submissions: 0
+Takedown Accuracy: 44.44444444444444
+Takedown Defense Rate: 50.0
+Takedowns Attempted: 9
+Takedowns Defended: 2
+Takedowns Finished: 4
+Times Taken Down: 2
+
+--- slutmoptiq match history ---
+**W** DECISION in TFC_17 (slutmoptiq_vs_Danewninja.json)
+**D** DRAW in TFC_18 (Darkaiser_vs_Slutmoptiq.json)
+**W** DECISION in TFC_19 (Slutmoptiq_vs_Faidin.json)
+**L** DECISION in TFC_20 (slutmoptiq_vs_Kamara.json)
+**W** DECISION in TFC_21 (slutmoptiq_vs_2number9.json)
+**W** DECISION in TFC_22 (slutmoptiq_vs_mainland.json)

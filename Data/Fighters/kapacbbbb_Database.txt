@@ -1,0 +1,26 @@
+--- kapacbbbb stats ---
+[W-L-D]: 1-3-2
+Accuracy: 37.640449438202246
+Knockdowns: 0
+Strike Defense Rate: 0.0
+Strikes Absorbed: 86
+Strikes Defended: 0
+Strikes Landed: 67
+Strikes Thrown: 178
+Striking Differential: -19
+Submissions Attempted: 1
+Successful Submissions: 0
+Takedown Accuracy: 50.0
+Takedown Defense Rate: 66.66666666666666
+Takedowns Attempted: 12
+Takedowns Defended: 4
+Takedowns Finished: 6
+Times Taken Down: 2
+
+--- kapacbbbb match history ---
+**L** DECISION in TFC_15 (Cryink_vs_Kapacbbbb.json)
+**D** DRAW in TFC_16 (Kapacbbbb_vs_Shine.json)
+**D** DRAW in TFC_17 (kapacbbbb_vs_mainland.json)
+**W** DECISION in TFC_18 (LokkiXD_vs_kapacbbbb 2.json)
+**L** DECISION in TFC_20 (Warfare_vs_kapacbbbb.json)
+**L** DECISION in TFC_21 (kapacbbbb_vs_Writer.json)

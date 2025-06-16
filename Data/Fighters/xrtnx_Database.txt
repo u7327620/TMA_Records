@@ -1,0 +1,23 @@
+--- xrtnx stats ---
+[W-L-D]: 1-1-0
+Accuracy: 21.73913043478261
+Knockdowns: 1
+Knocked Down: 0
+Strike Defense Rate: 136.8421052631579
+Strikes Absorbed: 19
+Strikes Defended: 26
+Strikes Landed: 10
+Strikes Thrown: 46
+Striking Differential: -9
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 0.0
+Takedown Defense Rate: 100.0
+Takedowns Attempted: 2
+Takedowns Defended: 2
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- xrtnx match history ---
+**W** FORFEIT in TFC_21 (Lostmail_vs_xRTNx.json)
+**L** DECISION in TFC_22 (Raiku_vs_xRTNx.json)

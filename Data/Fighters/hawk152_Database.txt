@@ -1,0 +1,26 @@
+--- hawk152 stats ---
+[W-L-D]: 3-2-0
+Accuracy: 47.14285714285714
+Knockdowns: 0
+Knocked Down: 0
+Strike Defense Rate: 21.153846153846153
+Strikes Absorbed: 52
+Strikes Defended: 11
+Strikes Landed: 33
+Strikes Thrown: 70
+Striking Differential: -19
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: 23.076923076923077
+Takedown Defense Rate: 80.0
+Takedowns Attempted: 13
+Takedowns Defended: 4
+Takedowns Finished: 3
+Times Taken Down: 1
+
+--- hawk152 match history ---
+**L** DECISION in TFC_3 (Lullll_vs_HAWK152.json)
+**W** DECISION in TFC_4 (HexHill_vs_HAWK152.json)
+**W** TKO in TFC_5 (HAWK152_vs_Semari.json)
+**W** DECISION in TFC_6 (HAWK152_vs_BongDaBang.json)
+**L** DECISION in TFC_7 (Mushin_vs_HAWK152.json)

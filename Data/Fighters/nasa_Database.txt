@@ -1,0 +1,24 @@
+--- nasa stats ---
+[W-L-D]: 1-2-0
+Accuracy: 57.74647887323944
+Knockdowns: 1
+Knocked Down: 0
+Strike Defense Rate: 72.97297297297297
+Strikes Absorbed: 37
+Strikes Defended: 27
+Strikes Landed: 41
+Strikes Thrown: 71
+Striking Differential: 4
+Submissions Attempted: 2.0
+Successful Submissions: 0
+Takedown Accuracy: 41.66666666666667
+Takedown Defense Rate: 0.0
+Takedowns Attempted: 12
+Takedowns Defended: 0
+Takedowns Finished: 5
+Times Taken Down: 1
+
+--- nasa match history ---
+**L** DECISION in TFC_17 (Fedoraman64_vs_nasa.json)
+**L** DECISION in TFC_21 (Cryink_vs_Nasa.json)
+**W** TKO in TFC_22 (nasa_vs_Comicxsans.json)
