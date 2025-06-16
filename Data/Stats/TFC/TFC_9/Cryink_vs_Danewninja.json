@@ -7,8 +7,8 @@
     "Result": [
         "30-28 Danewninja",
         "30-28 Danewninja",
-        "Undocumented.",
-        "UNDOCUMENTED"
+        "Danewninja via decision.",
+        "DECISION"
     ],
     "Danewninja": {
         "Strikes Landed": 12,
@@ -39,5 +39,6 @@
         "Times Taken Down": 0,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    }
+    },
+    "Winner": "danewninja"
 }

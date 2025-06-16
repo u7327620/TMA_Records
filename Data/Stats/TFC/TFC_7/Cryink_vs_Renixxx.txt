@@ -1,4 +1,4 @@
-Cryonpen
+Cryink
 
 Strikes Landed 19
 Strikes Thrown 33
@@ -31,6 +31,6 @@ Takedown Defense Rate 50%
 Submissions Attempted 0
 
 --- RESULT --- 
-38-37 Cryonpen
-38-37 Cryonpen
-Cryonpen via decision.
+38-37 Cryink
+38-37 Cryink
+Cryink via decision.

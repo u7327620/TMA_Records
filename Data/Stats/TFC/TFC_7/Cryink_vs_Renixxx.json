@@ -1,16 +1,16 @@
 {
     "Meta": {
-        "Name": "Cryonpen_vs_Renixxx",
+        "Name": "Cryink_vs_Renixxx",
         "Event": "TFC_7"
     },
     "Records": [],
     "Result": [
-        "38-37 Cryonpen",
-        "38-37 Cryonpen",
-        "Cryonpen via decision.",
+        "38-37 Cryink",
+        "38-37 Cryink",
+        "Cryink via decision.",
         "DECISION"
     ],
-    "Cryonpen": {
+    "Cryink": {
         "Strikes Landed": 19,
         "Strikes Thrown": 33,
         "Strikes Absorbed": 12,
@@ -40,5 +40,5 @@
         "Takedown Defense Rate": 50.0,
         "Submissions Attempted": 0
     },
-    "Winner": "cryonpen"
+    "Winner": "cryink"
 }

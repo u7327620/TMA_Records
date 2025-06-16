@@ -71,3 +71,6 @@ def get_all_matches() -> list[ToribashMatch]:
                 except JSONDecodeError as e:
                     print(f"Error in JSON code for: {os.path.join(current_tfc_dir, filename)}. {e}")
     return all_matches
+
+if __name__ == "__main__":
+    get_tfc_player_records()

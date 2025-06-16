@@ -55,6 +55,7 @@ class Player:
             matches = self.matches
 
         stats = {}
+        stats.update({"Successful Submissions": 0})
         for match in matches:
             if match.player1_name == self.player_name:
                 p = match.player1_name
@@ -71,6 +72,8 @@ class Player:
                     stats[key] += match.stats[p][key]
                 else:
                     stats.update({key: match.stats[p][key]})
+            if match.result[-1] == "SUBMISSION":
+                stats["Successful Submissions"] += 1
 
         stats.update({"Accuracy": stats["Strikes Landed"]/stats["Strikes Thrown"]*100})
         stats.update({"Strike Defense Rate": stats["Strikes Defended"] / stats["Strikes Absorbed"] * 100})

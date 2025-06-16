@@ -7,8 +7,8 @@
     "Result": [
         "30-27 Unity",
         "30-27 Unity",
-        "Undocumented.",
-        "UNDOCUMENTED"
+        "Unity via decision.",
+        "DECISION"
     ],
     "Danewninja": {
         "Strikes Landed": 6,
@@ -39,5 +39,6 @@
         "Times Taken Down": 1,
         "Takedown Defense Rate": 0.0,
         "Submissions Attempted": 0
-    }
+    },
+    "Winner": "unity"
 }
