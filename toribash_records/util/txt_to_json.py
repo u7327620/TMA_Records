@@ -11,8 +11,8 @@ def convert_match_to_json(p: str) ->  dict[str, dict]:
 
     lines = [line.strip() for line in raw_lines if line.strip()]
     stats = {"Meta": {}, "Records": [], "Result": []}
-    stats["Meta"]["Name"] = p.split("/")[-1].split(".")[0]
-    stats["Meta"]["Event"] = p.split("/")[-2]
+    stats["Meta"]["Name"] = p.split("\\")[-1].split(".")[0]
+    stats["Meta"]["Event"] = p.split("\\")[-2]
 
     meta_lines = []
     record_lines = []
