@@ -1,6 +1,4 @@
-import json
-
-from player import Player
+from toribash_records.player import Player
 from toribash_records.util.path_finding import from_relative
 from toribash_records.util.get_all_records import get_tfc_history
 
@@ -23,7 +21,7 @@ def pretty_player_stats(player_name: str, players: dict[str, Player]) -> str:
         output += f"{key}: {player_stats[key]}\n"
 
     output += f"\n--- {player_name} match history ---\n"
-    for match in sorted(players[player_name].get_matches(), key=lambda x: x.event_name):
+    for match in sorted(players[player_name].get_matches(), key=lambda x: int(x.event_name.split("_")[1])):
         if match.winner:
             if match.winner.lower() == player_name.lower():
                 output += f"**W** "
@@ -31,7 +29,7 @@ def pretty_player_stats(player_name: str, players: dict[str, Player]) -> str:
                 output += f"**L** "
         elif match.result[-1] == "DRAW":
             output += f"**D** "
-        output += f"{match.result[-1]} in {match.file_path.split("/")[-2]} ({match.file_path.split("/")[-1]})\n"
+        output += f"{match.result[-1]} in {match.file_path.split("\\")[-2]} ({match.file_path.split("\\")[-1]})\n"
     return output
 
 

@@ -19,8 +19,8 @@ Takedowns Finished: 1
 Times Taken Down: 4
 
 --- reiki match history ---
+**W** DECISION in TFC_6 (Reiki_vs_Renixxx.json)
+**W** DECISION in TFC_7 (Fictastic_vs_Reiki.json)
 **L** DECISION in TFC_11 (Dogki12_vs_Reiki.json)
 **D** DRAW in TFC_12 (Sorude_vs_Reiki.json)
 **D** DRAW in TFC_13 (Reiki_vs_Danewninja.json)
-**W** DECISION in TFC_6 (Reiki_vs_Renixxx.json)
-**W** DECISION in TFC_7 (Fictastic_vs_Reiki.json)

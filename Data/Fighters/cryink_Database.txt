@@ -19,10 +19,10 @@ Takedowns Finished: 2
 Times Taken Down: 2
 
 --- cryink match history ---
+**W** DECISION in TFC_7 (Cryink_vs_Renixxx.json)
+**L** DECISION in TFC_9 (Cryink_vs_Danewninja.json)
 **W** DECISION in TFC_15 (Cryink_vs_Kapacbbbb.json)
 **L** FORFEIT in TFC_19 (Cryink_vs_Blacksabbath.json)
 **W** DECISION in TFC_20 (Vlonenixks_vs_Cryink.json)
 **W** DECISION in TFC_21 (Cryink_vs_Nasa.json)
 **L** FORFEIT in TFC_22 (BloodyjayvsCryink.json)
-**W** DECISION in TFC_7 (Cryink_vs_Renixxx.json)
-**L** DECISION in TFC_9 (Cryink_vs_Danewninja.json)

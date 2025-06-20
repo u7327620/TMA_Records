@@ -19,6 +19,8 @@ Takedowns Finished: 5
 Times Taken Down: 12
 
 --- fedoraman64 match history ---
+**W** Fedoraman64 via TKO in the 3rd round with 758 frames surpassed.. in TFC_8 (comicxsans_vs_Fedoraman64.json)
+**L** DECISION in TFC_9 (Linxz_vs_Fedoraman64.json)
 **L** DECISION in TFC_10 (Eamon_vs_Fedoraman64.json)
 **L** DECISION in TFC_14 (Fedoraman64_vs_Sparturnha.json)
 **L** DECISION in TFC_15 (Fedoraman64_vs_Reclusivx.json)
@@ -29,5 +31,3 @@ Times Taken Down: 12
 **W** DECISION in TFC_20 (Fedoraman64_vs_Reclusivx.json)
 **L** DECISION in TFC_21 (Lullll_vs_Fedoraman64.json)
 **L** DECISION in TFC_22 (Sorude_vs_Fedoraman64.json)
-**W** Fedoraman64 via TKO in the 3rd round with 758 frames surpassed.. in TFC_8 (comicxsans_vs_Fedoraman64.json)
-**L** DECISION in TFC_9 (Linxz_vs_Fedoraman64.json)

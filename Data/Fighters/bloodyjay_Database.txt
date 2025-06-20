@@ -22,5 +22,5 @@ Times Taken Down: 3
 **L** DECISION in TFC_16 (Reclusivx_vs_Bloodyjay.json)
 **L** DECISION in TFC_20 (raiku_vs_bloodyjay.json)
 **W** DECISION in TFC_21 (Bloodyjay_vs_Rey.json)
-**W** FORFEIT in TFC_22 (Bloodyjay_vs_coco.json)
 **W** FORFEIT in TFC_22 (BloodyjayvsCryink.json)
+**W** FORFEIT in TFC_22 (Bloodyjay_vs_coco.json)

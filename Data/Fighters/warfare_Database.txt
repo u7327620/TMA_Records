@@ -22,6 +22,6 @@ Times Taken Down: 4
 **L** DECISION in TFC_11 (Linxz_vs_Warfare.json)
 **L** DECISION in TFC_16 (Rouxster_vs_Warfare.json)
 **W** DECISION in TFC_19 (dyingderp_vs_Warfare.json)
-**W** DECISION in TFC_20 (Warfare_vs_kapacbbbb.json)
 **W** DECISION in TFC_20 (Warfare_vs_danewninja.json)
+**W** DECISION in TFC_20 (Warfare_vs_kapacbbbb.json)
 **W** DECISION in TFC_21 (Warfare_vs_Reclusivx.json)

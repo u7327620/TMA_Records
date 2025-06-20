@@ -21,7 +21,7 @@ Times Taken Down: 2
 
 --- lostmail match history ---
 **L** DECISION in TFC_2 (Lostmail_vs_Dzage.json)
-**L** FORFEIT in TFC_21 (Lostmail_vs_xRTNx.json)
 **L** DECISION in TFC_6 (Lostmail_vs_LokkiXD.json)
 **W** DECISION in TFC_8 (Lostmail_vs_Bongdabang.json)
 **L** DECISION in TFC_9 (Lostmail_vs_Supatroop.json)
+**L** FORFEIT in TFC_21 (Lostmail_vs_xRTNx.json)

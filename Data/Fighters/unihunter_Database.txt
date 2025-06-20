@@ -19,7 +19,6 @@ Times Taken Down: 6
 
 --- unihunter match history ---
 **L** DECISION in TFC_1 (Brucce_vs_Unihunter.json)
-**L** DECISION in TFC_13 (dyingderp_vs_unihunter.json)
 **L** DECISION in TFC_2 (BongDaBang_vs_Unihunter.json)
 **W** DECISION in TFC_4 (LokkiXD_vs_Unihunter.json)
 **L** DECISION in TFC_5 (unihunter_vs_iprime.json)
@@ -27,3 +26,4 @@ Times Taken Down: 6
 **W** DECISION in TFC_7 (Danewninja_vs_Unihunter.json)
 **L** DECISION in TFC_8 (Exzplode_vs_Unihunter.json)
 **L** DECISION in TFC_9 (Chev_vs_Unihunter.json)
+**L** DECISION in TFC_13 (dyingderp_vs_unihunter.json)

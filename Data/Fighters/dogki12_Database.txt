@@ -19,10 +19,6 @@ Takedowns Finished: 3
 Times Taken Down: 2
 
 --- dogki12 match history ---
-**W** DECISION in TFC_10 (Footlox_vs_Dogki12.json)
-**W** DECISION in TFC_11 (Dogki12_vs_Reiki.json)
-**L** DECISION in TFC_13 (Dogki12_vs_Chev.json)
-**W** DECISION in TFC_14 (Danewninja_vs_Dogki12.json)
 **W** DECISION in TFC_3 (Bladerunnr_vs_Dogki12.json)
 **L** DECISION in TFC_4 (dogki12_vs_lullll.json)
 **L** DECISION in TFC_5 (dogki12_vs_bladerunnr 2.json)
@@ -30,3 +26,7 @@ Times Taken Down: 2
 **L** TKO in TFC_7 (X2XP_vs_Dogki12.json)
 **L** DECISION in TFC_8 (Dogki12_vs_Chev.json)
 **W** FORFEIT in TFC_9 (Eamon_vs_Dogki12.json)
+**W** DECISION in TFC_10 (Footlox_vs_Dogki12.json)
+**W** DECISION in TFC_11 (Dogki12_vs_Reiki.json)
+**L** DECISION in TFC_13 (Dogki12_vs_Chev.json)
+**W** DECISION in TFC_14 (Danewninja_vs_Dogki12.json)

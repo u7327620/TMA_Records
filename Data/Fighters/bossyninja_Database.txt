@@ -19,8 +19,8 @@ Takedowns Finished: 0
 Times Taken Down: 3
 
 --- bossyninja match history ---
+**W** DECISION in TFC_6 (bossyninja_vs_Fuuji.json)
+**L** DECISION in TFC_7 (comicxsans_vs_bossyninja.json)
 **L** DECISION in TFC_18 (Bossyninja_vs_Comicxsans.json)
 **W** DECISION in TFC_21 (Bossyninja_vs_Pharma.json)
 **L** DECISION in TFC_22 (Bossyninja_vs_Droler.json)
-**W** DECISION in TFC_6 (bossyninja_vs_Fuuji.json)
-**L** DECISION in TFC_7 (comicxsans_vs_bossyninja.json)
