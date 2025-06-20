@@ -1,9 +1,9 @@
 --- reclusivx stats ---
 [W-L-D]: 5-5-0
-Accuracy: 47.73413897280967
+Accuracy: 47.7%
 Knockdowns: 1
 Knocked Down: 1
-Strike Defense Rate: 29.931972789115648
+Strike Defense Rate: 29.9%
 Strikes Absorbed: 147
 Strikes Defended: 44
 Strikes Landed: 158
@@ -11,8 +11,8 @@ Strikes Thrown: 331
 Striking Differential: 11
 Submissions Attempted: 4
 Successful Submissions: 0
-Takedown Accuracy: 38.095238095238095
-Takedown Defense Rate: 73.33333333333333
+Takedown Accuracy: 38.1%
+Takedown Defense Rate: 73.3%
 Takedowns Attempted: 21
 Takedowns Defended: 11
 Takedowns Finished: 8

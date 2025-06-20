@@ -1,9 +1,9 @@
 --- pianoo stats ---
 [W-L-D]: 2-1-0
-Accuracy: 35.84905660377358
+Accuracy: 35.8%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 55.55555555555556
+Strike Defense Rate: 55.6%
 Strikes Absorbed: 36
 Strikes Defended: 20
 Strikes Landed: 38
@@ -11,8 +11,8 @@ Strikes Thrown: 106
 Striking Differential: 2
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 40.0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 40.0%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 5
 Takedowns Defended: 1
 Takedowns Finished: 2

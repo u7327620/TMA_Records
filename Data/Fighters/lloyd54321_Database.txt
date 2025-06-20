@@ -1,8 +1,8 @@
 --- lloyd54321 stats ---
 [W-L-D]: 1-0-1
-Accuracy: 37.2093023255814
+Accuracy: 37.2%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 17
 Strikes Defended: 0
 Strikes Landed: 16
@@ -10,7 +10,8 @@ Strikes Thrown: 43
 Striking Differential: -1
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 100.0
+Takedown Accuracy: 100.0%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 1
 Takedowns Defended: 0
 Takedowns Finished: 1

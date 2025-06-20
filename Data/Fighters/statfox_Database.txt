@@ -1,8 +1,8 @@
 --- statfox stats ---
 [W-L-D]: 1-1-0
-Accuracy: 41.30434782608695
+Accuracy: 41.3%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 23
 Strikes Defended: 0
 Strikes Landed: 19
@@ -10,8 +10,8 @@ Strikes Thrown: 46
 Striking Differential: -4
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 3
 Takedowns Defended: 1
 Takedowns Finished: 0

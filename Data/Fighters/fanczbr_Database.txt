@@ -1,9 +1,9 @@
 --- fanczbr stats ---
 [W-L-D]: 3-1-0
-Accuracy: 37.16216216216216
+Accuracy: 37.2%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 29.166666666666668
+Strike Defense Rate: 29.2%
 Strikes Absorbed: 48
 Strikes Defended: 14
 Strikes Landed: 55
@@ -11,8 +11,8 @@ Strikes Thrown: 148
 Striking Differential: 5
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 33.33333333333333
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 33.3%
 Takedowns Attempted: 1
 Takedowns Defended: 1
 Takedowns Finished: 0

@@ -1,8 +1,8 @@
 --- antony9009 stats ---
 [W-L-D]: 0-1-0
-Accuracy: 7.6923076923076925
+Accuracy: 7.7%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 11
 Strikes Defended: 0
 Strikes Landed: 1
@@ -10,7 +10,8 @@ Strikes Thrown: 13
 Striking Differential: -10
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Defense Rate: 0.0
+Takedown Accuracy: N/A
+Takedown Defense Rate: 0.0%
 Takedowns Attempted: 0
 Takedowns Defended: 0
 Takedowns Finished: 0

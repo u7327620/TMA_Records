@@ -1,8 +1,8 @@
 --- renixxx stats ---
 [W-L-D]: 0-2-0
-Accuracy: 40.98360655737705
+Accuracy: 41.0%
 Knockdowns: 1
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 29
 Strikes Defended: 0
 Strikes Landed: 25
@@ -10,8 +10,8 @@ Strikes Thrown: 61
 Striking Differential: -4
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 33.33333333333333
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 33.3%
 Takedowns Attempted: 2
 Takedowns Defended: 1
 Takedowns Finished: 1

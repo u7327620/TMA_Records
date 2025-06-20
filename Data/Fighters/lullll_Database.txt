@@ -1,9 +1,9 @@
 --- lullll stats ---
 [W-L-D]: 7-9-1
-Accuracy: 50.86206896551724
+Accuracy: 50.9%
 Knockdowns: 3
 Knocked Down: 7
-Strike Defense Rate: 112.45901639344262
+Strike Defense Rate: 112.5%
 Strikes Absorbed: 305
 Strikes Defended: 343
 Strikes Landed: 295
@@ -11,8 +11,8 @@ Strikes Thrown: 580
 Striking Differential: -10
 Submissions Attempted: 3
 Successful Submissions: 0
-Takedown Accuracy: 20.833333333333336
-Takedown Defense Rate: 52.63157894736842
+Takedown Accuracy: 20.8%
+Takedown Defense Rate: 52.6%
 Takedowns Attempted: 24
 Takedowns Defended: 20
 Takedowns Finished: 5

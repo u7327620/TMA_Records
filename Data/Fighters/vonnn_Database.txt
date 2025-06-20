@@ -1,9 +1,9 @@
 --- vonnn stats ---
 [W-L-D]: 1-3-0
-Accuracy: 47.14285714285714
+Accuracy: 47.1%
 Knockdowns: 3
 Knocked Down: 1
-Strike Defense Rate: 87.2340425531915
+Strike Defense Rate: 87.2%
 Strikes Absorbed: 47
 Strikes Defended: 41
 Strikes Landed: 33
@@ -11,8 +11,8 @@ Strikes Thrown: 70
 Striking Differential: -14
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
-Takedown Defense Rate: 66.66666666666666
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: 66.7%
 Takedowns Attempted: 6
 Takedowns Defended: 2
 Takedowns Finished: 2

@@ -1,9 +1,9 @@
 --- hollow stats ---
 [W-L-D]: 3-1-0
-Accuracy: 45.57823129251701
+Accuracy: 45.6%
 Jerked off on opponent:: 1
 Knockdowns: 1
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 54
 Strikes Defended: 0
 Strikes Landed: 67
@@ -11,8 +11,8 @@ Strikes Thrown: 147
 Striking Differential: 13
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 3
 Takedowns Defended: 5
 Takedowns Finished: 1

@@ -1,8 +1,8 @@
 --- valdez0 stats ---
 [W-L-D]: 1-0-0
-Accuracy: 42.857142857142854
+Accuracy: 42.9%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 11
 Strikes Defended: 0
 Strikes Landed: 12
@@ -10,8 +10,8 @@ Strikes Thrown: 28
 Striking Differential: 1
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 2
 Takedowns Defended: 1
 Takedowns Finished: 0

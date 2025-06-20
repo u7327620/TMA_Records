@@ -18,7 +18,10 @@ def pretty_player_stats(player_name: str, players: dict[str, Player]) -> str:
     output += f"--- {player_name} stats ---\n"
     output += f"[W-L-D]: {wins}-{losses}-{draws}\n"
     for key in sorted(player_stats.keys()):
-        output += f"{key}: {player_stats[key]}\n"
+        if type(player_stats[key]) == float:
+            output += f"{key}: {player_stats[key]:.1f}%\n"
+        else:
+            output += f"{key}: {player_stats[key]:}\n"
 
     output += f"\n--- {player_name} match history ---\n"
     for match in sorted(players[player_name].get_matches(), key=lambda x: int(x.event_name.split("_")[1])):
@@ -29,6 +32,9 @@ def pretty_player_stats(player_name: str, players: dict[str, Player]) -> str:
                 output += f"**L** "
         elif match.result[-1] == "DRAW":
             output += f"**D** "
+
+        if match.result[-1] not in ["UNDOCUMENTED", "TKO", "DECISION", "DRAW", "SUBMISSION", "FORFEIT"]:
+            raise RuntimeError(f"Bullshit {match.result[-1]} in {match.file_path.split("\\")[-2]} ({match.file_path.split("\\")[-1]})\n")
         output += f"{match.result[-1]} in {match.file_path.split("\\")[-2]} ({match.file_path.split("\\")[-1]})\n"
     return output
 

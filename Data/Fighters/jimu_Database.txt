@@ -1,9 +1,9 @@
 --- jimu stats ---
 [W-L-D]: 0-2-0
-Accuracy: 21.62162162162162
+Accuracy: 21.6%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 46.15384615384615
+Strike Defense Rate: 46.2%
 Strikes Absorbed: 13
 Strikes Defended: 6
 Strikes Landed: 8
@@ -11,8 +11,8 @@ Strikes Thrown: 37
 Striking Differential: -5
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 1
 Takedowns Defended: 2
 Takedowns Finished: 0

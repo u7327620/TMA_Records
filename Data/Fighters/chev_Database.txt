@@ -1,9 +1,9 @@
 --- chev stats ---
 [W-L-D]: 10-5-0
-Accuracy: 43.35511982570806
+Accuracy: 43.4%
 Knockdowns: 4
 Knocked Down: 0
-Strike Defense Rate: 8.212560386473431
+Strike Defense Rate: 8.2%
 Strikes Absorbed: 207
 Strikes Defended: 17
 Strikes Landed: 199
@@ -11,8 +11,8 @@ Strikes Thrown: 459
 Striking Differential: -8
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 30.0
-Takedown Defense Rate: 60.0
+Takedown Accuracy: 30.0%
+Takedown Defense Rate: 60.0%
 Takedowns Attempted: 20
 Takedowns Defended: 12
 Takedowns Finished: 6

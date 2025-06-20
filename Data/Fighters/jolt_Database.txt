@@ -1,8 +1,8 @@
 --- jolt stats ---
 [W-L-D]: 0-1-0
-Accuracy: 26.31578947368421
+Accuracy: 26.3%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 18
 Strikes Defended: 0
 Strikes Landed: 5
@@ -10,6 +10,8 @@ Strikes Thrown: 19
 Striking Differential: -13
 Submissions Attempted: 0
 Successful Submissions: 0
+Takedown Accuracy: N/A
+Takedown Defense Rate: N/A
 Takedowns Attempted: 0
 Takedowns Defended: 0
 Takedowns Finished: 0

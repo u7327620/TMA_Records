@@ -1,9 +1,9 @@
 --- epicbash stats ---
 [W-L-D]: 0-0-1
-Accuracy: 42.857142857142854
+Accuracy: 42.9%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 166.66666666666669
+Strike Defense Rate: 166.7%
 Strikes Absorbed: 12
 Strikes Defended: 20
 Strikes Landed: 9
@@ -11,7 +11,8 @@ Strikes Thrown: 21
 Striking Differential: 3
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 3
 Takedowns Defended: 0
 Takedowns Finished: 1

@@ -1,9 +1,9 @@
 --- 2number9 stats ---
 [W-L-D]: 3-1-1
-Accuracy: 43.08943089430895
+Accuracy: 43.1%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 18.181818181818183
+Strike Defense Rate: 18.2%
 Strikes Absorbed: 55
 Strikes Defended: 10
 Strikes Landed: 53
@@ -11,8 +11,8 @@ Strikes Thrown: 123
 Striking Differential: -2
 Submissions Attempted: 4
 Successful Submissions: 0
-Takedown Accuracy: 45.45454545454545
-Takedown Defense Rate: 42.857142857142854
+Takedown Accuracy: 45.5%
+Takedown Defense Rate: 42.9%
 Takedowns Attempted: 11
 Takedowns Defended: 3
 Takedowns Finished: 5

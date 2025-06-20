@@ -1,8 +1,8 @@
 --- hugsteur stats ---
 [W-L-D]: 0-1-0
-Accuracy: 20.0
+Accuracy: 20.0%
 Knockdowns: 1
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 5
 Strikes Defended: 0
 Strikes Landed: 3
@@ -10,7 +10,8 @@ Strikes Thrown: 15
 Striking Differential: -2
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: N/A
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 0
 Takedowns Defended: 2
 Takedowns Finished: 0

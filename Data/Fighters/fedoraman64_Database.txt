@@ -1,9 +1,9 @@
 --- fedoraman64 stats ---
 [W-L-D]: 5-7-0
-Accuracy: 42.32673267326732
+Accuracy: 42.3%
 Knockdowns: 4
 Knocked Down: 1
-Strike Defense Rate: 22.666666666666664
+Strike Defense Rate: 22.7%
 Strikes Absorbed: 225
 Strikes Defended: 51
 Strikes Landed: 171
@@ -11,15 +11,15 @@ Strikes Thrown: 404
 Striking Differential: -54
 Submissions Attempted: 1
 Successful Submissions: 1
-Takedown Accuracy: 55.55555555555556
-Takedown Defense Rate: 52.0
+Takedown Accuracy: 55.6%
+Takedown Defense Rate: 52.0%
 Takedowns Attempted: 9
 Takedowns Defended: 13
 Takedowns Finished: 5
 Times Taken Down: 12
 
 --- fedoraman64 match history ---
-**W** Fedoraman64 via TKO in the 3rd round with 758 frames surpassed.. in TFC_8 (comicxsans_vs_Fedoraman64.json)
+**W** TKO in TFC_8 (comicxsans_vs_Fedoraman64.json)
 **L** DECISION in TFC_9 (Linxz_vs_Fedoraman64.json)
 **L** DECISION in TFC_10 (Eamon_vs_Fedoraman64.json)
 **L** DECISION in TFC_14 (Fedoraman64_vs_Sparturnha.json)

@@ -1,8 +1,8 @@
 --- yaboixp stats ---
 [W-L-D]: 0-0-1
-Accuracy: 16.666666666666664
+Accuracy: 16.7%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 6
 Strikes Defended: 0
 Strikes Landed: 4
@@ -10,8 +10,8 @@ Strikes Thrown: 24
 Striking Differential: -2
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 1
 Takedowns Defended: 1
 Takedowns Finished: 0

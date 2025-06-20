@@ -1,9 +1,9 @@
 --- noob02s stats ---
 [W-L-D]: 2-3-0
-Accuracy: 48.10126582278481
+Accuracy: 48.1%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 57.14285714285714
+Strike Defense Rate: 57.1%
 Strikes Absorbed: 42
 Strikes Defended: 24
 Strikes Landed: 38
@@ -11,8 +11,8 @@ Strikes Thrown: 79
 Striking Differential: -4
 Submissions Attempted: 3
 Successful Submissions: 0
-Takedown Accuracy: 18.181818181818183
-Takedown Defense Rate: 46.15384615384615
+Takedown Accuracy: 18.2%
+Takedown Defense Rate: 46.2%
 Takedowns Attempted: 11
 Takedowns Defended: 6
 Takedowns Finished: 2

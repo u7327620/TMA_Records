@@ -1,9 +1,9 @@
 --- supatroop stats ---
 [W-L-D]: 4-4-0
-Accuracy: 48.0
+Accuracy: 48.0%
 Knockdowns: 1
 Knocked Down: 1
-Strike Defense Rate: 27.586206896551722
+Strike Defense Rate: 27.6%
 Strikes Absorbed: 87
 Strikes Defended: 24
 Strikes Landed: 84
@@ -11,8 +11,8 @@ Strikes Thrown: 175
 Striking Differential: -7
 Submissions Attempted: 2
 Successful Submissions: 0
-Takedown Accuracy: 44.44444444444444
-Takedown Defense Rate: 70.0
+Takedown Accuracy: 44.4%
+Takedown Defense Rate: 70.0%
 Takedowns Attempted: 9
 Takedowns Defended: 7
 Takedowns Finished: 4

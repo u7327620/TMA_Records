@@ -1,9 +1,9 @@
 --- odyss stats ---
 [W-L-D]: 2-2-0
-Accuracy: 30.76923076923077
+Accuracy: 30.8%
 Knockdowns: 1
 Knocked Down: 1
-Strike Defense Rate: 85.71428571428571
+Strike Defense Rate: 85.7%
 Strikes Absorbed: 56
 Strikes Defended: 48
 Strikes Landed: 48
@@ -11,8 +11,8 @@ Strikes Thrown: 156
 Striking Differential: -8
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 55.55555555555556
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 55.6%
 Takedowns Attempted: 6
 Takedowns Defended: 5
 Takedowns Finished: 3

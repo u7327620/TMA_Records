@@ -1,9 +1,9 @@
 --- linxz stats ---
 [W-L-D]: 9-1-0
-Accuracy: 48.35443037974684
+Accuracy: 48.4%
 Knockdowns: 4
 Knocked Down: 0
-Strike Defense Rate: 18.11023622047244
+Strike Defense Rate: 18.1%
 Strikes Absorbed: 127
 Strikes Defended: 23
 Strikes Landed: 191
@@ -11,8 +11,8 @@ Strikes Thrown: 395
 Striking Differential: 64
 Submissions Attempted: 2
 Successful Submissions: 0
-Takedown Accuracy: 72.22222222222221
-Takedown Defense Rate: 72.72727272727273
+Takedown Accuracy: 72.2%
+Takedown Defense Rate: 72.7%
 Takedowns Attempted: 18
 Takedowns Defended: 8
 Takedowns Finished: 13

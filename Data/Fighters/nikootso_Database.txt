@@ -1,8 +1,8 @@
 --- nikootso stats ---
 [W-L-D]: 0-1-0
-Accuracy: 16.129032258064516
+Accuracy: 16.1%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 12
 Strikes Defended: 0
 Strikes Landed: 5
@@ -10,7 +10,8 @@ Strikes Thrown: 31
 Striking Differential: -7
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 1
 Takedowns Defended: 0
 Takedowns Finished: 0

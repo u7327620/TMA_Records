@@ -1,9 +1,9 @@
 --- mainland stats ---
 [W-L-D]: 4-6-1
-Accuracy: 45.60260586319218
+Accuracy: 45.6%
 Knockdowns: 3
 Knocked Down: 1
-Strike Defense Rate: 5.389221556886228
+Strike Defense Rate: 5.4%
 Strikes Absorbed: 167
 Strikes Defended: 9
 Strikes Landed: 140
@@ -11,8 +11,8 @@ Strikes Thrown: 307
 Striking Differential: -28
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 20.0
-Takedown Defense Rate: 45.45454545454545
+Takedown Accuracy: 20.0%
+Takedown Defense Rate: 45.5%
 Takedowns Attempted: 5
 Takedowns Defended: 5
 Takedowns Finished: 1

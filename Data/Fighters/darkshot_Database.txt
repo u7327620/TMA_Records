@@ -1,8 +1,8 @@
 --- darkshot stats ---
 [W-L-D]: 0-1-0
-Accuracy: 35.714285714285715
+Accuracy: 35.7%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 5
 Strikes Defended: 0
 Strikes Landed: 5
@@ -10,6 +10,8 @@ Strikes Thrown: 14
 Striking Differential: -1
 Submissions Attempted: 0
 Successful Submissions: 0
+Takedown Accuracy: N/A
+Takedown Defense Rate: N/A
 Takedowns Attempted: 0
 Takedowns Defended: 0
 Takedowns Finished: 0

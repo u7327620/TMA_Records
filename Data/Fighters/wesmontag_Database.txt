@@ -1,8 +1,8 @@
 --- wesmontag stats ---
 [W-L-D]: 1-1-0
-Accuracy: 38.35616438356164
+Accuracy: 38.4%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 41
 Strikes Defended: 0
 Strikes Landed: 28
@@ -10,8 +10,8 @@ Strikes Thrown: 73
 Striking Differential: -13
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 66.66666666666666
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 66.7%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 6
 Takedowns Defended: 2
 Takedowns Finished: 4

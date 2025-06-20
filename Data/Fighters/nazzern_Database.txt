@@ -1,9 +1,9 @@
 --- nazzern stats ---
 [W-L-D]: 1-0-0
-Accuracy: 56.666666666666664
+Accuracy: 56.7%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 214.28571428571428
+Strike Defense Rate: 214.3%
 Strikes Absorbed: 7
 Strikes Defended: 15
 Strikes Landed: 17
@@ -11,8 +11,8 @@ Strikes Thrown: 30
 Striking Differential: 10
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 100.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 100.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 1
 Takedowns Defended: 1
 Takedowns Finished: 1

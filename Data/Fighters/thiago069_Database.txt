@@ -1,8 +1,8 @@
 --- thiago069 stats ---
 [W-L-D]: 1-0-0
-Accuracy: 61.111111111111114
+Accuracy: 61.1%
 Knockdowns: 1
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 1
 Strikes Defended: 0
 Strikes Landed: 11
@@ -10,7 +10,8 @@ Strikes Thrown: 18
 Striking Differential: 10
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 100.0
+Takedown Accuracy: 100.0%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 1
 Takedowns Defended: 0
 Takedowns Finished: 1

@@ -1,8 +1,8 @@
 --- banan745 stats ---
 [W-L-D]: 0-2-0
-Accuracy: 19.607843137254903
+Accuracy: 19.6%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 31
 Strikes Defended: 0
 Strikes Landed: 10
@@ -10,7 +10,8 @@ Strikes Thrown: 51
 Striking Differential: -21
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 20.0
+Takedown Accuracy: 20.0%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 5
 Takedowns Defended: 0
 Takedowns Finished: 1

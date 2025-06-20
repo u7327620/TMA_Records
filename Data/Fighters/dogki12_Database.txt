@@ -1,9 +1,9 @@
 --- dogki12 stats ---
 [W-L-D]: 5-6-0
-Accuracy: 48.1651376146789
+Accuracy: 48.2%
 Knockdowns: 3
 Knocked Down: 1
-Strike Defense Rate: 9.090909090909092
+Strike Defense Rate: 9.1%
 Strikes Absorbed: 121
 Strikes Defended: 11
 Strikes Landed: 105
@@ -11,8 +11,8 @@ Strikes Thrown: 218
 Striking Differential: -16
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 23.076923076923077
-Takedown Defense Rate: 77.77777777777779
+Takedown Accuracy: 23.1%
+Takedown Defense Rate: 77.8%
 Takedowns Attempted: 13
 Takedowns Defended: 7
 Takedowns Finished: 3

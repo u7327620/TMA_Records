@@ -1,9 +1,9 @@
 --- xrtnx stats ---
 [W-L-D]: 1-1-0
-Accuracy: 21.73913043478261
+Accuracy: 21.7%
 Knockdowns: 1
 Knocked Down: 0
-Strike Defense Rate: 136.8421052631579
+Strike Defense Rate: 136.8%
 Strikes Absorbed: 19
 Strikes Defended: 26
 Strikes Landed: 10
@@ -11,8 +11,8 @@ Strikes Thrown: 46
 Striking Differential: -9
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 2
 Takedowns Defended: 2
 Takedowns Finished: 0

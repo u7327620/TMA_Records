@@ -1,8 +1,8 @@
 --- iprime stats ---
 [W-L-D]: 4-1-0
-Accuracy: 36.75213675213676
+Accuracy: 36.8%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 31
 Strikes Defended: 0
 Strikes Landed: 43
@@ -10,8 +10,8 @@ Strikes Thrown: 117
 Striking Differential: 12
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 3
 Takedowns Defended: 5
 Takedowns Finished: 1

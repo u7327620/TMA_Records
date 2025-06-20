@@ -1,9 +1,9 @@
 --- hawk152 stats ---
 [W-L-D]: 3-2-0
-Accuracy: 47.14285714285714
+Accuracy: 47.1%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 21.153846153846153
+Strike Defense Rate: 21.2%
 Strikes Absorbed: 52
 Strikes Defended: 11
 Strikes Landed: 33
@@ -11,8 +11,8 @@ Strikes Thrown: 70
 Striking Differential: -19
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 23.076923076923077
-Takedown Defense Rate: 80.0
+Takedown Accuracy: 23.1%
+Takedown Defense Rate: 80.0%
 Takedowns Attempted: 13
 Takedowns Defended: 4
 Takedowns Finished: 3

@@ -1,9 +1,9 @@
 --- faidin stats ---
 [W-L-D]: 4-2-0
-Accuracy: 50.0
+Accuracy: 50.0%
 Knockdowns: 1
 Knocked Down: 1
-Strike Defense Rate: 25.333333333333336
+Strike Defense Rate: 25.3%
 Strikes Absorbed: 75
 Strikes Defended: 19
 Strikes Landed: 119
@@ -11,8 +11,8 @@ Strikes Thrown: 238
 Striking Differential: 44
 Submissions Attempted: 1
 Successful Submissions: 1
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 2
 Takedowns Defended: 4
 Takedowns Finished: 0

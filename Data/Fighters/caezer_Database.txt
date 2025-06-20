@@ -1,9 +1,9 @@
 --- caezer stats ---
 [W-L-D]: 1-0-0
-Accuracy: 47.368421052631575
+Accuracy: 47.4%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 450.0
+Strike Defense Rate: 450.0%
 Strikes Absorbed: 6
 Strikes Defended: 27
 Strikes Landed: 18
@@ -11,8 +11,8 @@ Strikes Thrown: 38
 Striking Differential: 12
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 100.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 100.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 1
 Takedowns Defended: 1
 Takedowns Finished: 1

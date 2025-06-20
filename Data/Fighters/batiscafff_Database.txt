@@ -1,9 +1,9 @@
 --- batiscafff stats ---
 [W-L-D]: 0-1-0
-Accuracy: 45.16129032258064
+Accuracy: 45.2%
 Knockdowns: 0
 Knocked Down: 1
-Strike Defense Rate: 190.9090909090909
+Strike Defense Rate: 190.9%
 Strikes Absorbed: 11
 Strikes Defended: 21
 Strikes Landed: 14
@@ -11,6 +11,8 @@ Strikes Thrown: 31
 Striking Differential: 3
 Submissions Attempted: 0
 Successful Submissions: 0
+Takedown Accuracy: N/A
+Takedown Defense Rate: N/A
 Takedowns Attempted: 0
 Takedowns Defended: 0
 Takedowns Finished: 0

@@ -1,8 +1,8 @@
 --- tigermaskt stats ---
 [W-L-D]: 1-0-1
-Accuracy: 45.45454545454545
+Accuracy: 45.5%
 Knockdowns: 2
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 11
 Strikes Defended: 0
 Strikes Landed: 25
@@ -10,7 +10,8 @@ Strikes Thrown: 55
 Striking Differential: 14
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 1
 Takedowns Defended: 0
 Takedowns Finished: 0

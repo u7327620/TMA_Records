@@ -1,8 +1,8 @@
 --- ezremember stats ---
 [W-L-D]: 1-0-1
-Accuracy: 44.44444444444444
+Accuracy: 44.4%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 17
 Strikes Defended: 0
 Strikes Landed: 20
@@ -10,8 +10,8 @@ Strikes Thrown: 45
 Striking Differential: 3
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 25.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 25.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 4
 Takedowns Defended: 1
 Takedowns Finished: 1

@@ -1,8 +1,8 @@
 --- jojo stats ---
 [W-L-D]: 0-1-0
-Accuracy: 28.57142857142857
+Accuracy: 28.6%
 Knockdowns: 1
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 6
 Strikes Defended: 0
 Strikes Landed: 6
@@ -10,8 +10,8 @@ Strikes Thrown: 21
 Striking Differential: 0
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 2
 Takedowns Defended: 1
 Takedowns Finished: 0

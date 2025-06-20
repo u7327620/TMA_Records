@@ -1,9 +1,9 @@
 --- vlonenixks stats ---
 [W-L-D]: 2-1-0
-Accuracy: 38.297872340425535
+Accuracy: 38.3%
 Knockdowns: 5
 Knocked Down: 0
-Strike Defense Rate: 44.73684210526316
+Strike Defense Rate: 44.7%
 Strikes Absorbed: 38
 Strikes Defended: 17
 Strikes Landed: 36
@@ -11,7 +11,8 @@ Strikes Thrown: 94
 Striking Differential: -2
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: N/A
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 0
 Takedowns Defended: 1
 Takedowns Finished: 0

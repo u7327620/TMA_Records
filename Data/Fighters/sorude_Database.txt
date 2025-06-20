@@ -1,9 +1,9 @@
 --- sorude stats ---
 [W-L-D]: 6-4-2
-Accuracy: 45.6
+Accuracy: 45.6%
 Knockdowns: 3
 Knocked Down: 0
-Strike Defense Rate: 68.54838709677419
+Strike Defense Rate: 68.5%
 Strikes Absorbed: 124
 Strikes Defended: 85
 Strikes Landed: 114
@@ -11,8 +11,8 @@ Strikes Thrown: 250
 Striking Differential: -10
 Submissions Attempted: 4
 Successful Submissions: 1
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 88.88888888888889
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 88.9%
 Takedowns Attempted: 24
 Takedowns Defended: 16
 Takedowns Finished: 12

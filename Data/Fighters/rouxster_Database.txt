@@ -1,9 +1,9 @@
 --- rouxster stats ---
 [W-L-D]: 8-5-1
-Accuracy: 42.482100238663485
+Accuracy: 42.5%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 7.547169811320755
+Strike Defense Rate: 7.5%
 Strikes Absorbed: 212
 Strikes Defended: 16
 Strikes Landed: 178
@@ -11,8 +11,8 @@ Strikes Thrown: 419
 Striking Differential: -34
 Submissions Attempted: 9
 Successful Submissions: 0
-Takedown Accuracy: 34.0
-Takedown Defense Rate: 62.5
+Takedown Accuracy: 34.0%
+Takedown Defense Rate: 62.5%
 Takedowns Attempted: 50
 Takedowns Defended: 10
 Takedowns Finished: 17
@@ -24,7 +24,7 @@ Times Taken Down: 6
 **W** DECISION in TFC_1 (Rouxster_vs_Ratcum.json)
 **W** DECISION in TFC_1 (Yahummy_vs_Rouxster.json)
 **L** DECISION in TFC_4 (Hollow_vs_Rouxster.json)
-**W** Rouxster via TKO in the 3rd round with 944 frames surpassed. in TFC_6 (Rouxster_vs_Bladerunnr 2.json)
+**W** TKO in TFC_6 (Rouxster_vs_Bladerunnr 2.json)
 **L** DECISION in TFC_8 (X2XP_vs_Rouxster.json)
 **W** DECISION in TFC_9 (Rouxster_vs_Lullll.json)
 **D** DRAW in TFC_10 (Rouxster_vs_Lullll 2.json)

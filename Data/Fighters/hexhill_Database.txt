@@ -1,9 +1,9 @@
 --- hexhill stats ---
 [W-L-D]: 2-1-0
-Accuracy: 39.6551724137931
+Accuracy: 39.7%
 Hugs: 1
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 28
 Strikes Defended: 0
 Strikes Landed: 46
@@ -11,8 +11,8 @@ Strikes Thrown: 116
 Striking Differential: 18
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 2
 Takedowns Defended: 2
 Takedowns Finished: 0

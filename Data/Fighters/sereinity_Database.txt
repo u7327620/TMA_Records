@@ -1,9 +1,9 @@
 --- sereinity stats ---
 [W-L-D]: 0-1-0
-Accuracy: 41.17647058823529
+Accuracy: 41.2%
 Knockdowns: 1
 Knocked Down: 1
-Strike Defense Rate: 84.61538461538461
+Strike Defense Rate: 84.6%
 Strikes Absorbed: 13
 Strikes Defended: 11
 Strikes Landed: 14
@@ -11,8 +11,8 @@ Strikes Thrown: 34
 Striking Differential: 1
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 2
 Takedowns Defended: 1
 Takedowns Finished: 1

@@ -1,8 +1,8 @@
 --- x2xp stats ---
 [W-L-D]: 4-0-0
-Accuracy: 49.31506849315068
+Accuracy: 49.3%
 Knockdowns: 2
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 43
 Strikes Defended: 0
 Strikes Landed: 72
@@ -10,8 +10,8 @@ Strikes Thrown: 146
 Striking Differential: 29
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 66.66666666666666
-Takedown Defense Rate: 76.92307692307693
+Takedown Accuracy: 66.7%
+Takedown Defense Rate: 76.9%
 Takedowns Attempted: 3
 Takedowns Defended: 10
 Takedowns Finished: 2

@@ -1,9 +1,9 @@
 --- reiki stats ---
 [W-L-D]: 2-1-2
-Accuracy: 45.370370370370374
+Accuracy: 45.4%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 11.666666666666666
+Strike Defense Rate: 11.7%
 Strikes Absorbed: 60
 Strikes Defended: 7
 Strikes Landed: 49
@@ -11,8 +11,8 @@ Strikes Thrown: 108
 Striking Differential: -11
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 55.55555555555556
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 55.6%
 Takedowns Attempted: 2
 Takedowns Defended: 5
 Takedowns Finished: 1

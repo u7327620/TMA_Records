@@ -1,10 +1,10 @@
 --- semari stats ---
 [W-L-D]: 8-4-0
-Accuracy: 49.597855227882036
+Accuracy: 49.6%
 Almighty Bonks: 1
 Knockdowns: 3
 Knocked Down: 0
-Strike Defense Rate: 29.655172413793103
+Strike Defense Rate: 29.7%
 Strikes Absorbed: 145
 Strikes Defended: 43
 Strikes Landed: 185
@@ -12,8 +12,8 @@ Strikes Thrown: 373
 Striking Differential: 40
 Submissions Attempted: 2
 Successful Submissions: 0
-Takedown Accuracy: 21.73913043478261
-Takedown Defense Rate: 92.3076923076923
+Takedown Accuracy: 21.7%
+Takedown Defense Rate: 92.3%
 Takedowns Attempted: 23
 Takedowns Defended: 12
 Takedowns Finished: 5

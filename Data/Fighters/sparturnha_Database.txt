@@ -1,9 +1,9 @@
 --- sparturnha stats ---
 [W-L-D]: 4-1-0
-Accuracy: 60.752688172043015
+Accuracy: 60.8%
 Hugs: 1
 Knockdowns: 7
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 66
 Strikes Defended: 0
 Strikes Landed: 113
@@ -11,8 +11,8 @@ Strikes Thrown: 186
 Striking Differential: 47
 Submissions Attempted: 2
 Successful Submissions: 0
-Takedown Accuracy: 57.14285714285714
-Takedown Defense Rate: 80.0
+Takedown Accuracy: 57.1%
+Takedown Defense Rate: 80.0%
 Takedowns Attempted: 7
 Takedowns Defended: 4
 Takedowns Finished: 4

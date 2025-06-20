@@ -1,9 +1,9 @@
 --- vani3 stats ---
 [W-L-D]: 4-2-0
-Accuracy: 54.03225806451613
+Accuracy: 54.0%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 10.0
+Strike Defense Rate: 10.0%
 Strikes Absorbed: 80
 Strikes Defended: 8
 Strikes Landed: 67
@@ -11,8 +11,8 @@ Strikes Thrown: 124
 Striking Differential: -13
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 20.0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 20.0%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 5
 Takedowns Defended: 4
 Takedowns Finished: 1

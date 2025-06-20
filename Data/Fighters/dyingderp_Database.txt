@@ -1,10 +1,10 @@
 --- dyingderp stats ---
 [W-L-D]: 5-11-0
-Accuracy: 36.03603603603604
+Accuracy: 36.0%
 Eamon Smash: 1
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 9.821428571428571
+Strike Defense Rate: 9.8%
 Strikes Absorbed: 224
 Strikes Defended: 22
 Strikes Landed: 160
@@ -12,8 +12,8 @@ Strikes Thrown: 444
 Striking Differential: -66
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 36.84210526315789
-Takedown Defense Rate: 59.09090909090909
+Takedown Accuracy: 36.8%
+Takedown Defense Rate: 59.1%
 Takedowns Attempted: 19
 Takedowns Defended: 13
 Takedowns Finished: 7

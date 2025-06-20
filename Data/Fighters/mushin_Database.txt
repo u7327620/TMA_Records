@@ -1,9 +1,9 @@
 --- mushin stats ---
 [W-L-D]: 7-3-0
-Accuracy: 53.73134328358209
+Accuracy: 53.7%
 Knockdowns: 5
 Knocked Down: 0
-Strike Defense Rate: 18.51851851851852
+Strike Defense Rate: 18.5%
 Strikes Absorbed: 81
 Strikes Defended: 15
 Strikes Landed: 144
@@ -11,8 +11,8 @@ Strikes Thrown: 268
 Striking Differential: 35
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 78.57142857142857
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 78.6%
 Takedowns Attempted: 6
 Takedowns Defended: 11
 Takedowns Finished: 3

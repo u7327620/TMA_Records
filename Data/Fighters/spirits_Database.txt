@@ -1,9 +1,9 @@
 --- spirits stats ---
 [W-L-D]: 0-2-0
-Accuracy: 34.146341463414636
+Accuracy: 34.1%
 Knockdowns: 0
 Knocked Down: 3
-Strike Defense Rate: 95.65217391304348
+Strike Defense Rate: 95.7%
 Strikes Absorbed: 23
 Strikes Defended: 22
 Strikes Landed: 14
@@ -11,8 +11,8 @@ Strikes Thrown: 41
 Striking Differential: -9
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 0.0
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 0.0%
 Takedowns Attempted: 2
 Takedowns Defended: 0
 Takedowns Finished: 1

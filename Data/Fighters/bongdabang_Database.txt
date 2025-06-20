@@ -1,9 +1,9 @@
 --- bongdabang stats ---
 [W-L-D]: 4-14-0
-Accuracy: 41.288782816229116
+Accuracy: 41.3%
 Friendship: 1
 Knockdowns: 6
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 241
 Strikes Defended: 0
 Strikes Landed: 173
@@ -11,8 +11,8 @@ Strikes Thrown: 419
 Striking Differential: -68
 Submissions Attempted: 2
 Successful Submissions: 1
-Takedown Accuracy: 29.166666666666668
-Takedown Defense Rate: 35.0
+Takedown Accuracy: 29.2%
+Takedown Defense Rate: 35.0%
 Takedowns Attempted: 24
 Takedowns Defended: 7
 Takedowns Finished: 7

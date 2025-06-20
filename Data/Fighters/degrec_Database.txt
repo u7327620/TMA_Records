@@ -1,8 +1,8 @@
 --- degrec stats ---
 [W-L-D]: 0-1-0
-Accuracy: 39.285714285714285
+Accuracy: 39.3%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 26
 Strikes Defended: 0
 Strikes Landed: 11
@@ -10,8 +10,8 @@ Strikes Thrown: 28
 Striking Differential: -15
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 3
 Takedowns Defended: 1
 Takedowns Finished: 0

@@ -1,9 +1,9 @@
 --- d1v1ne stats ---
 [W-L-D]: 2-2-0
-Accuracy: 37.719298245614034
+Accuracy: 37.7%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 50.0
+Strike Defense Rate: 50.0%
 Strikes Absorbed: 42
 Strikes Defended: 21
 Strikes Landed: 43
@@ -11,8 +11,8 @@ Strikes Thrown: 114
 Striking Differential: 1
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 100.0
-Takedown Defense Rate: 75.0
+Takedown Accuracy: 100.0%
+Takedown Defense Rate: 75.0%
 Takedowns Attempted: 4
 Takedowns Defended: 6
 Takedowns Finished: 4

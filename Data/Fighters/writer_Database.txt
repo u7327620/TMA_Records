@@ -1,8 +1,8 @@
 --- writer stats ---
 [W-L-D]: 1-0-0
-Accuracy: 47.368421052631575
+Accuracy: 47.4%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 9
 Strikes Defended: 0
 Strikes Landed: 18
@@ -10,8 +10,8 @@ Strikes Thrown: 38
 Striking Differential: 9
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 1
 Takedowns Defended: 2
 Takedowns Finished: 0

@@ -1,8 +1,8 @@
 --- laucha22 stats ---
 [W-L-D]: 0-1-0
-Accuracy: 27.27272727272727
+Accuracy: 27.3%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 18
 Strikes Defended: 0
 Strikes Landed: 9
@@ -10,7 +10,8 @@ Strikes Thrown: 33
 Striking Differential: -9
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: N/A
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 0
 Takedowns Defended: 1
 Takedowns Finished: 0

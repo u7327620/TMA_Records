@@ -1,6 +1,6 @@
 --- bladerunnr stats ---
 [W-L-D]: 11-10-0
-Accuracy: 41.52892561983471
+Accuracy: 41.5%
 BLADEBAR: 1
 FLYING BLADEBAR: 1
 Fell on Head (dipshit): 1
@@ -8,16 +8,16 @@ Fell on his head like a dipshit: 1
 Got jerked off on:: 1
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 9.33852140077821
+Strike Defense Rate: 9.3%
 Strikes Absorbed: 257
 Strikes Defended: 24
 Strikes Landed: 201
 Strikes Thrown: 484
 Striking Differential: -57
 Submissions Attempted: 12
-Successful Submissions: 3
-Takedown Accuracy: 34.78260869565217
-Takedown Defense Rate: 70.83333333333334
+Successful Submissions: 4
+Takedown Accuracy: 34.8%
+Takedown Defense Rate: 70.8%
 Takedowns Attempted: 46
 Takedowns Defended: 17
 Takedowns Finished: 16
@@ -31,10 +31,10 @@ UNDOCUMENTED in TFC_1 (Bladerunnr_vs_Danewninja.json)
 **L** DECISION in TFC_3 (Bladerunnr_vs_Dogki12.json)
 **W** DECISION in TFC_4 (joko6_vs_bladerunnr.json)
 **W** DECISION in TFC_5 (dogki12_vs_bladerunnr 2.json)
-**L** Rouxster via TKO in the 3rd round with 944 frames surpassed. in TFC_6 (Rouxster_vs_Bladerunnr 2.json)
+**L** TKO in TFC_6 (Rouxster_vs_Bladerunnr 2.json)
 **W** DECISION in TFC_7 (Dzage_vs_Bladerunnr.json)
 **L** DECISION in TFC_8 (Mushin_vs_Bladerunnr.json)
-**W** Bladerunnr via submission (flying armbar) in the 3rd round with 940 frames surpassed. in TFC_10 (Bladerunnr_vs_Danewninja.json)
+**W** SUBMISSION in TFC_10 (Bladerunnr_vs_Danewninja.json)
 **W** DECISION in TFC_11 (Rouxster_vs_Bladerunnr 3.json)
 **W** SUBMISSION in TFC_12 (rYCArdo10_vs_Bladerunnr.json)
 **L** SUBMISSION in TFC_13 (yahummy_vs_Bladerunnr.json)

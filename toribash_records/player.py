@@ -77,10 +77,16 @@ class Player:
         try:
             if stats["Strikes Thrown"] != 0:
                 stats.update({"Accuracy": stats["Strikes Landed"] / stats["Strikes Thrown"] * 100})
+            else:
+                stats.update({"Accuracy": "N/A"})
             if stats["Takedowns Attempted"] != 0:
                 stats.update({"Takedown Accuracy": stats["Takedowns Finished"] / stats["Takedowns Attempted"] * 100})
+            else:
+                stats.update({"Takedown Accuracy": "N/A"})
             if stats["Takedowns Defended"] + stats["Times Taken Down"] != 0:
                 stats.update({"Takedown Defense Rate": stats["Takedowns Defended"] / (stats["Takedowns Defended"] + stats["Times Taken Down"]) * 100})
+            else:
+                stats.update({"Takedown Defense Rate": "N/A"})
             if "Strikes Defended" in stats.keys():
                 if stats["Strikes Absorbed"] != 0:
                     stats.update({"Strike Defense Rate": stats["Strikes Defended"] / stats["Strikes Absorbed"] * 100})

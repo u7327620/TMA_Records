@@ -1,8 +1,8 @@
 --- denisandop stats ---
 [W-L-D]: 0-1-0
-Accuracy: 5.0
+Accuracy: 5.0%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 21
 Strikes Defended: 0
 Strikes Landed: 1
@@ -10,7 +10,8 @@ Strikes Thrown: 20
 Striking Differential: -20
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 1
 Takedowns Defended: 0
 Takedowns Finished: 0

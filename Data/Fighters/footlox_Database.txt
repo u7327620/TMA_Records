@@ -1,8 +1,8 @@
 --- footlox stats ---
 [W-L-D]: 1-1-0
-Accuracy: 47.61904761904761
+Accuracy: 47.6%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 14
 Strikes Defended: 0
 Strikes Landed: 20
@@ -10,8 +10,8 @@ Strikes Thrown: 42
 Striking Differential: 6
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 25.0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 25.0%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 4
 Takedowns Defended: 1
 Takedowns Finished: 1

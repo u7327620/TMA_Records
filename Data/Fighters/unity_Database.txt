@@ -1,8 +1,8 @@
 --- unity stats ---
 [W-L-D]: 4-3-0
-Accuracy: 45.07042253521127
+Accuracy: 45.1%
 Knockdowns: 5
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 54
 Strikes Defended: 0
 Strikes Landed: 64
@@ -10,8 +10,8 @@ Strikes Thrown: 142
 Striking Differential: 6
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 16.666666666666664
-Takedown Defense Rate: 20.0
+Takedown Accuracy: 16.7%
+Takedown Defense Rate: 20.0%
 Takedowns Attempted: 6
 Takedowns Defended: 1
 Takedowns Finished: 1

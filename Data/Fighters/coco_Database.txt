@@ -1,9 +1,9 @@
 --- coco stats ---
 [W-L-D]: 3-2-0
-Accuracy: 34.285714285714285
+Accuracy: 34.3%
 Knockdowns: 2
 Knocked Down: 2
-Strike Defense Rate: 56.86274509803921
+Strike Defense Rate: 56.9%
 Strikes Absorbed: 51
 Strikes Defended: 29
 Strikes Landed: 48
@@ -11,8 +11,8 @@ Strikes Thrown: 140
 Striking Differential: -3
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
-Takedown Defense Rate: 60.0
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: 60.0%
 Takedowns Attempted: 3
 Takedowns Defended: 3
 Takedowns Finished: 1

@@ -1,9 +1,9 @@
 --- kamara stats ---
 [W-L-D]: 5-2-0
-Accuracy: 46.391752577319586
+Accuracy: 46.4%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 37.68115942028986
+Strike Defense Rate: 37.7%
 Strikes Absorbed: 69
 Strikes Defended: 26
 Strikes Landed: 90
@@ -11,8 +11,8 @@ Strikes Thrown: 194
 Striking Differential: 21
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
-Takedown Defense Rate: 75.0
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: 75.0%
 Takedowns Attempted: 3
 Takedowns Defended: 9
 Takedowns Finished: 1

@@ -1,8 +1,8 @@
 --- fuuji stats ---
 [W-L-D]: 0-2-0
-Accuracy: 25.0
+Accuracy: 25.0%
 Knockdowns: 1
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 19
 Strikes Defended: 0
 Strikes Landed: 12
@@ -10,6 +10,8 @@ Strikes Thrown: 48
 Striking Differential: -7
 Submissions Attempted: 0
 Successful Submissions: 0
+Takedown Accuracy: N/A
+Takedown Defense Rate: N/A
 Takedowns Attempted: 0
 Takedowns Defended: 0
 Takedowns Finished: 0

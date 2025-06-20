@@ -1,9 +1,9 @@
 --- rey stats ---
 [W-L-D]: 1-2-0
-Accuracy: 44.680851063829785
+Accuracy: 44.7%
 Knockdowns: 1
 Knocked Down: 2
-Strike Defense Rate: 82.0
+Strike Defense Rate: 82.0%
 Strikes Absorbed: 50
 Strikes Defended: 41
 Strikes Landed: 42
@@ -11,8 +11,8 @@ Strikes Thrown: 94
 Striking Differential: -8
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 66.66666666666666
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 66.7%
 Takedowns Attempted: 1
 Takedowns Defended: 2
 Takedowns Finished: 0

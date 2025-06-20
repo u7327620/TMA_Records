@@ -1,8 +1,8 @@
 --- jouka stats ---
 [W-L-D]: 2-2-1
-Accuracy: 48.69565217391305
+Accuracy: 48.7%
 Knockdowns: 2
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 52
 Strikes Defended: 0
 Strikes Landed: 56
@@ -10,8 +10,8 @@ Strikes Thrown: 115
 Striking Differential: 4
 Submissions Attempted: 3
 Successful Submissions: 0
-Takedown Accuracy: 11.11111111111111
-Takedown Defense Rate: 60.0
+Takedown Accuracy: 11.1%
+Takedown Defense Rate: 60.0%
 Takedowns Attempted: 9
 Takedowns Defended: 3
 Takedowns Finished: 1

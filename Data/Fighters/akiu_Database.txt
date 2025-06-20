@@ -1,8 +1,8 @@
 --- akiu stats ---
 [W-L-D]: 1-0-0
-Accuracy: 40.0
+Accuracy: 40.0%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 3
 Strikes Defended: 0
 Strikes Landed: 8
@@ -10,7 +10,8 @@ Strikes Thrown: 20
 Striking Differential: 5
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: N/A
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 0
 Takedowns Defended: 1
 Takedowns Finished: 0

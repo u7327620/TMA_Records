@@ -1,8 +1,8 @@
 --- shine stats ---
 [W-L-D]: 0-0-1
-Accuracy: 41.17647058823529
+Accuracy: 41.2%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 8
 Strikes Defended: 0
 Strikes Landed: 7
@@ -10,7 +10,8 @@ Strikes Thrown: 17
 Striking Differential: -1
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Defense Rate: 33.33333333333333
+Takedown Accuracy: N/A
+Takedown Defense Rate: 33.3%
 Takedowns Attempted: 0
 Takedowns Defended: 1
 Takedowns Finished: 0

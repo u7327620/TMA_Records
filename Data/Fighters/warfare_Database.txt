@@ -1,9 +1,9 @@
 --- warfare stats ---
 [W-L-D]: 4-2-0
-Accuracy: 53.30578512396694
+Accuracy: 53.3%
 Knockdowns: 6
 Knocked Down: 0
-Strike Defense Rate: 31.313131313131315
+Strike Defense Rate: 31.3%
 Strikes Absorbed: 99
 Strikes Defended: 31
 Strikes Landed: 129
@@ -11,8 +11,8 @@ Strikes Thrown: 242
 Striking Differential: 30
 Submissions Attempted: 2
 Successful Submissions: 0
-Takedown Accuracy: 25.0
-Takedown Defense Rate: 42.857142857142854
+Takedown Accuracy: 25.0%
+Takedown Defense Rate: 42.9%
 Takedowns Attempted: 4
 Takedowns Defended: 3
 Takedowns Finished: 1

@@ -1,8 +1,8 @@
 --- unihunter stats ---
 [W-L-D]: 3-6-0
-Accuracy: 38.69565217391304
+Accuracy: 38.7%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 67
 Strikes Defended: 0
 Strikes Landed: 89
@@ -10,8 +10,8 @@ Strikes Thrown: 230
 Striking Differential: 22
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 25.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 25.0%
 Takedowns Attempted: 1
 Takedowns Defended: 2
 Takedowns Finished: 0

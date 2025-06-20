@@ -1,9 +1,9 @@
 --- cryink stats ---
 [W-L-D]: 4-3-0
-Accuracy: 49.30555555555556
+Accuracy: 49.3%
 Knockdowns: 1
 Knocked Down: 0
-Strike Defense Rate: 51.5625
+Strike Defense Rate: 51.6%
 Strikes Absorbed: 64
 Strikes Defended: 33
 Strikes Landed: 71
@@ -11,8 +11,8 @@ Strikes Thrown: 144
 Striking Differential: 8
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 50.0
-Takedown Defense Rate: 33.33333333333333
+Takedown Accuracy: 50.0%
+Takedown Defense Rate: 33.3%
 Takedowns Attempted: 4
 Takedowns Defended: 1
 Takedowns Finished: 2

@@ -1,9 +1,9 @@
 --- jelaun stats ---
 [W-L-D]: 6-5-0
-Accuracy: 45.76923076923077
+Accuracy: 45.8%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 4.310344827586207
+Strike Defense Rate: 4.3%
 Strikes Absorbed: 116
 Strikes Defended: 5
 Strikes Landed: 119
@@ -11,8 +11,8 @@ Strikes Thrown: 260
 Striking Differential: 3
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 6
 Takedowns Defended: 9
 Takedowns Finished: 2

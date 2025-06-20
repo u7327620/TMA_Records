@@ -1,9 +1,9 @@
 --- millekillen stats ---
 [W-L-D]: 1-0-0
-Accuracy: 45.45454545454545
+Accuracy: 45.5%
 Knockdowns: 0
 Knocked Down: 1
-Strike Defense Rate: 200.0
+Strike Defense Rate: 200.0%
 Strikes Absorbed: 11
 Strikes Defended: 22
 Strikes Landed: 15
@@ -11,7 +11,8 @@ Strikes Thrown: 33
 Striking Differential: 4
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: N/A
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 0
 Takedowns Defended: 1
 Takedowns Finished: 0

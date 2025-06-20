@@ -1,8 +1,8 @@
 --- fictastic stats ---
 [W-L-D]: 0-1-0
-Accuracy: 41.66666666666667
+Accuracy: 41.7%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 9
 Strikes Defended: 0
 Strikes Landed: 5
@@ -10,7 +10,8 @@ Strikes Thrown: 12
 Striking Differential: -4
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 100.0
+Takedown Accuracy: 100.0%
+Takedown Defense Rate: N/A
 Takedowns Attempted: 1
 Takedowns Defended: 0
 Takedowns Finished: 1

@@ -1,9 +1,9 @@
 --- lokkixd stats ---
 [W-L-D]: 3-9-1
-Accuracy: 32.37704918032787
+Accuracy: 32.4%
 Knockdowns: 1
 Knocked Down: 0
-Strike Defense Rate: 3.7037037037037033
+Strike Defense Rate: 3.7%
 Strikes Absorbed: 135
 Strikes Defended: 5
 Strikes Landed: 79
@@ -11,8 +11,8 @@ Strikes Thrown: 244
 Striking Differential: -56
 Submissions Attempted: 4
 Successful Submissions: 0
-Takedown Accuracy: 60.86956521739131
-Takedown Defense Rate: 64.28571428571429
+Takedown Accuracy: 60.9%
+Takedown Defense Rate: 64.3%
 Takedowns Attempted: 23
 Takedowns Defended: 9
 Takedowns Finished: 14

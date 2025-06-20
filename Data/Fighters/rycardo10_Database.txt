@@ -1,9 +1,9 @@
 --- rycardo10 stats ---
 [W-L-D]: 5-1-1
-Accuracy: 49.21135646687697
+Accuracy: 49.2%
 Knockdowns: 2
 Knocked Down: 1
-Strike Defense Rate: 69.89247311827957
+Strike Defense Rate: 69.9%
 Strikes Absorbed: 93
 Strikes Defended: 65
 Strikes Landed: 156
@@ -11,8 +11,8 @@ Strikes Thrown: 317
 Striking Differential: 63
 Submissions Attempted: 1
 Successful Submissions: 1
-Takedown Accuracy: 75.0
-Takedown Defense Rate: 90.0
+Takedown Accuracy: 75.0%
+Takedown Defense Rate: 90.0%
 Takedowns Attempted: 4
 Takedowns Defended: 9
 Takedowns Finished: 3

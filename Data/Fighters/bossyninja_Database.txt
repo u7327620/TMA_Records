@@ -1,9 +1,9 @@
 --- bossyninja stats ---
 [W-L-D]: 2-3-0
-Accuracy: 40.625
+Accuracy: 40.6%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 62.5
+Strike Defense Rate: 62.5%
 Strikes Absorbed: 48
 Strikes Defended: 30
 Strikes Landed: 39
@@ -11,8 +11,8 @@ Strikes Thrown: 96
 Striking Differential: -9
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 0.0
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 0.0%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 8
 Takedowns Defended: 3
 Takedowns Finished: 0

@@ -1,8 +1,8 @@
 --- dzage stats ---
 [W-L-D]: 4-2-0
-Accuracy: 39.0728476821192
+Accuracy: 39.1%
 Knockdowns: 0
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 64
 Strikes Defended: 0
 Strikes Landed: 59
@@ -10,8 +10,8 @@ Strikes Thrown: 151
 Striking Differential: -6
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 41.66666666666667
-Takedown Defense Rate: 66.66666666666666
+Takedown Accuracy: 41.7%
+Takedown Defense Rate: 66.7%
 Takedowns Attempted: 12
 Takedowns Defended: 6
 Takedowns Finished: 5

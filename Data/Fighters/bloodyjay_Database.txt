@@ -1,9 +1,9 @@
 --- bloodyjay stats ---
 [W-L-D]: 3-2-0
-Accuracy: 45.45454545454545
+Accuracy: 45.5%
 Knockdowns: 3
 Knocked Down: 1
-Strike Defense Rate: 104.44444444444446
+Strike Defense Rate: 104.4%
 Strikes Absorbed: 45
 Strikes Defended: 47
 Strikes Landed: 50
@@ -11,8 +11,8 @@ Strikes Thrown: 110
 Striking Differential: 4
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Accuracy: 10.0
-Takedown Defense Rate: 25.0
+Takedown Accuracy: 10.0%
+Takedown Defense Rate: 25.0%
 Takedowns Attempted: 10
 Takedowns Defended: 1
 Takedowns Finished: 1

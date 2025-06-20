@@ -1,9 +1,9 @@
 --- anx stats ---
 [W-L-D]: 4-3-0
-Accuracy: 43.82022471910113
+Accuracy: 43.8%
 Knockdowns: 2
 Knocked Down: 0
-Strike Defense Rate: 16.0
+Strike Defense Rate: 16.0%
 Strikes Absorbed: 75
 Strikes Defended: 12
 Strikes Landed: 78
@@ -11,8 +11,8 @@ Strikes Thrown: 178
 Striking Differential: 3
 Submissions Attempted: 1
 Successful Submissions: 0
-Takedown Accuracy: 37.5
-Takedown Defense Rate: 50.0
+Takedown Accuracy: 37.5%
+Takedown Defense Rate: 50.0%
 Takedowns Attempted: 8
 Takedowns Defended: 2
 Takedowns Finished: 3

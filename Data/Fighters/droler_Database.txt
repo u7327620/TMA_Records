@@ -1,9 +1,9 @@
 --- droler stats ---
 [W-L-D]: 1-0-0
-Accuracy: 46.42857142857143
+Accuracy: 46.4%
 Knockdowns: 0
 Knocked Down: 0
-Strike Defense Rate: 283.33333333333337
+Strike Defense Rate: 283.3%
 Strikes Absorbed: 6
 Strikes Defended: 17
 Strikes Landed: 13
@@ -11,7 +11,8 @@ Strikes Thrown: 28
 Striking Differential: 7
 Submissions Attempted: 0
 Successful Submissions: 0
-Takedown Defense Rate: 100.0
+Takedown Accuracy: N/A
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 0
 Takedowns Defended: 3
 Takedowns Finished: 0

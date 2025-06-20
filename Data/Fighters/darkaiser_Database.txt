@@ -1,8 +1,8 @@
 --- darkaiser stats ---
 [W-L-D]: 1-2-1
-Accuracy: 48.24561403508772
+Accuracy: 48.2%
 Knockdowns: 2
-Strike Defense Rate: 0.0
+Strike Defense Rate: 0.0%
 Strikes Absorbed: 44
 Strikes Defended: 0
 Strikes Landed: 55
@@ -10,8 +10,8 @@ Strikes Thrown: 114
 Striking Differential: 12
 Submissions Attempted: 2
 Successful Submissions: 0
-Takedown Accuracy: 33.33333333333333
-Takedown Defense Rate: 100.0
+Takedown Accuracy: 33.3%
+Takedown Defense Rate: 100.0%
 Takedowns Attempted: 3
 Takedowns Defended: 4
 Takedowns Finished: 1
