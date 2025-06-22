@@ -1,5 +1,5 @@
 --- ezremember stats ---
-[W-L-D]: 1-0-1
+[W-L-D]: 2-0-1
 Accuracy: 44.4%
 Knockdowns: 0
 Strike Defense Rate: 0.0%
@@ -19,4 +19,5 @@ Times Taken Down: 0
 
 --- ezremember match history ---
 **W** DECISION in TFC_11 (Ezremember_vs_Jelaun.json)
+**W** FORFEIT in TFC_13 (orber_vs_ezremember.json)
 **D** DRAW in TFC_14 (Jouka_vs_Ezremember.json)

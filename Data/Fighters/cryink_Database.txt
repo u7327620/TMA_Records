@@ -25,4 +25,4 @@ Times Taken Down: 2
 **L** FORFEIT in TFC_19 (Cryink_vs_Blacksabbath.json)
 **W** DECISION in TFC_20 (Vlonenixks_vs_Cryink.json)
 **W** DECISION in TFC_21 (Cryink_vs_Nasa.json)
-**L** FORFEIT in TFC_22 (BloodyjayvsCryink.json)
+**L** FORFEIT in TFC_22 (Bloodyjay_vs_Cryink.json)
