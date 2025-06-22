@@ -1,5 +1,5 @@
 --- logan500 stats ---
-[W-L-D]: 1-3-1
+[W-L-D]: 2-3-1
 Accuracy: 37.2%
 Dipshit Level: 100.0%
 Knockdowns: 1
@@ -19,6 +19,7 @@ Takedowns Finished: 1
 Times Taken Down: 2
 
 --- logan500 match history ---
+**W** FORFEIT in TFC_11 (logan500_vs_toriota9.json)
 **L** DECISION in TFC_12 (Bongdabang_vs_Logan500.json)
 **D** DRAW in TFC_14 (Lloyd54321_vs_Logan500.json)
 **W** DECISION in TFC_15 (Logan500_vs_Unity.json)
