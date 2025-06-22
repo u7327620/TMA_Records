@@ -61,7 +61,7 @@ def get_tfc_player_records(recent_tfc: list[str]=None, elo_events: list[str]=Non
     players, ratings = get_tfc_history(True, elo_events)
 
     # runs trueskill expose() to sort ratings
-    ratings = dict(sorted(ratings.items(), key=lambda x: x[1].mu - 3 * x[1].sigma, reverse=True))
+    ratings = dict(sorted(ratings.items(), key=lambda x: expose(x[1]), reverse=True))
     # dictionary as a mapping function of player_name to index in ratings (place on leaderboard)
     ratings_map = {key: z for z, key in enumerate(ratings)}
 
