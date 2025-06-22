@@ -1,5 +1,5 @@
 --- lokkixd stats ---
-[W-L-D]: 3-9-1
+[W-L-D]: 4-9-1
 Accuracy: 32.4%
 Knockdowns: 1
 Knocked Down: 0
@@ -19,6 +19,7 @@ Takedowns Finished: 14
 Times Taken Down: 5
 
 --- lokkixd match history ---
+**W** DECISION in TFC_1 (lokkixd_vs_kumondojo.json)
 **W** DECISION in TFC_1 (Lullll_vs_LokkiXD.json)
 **L** DECISION in TFC_1 (Yahummy_vs_LokkiXD.json)
 **L** DECISION in TFC_2 (LokkiXD_vs_Mushin.json)

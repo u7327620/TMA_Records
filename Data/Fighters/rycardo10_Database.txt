@@ -22,6 +22,7 @@ Times Taken Down: 1
 **W** DECISION in TFC_5 (rYCArdo10_vs_KumoNDojo.json)
 **W** DECISION in TFC_6 (rYCArdo10_vs_Lullll.json)
 **W** DECISION in TFC_7 (Hollow_vs_rYCArdo10.json)
+UNDOCUMENTED in TFC_10 (semari_vs_rycardo10.json)
 **W** DECISION in TFC_11 (rYCArdo10_vs_Lullll 2.json)
 **L** SUBMISSION in TFC_12 (rYCArdo10_vs_Bladerunnr.json)
 **W** DECISION in TFC_20 (logan500_vs_rycardo10.json)

@@ -1,5 +1,5 @@
 --- kumondojo stats ---
-[W-L-D]: 1-3-0
+[W-L-D]: 1-4-0
 Accuracy: 39.8%
 Knockdowns: 2
 Strike Defense Rate: 0.0%
@@ -19,6 +19,7 @@ Times Taken Down: 0
 
 --- kumondojo match history ---
 **W** DECISION in TFC_1 (Kumondojo_vs_T0astman.json)
+**L** DECISION in TFC_1 (lokkixd_vs_kumondojo.json)
 **L** DECISION in TFC_1 (Rouxster_vs_Kumondojo.json)
 **L** DECISION in TFC_5 (rYCArdo10_vs_KumoNDojo.json)
 **L** FORFEIT in TFC_6 (Kumondojo_vs_Exzplode.json)
