@@ -53,7 +53,7 @@ def get_tfc_history(elo=False, elo_events: list[str]=None) -> dict[str, Player] 
         return all_players, ratings
     return all_players
 
-def get_tfc_player_records(recent_tfc: list[str]=None, elo_events: list[str]=None):
+def get_tfc_player_records(recent_tfc: list[str]=None, elo_events: list[str]=None, streak=False):
     """
     recent_tfc: List of events to count streak and consider a player active if they've played in.
     elo_events: List of events to calculate elo ratings with, default=All
@@ -61,7 +61,7 @@ def get_tfc_player_records(recent_tfc: list[str]=None, elo_events: list[str]=Non
     players, ratings = get_tfc_history(True, elo_events)
 
     # runs trueskill expose() to sort ratings
-    ratings = dict(sorted(ratings.items(), key=lambda x: expose(x[1]), reverse=True))
+    ratings = dict(sorted(ratings.items(), key=lambda x: x[1].mu - 3 * x[1].sigma, reverse=True))
     # dictionary as a mapping function of player_name to index in ratings (place on leaderboard)
     ratings_map = {key: z for z, key in enumerate(ratings)}
 
@@ -90,6 +90,8 @@ def get_tfc_player_records(recent_tfc: list[str]=None, elo_events: list[str]=Non
             match = player.get_matches(tfc)
             if len(match) > 0:
                 active = True
+
+            if active and streak:
                 match = match[0] # No handling for multiple fights in one event
                 if match.winner:
                     if match.winner.lower() == player.player_name.lower():
@@ -100,13 +102,13 @@ def get_tfc_player_records(recent_tfc: list[str]=None, elo_events: list[str]=Non
                     streak.append("d")
                 else:
                     streak.append("?")
-            else:
+            elif streak and not active:
                 streak.append("x")
-        # Outputs message
+
         rated = False
         pname = player.player_name
         x = f"{pname}: <{wins}-{losses}-{draws}> "
-        if active:
+        if active and streak:
             x += f"[{"-".join(streak)}] "
         if pname in ratings.keys():
             rated = True
@@ -149,6 +151,6 @@ def get_all_matches() -> list[ToribashMatch]:
     return all_matches
 
 if __name__ == "__main__":
-    recent_tfcs = ["TFC_20", "TFC_21", "TFC_22"]
-    calculate_elo_using = ["TFC_22", "TFC_21", "TFC_20", "TFC_19", "TFC_18", "TFC_17", "TFC_16"]
+    recent_tfcs = ["TFC_22", "TFC_21", "TFC_20"]
+    calculate_elo_using = []#"TFC_22", "TFC_21", "TFC_20", "TFC_19", "TFC_18", "TFC_17", "TFC_16"]
     print("\n".join(get_tfc_player_records(recent_tfcs, calculate_elo_using)))
