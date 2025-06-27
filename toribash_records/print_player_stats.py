@@ -1,6 +1,6 @@
 from toribash_records.player import Player
 from toribash_records.util.path_finding import from_relative
-from toribash_records.util.get_all_records import get_tfc_history
+from toribash_records.get_all_records import get_tfc_history
 
 def update_fighters_txt(players: dict[str, Player]):
     fighter_directory = from_relative("../Data/Fighters")
