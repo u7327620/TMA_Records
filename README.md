@@ -1,10 +1,6 @@
 # TMA_Records
-The collection of event records maintained by the toribash org TMA 
+Records of all match statistics from TMA events
 
-1: `git clone <repo>` or click code then Download Zip then unzip
-
-2: Execute your desired scripts from the command line in the directory you downloaded the code to.
-
-To get a player stats, edit `player_name` under `if __name__ == "__main__"` of `TMA_Records/toribash_records/util/print_player_stats.py` to their name then execute: `python TMA_Records/toribash_records/util/print_player_stats.py`
+Statistics are contained within the Data folder and the system code is contained within the records folder.
 
 To get all TFC W-L-D: `python TMA_Records/toribash_records/util/get_all_records.py`
