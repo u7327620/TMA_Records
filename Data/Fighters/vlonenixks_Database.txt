@@ -19,6 +19,6 @@ Takedowns Finished: 0
 Times Taken Down: 1
 
 --- vlonenixks match history ---
-**W** DECISION in TFC_19 (Vlonenixks_vs_d1v1ne.json)
-**L** DECISION in TFC_20 (Vlonenixks_vs_Cryink.json)
-**W** DECISION in TFC_22 (vlonenixks_vs_batiscafff.json)
+**W** via DECISION over d1v1ne in TFC_19
+**L** via DECISION over cryink in TFC_20
+**W** via DECISION over batiscafff in TFC_22

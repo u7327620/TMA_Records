@@ -19,5 +19,5 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- xrtnx match history ---
-**W** FORFEIT in TFC_21 (Lostmail_vs_xRTNx.json)
-**L** DECISION in TFC_22 (Raiku_vs_xRTNx.json)
+**W** via FORFEIT over lostmail in TFC_21
+**L** via DECISION over raiku in TFC_22

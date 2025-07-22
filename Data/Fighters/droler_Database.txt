@@ -19,4 +19,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- droler match history ---
-**W** DECISION in TFC_22 (Bossyninja_vs_Droler.json)
+**W** via DECISION over bossyninja in TFC_22

@@ -17,4 +17,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- toriota9 match history ---
-**L** FORFEIT in TFC_11 (logan500_vs_toriota9.json)
+**L** via FORFEIT over logan500 in TFC_11

@@ -18,6 +18,6 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- ezremember match history ---
-**W** DECISION in TFC_11 (Ezremember_vs_Jelaun.json)
-**W** FORFEIT in TFC_13 (orber_vs_ezremember.json)
-**D** DRAW in TFC_14 (Jouka_vs_Ezremember.json)
+**W** via DECISION over jelaun in TFC_11
+**W** via FORFEIT over orber in TFC_13
+**D** via DRAW over jouka in TFC_14

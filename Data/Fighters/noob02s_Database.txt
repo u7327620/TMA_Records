@@ -19,8 +19,8 @@ Takedowns Finished: 2
 Times Taken Down: 7
 
 --- noob02s match history ---
-**L** DECISION in TFC_18 (noob02s_vs_2number9.json)
-**W** DECISION in TFC_19 (ninjabee_vs_noob02s.json)
-**L** DECISION in TFC_20 (d1v1ne_vs_noob02s.json)
-**W** DECISION in TFC_21 (spirits_vs_noob02s.json)
-**L** TKO in TFC_22 (JoemamaHAH_vs_noob02s.json)
+**L** via DECISION over 2number9 in TFC_18
+**W** via DECISION over ninjabee in TFC_19
+**L** via DECISION over d1v1ne in TFC_20
+**W** via DECISION over spirits in TFC_21
+**L** via TKO over joemamahah in TFC_22

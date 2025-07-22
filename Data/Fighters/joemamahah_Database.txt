@@ -19,5 +19,5 @@ Takedowns Finished: 3
 Times Taken Down: 0
 
 --- joemamahah match history ---
-**W** TKO in TFC_21 (joemamahah_vs_Dummybasher.json)
-**W** TKO in TFC_22 (JoemamaHAH_vs_noob02s.json)
+**W** via TKO over dummybasher in TFC_21
+**W** via TKO over noob02s in TFC_22

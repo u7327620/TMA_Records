@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- denisandop match history ---
-**L** DECISION in TFC_1 (Yahummy_vs_Denisandop.json)
+**L** via DECISION over yahummy in TFC_1

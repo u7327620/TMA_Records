@@ -19,4 +19,4 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- epicbash match history ---
-**D** DRAW in TFC_22 (Tonzin_vs_epicbash.json)
+**D** via DRAW over tonzin in TFC_22

@@ -20,6 +20,6 @@ Takedowns Finished: 1
 Times Taken Down: 1
 
 --- 0mino match history ---
-**W** DECISION in TFC_19 (Odyss_vs_0mino.json)
-**W** DECISION in TFC_20 (0mino_vs_Jolt.json)
-**L** FORFEIT in TFC_22 (anx_vs_0mino.json)
+**W** via DECISION over odyss in TFC_19
+**W** via DECISION over jolt in TFC_20
+**L** via FORFEIT over anx in TFC_22

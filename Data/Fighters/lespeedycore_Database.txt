@@ -19,6 +19,6 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- lespeedycore match history ---
-**L** DECISION in TFC_20 (Odyss_vs_Lespeedycore.json)
-**W** DECISION in TFC_21 (vonnn_vs_Lespeedycore.json)
-**W** FORFEIT in TFC_22 (Lespeedycore_vs_Jimu.json)
+**L** via DECISION over odyss in TFC_20
+**W** via DECISION over vonnn in TFC_21
+**W** via FORFEIT over jimu in TFC_22

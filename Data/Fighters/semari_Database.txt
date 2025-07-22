@@ -20,16 +20,16 @@ Takedowns Finished: 5
 Times Taken Down: 1
 
 --- semari match history ---
-**L** TKO in TFC_5 (HAWK152_vs_Semari.json)
-**L** DECISION in TFC_8 (jelaun_vs_Semari.json)
-**W** DECISION in TFC_9 (Semari_vs_Bongdabang.json)
-UNDOCUMENTED in TFC_10 (semari_vs_rycardo10.json)
-**W** DECISION in TFC_11 (Semari_vs_Jouka.json)
-**L** DECISION in TFC_12 (Semari_vs_Jelaun.json)
-**L** DECISION in TFC_14 (Semari_vs_Vani3.json)
-**W** FORFEIT in TFC_15 (Semari_vs_Glimpsed.json)
-**W** DECISION in TFC_16 (Semari_vs_Rouxster.json)
-**W** DECISION in TFC_18 (Semari_vs_Chev.json)
-**W** DECISION in TFC_19 (Sorude_vs_Semari.json)
-**W** DECISION in TFC_20 (Linxz_vs_Semari.json)
-**W** FORFEIT in TFC_22 (Semari_vs_Lullll.json)
+**L** via TKO over hawk152 in TFC_5
+**L** via DECISION over jelaun in TFC_8
+**W** via DECISION over bongdabang in TFC_9
+via UNDOCUMENTED over rycardo10 in TFC_10
+**W** via DECISION over jouka in TFC_11
+**L** via DECISION over jelaun in TFC_12
+**L** via DECISION over vani3 in TFC_14
+**W** via FORFEIT over glimpsed in TFC_15
+**W** via DECISION over rouxster in TFC_16
+**W** via DECISION over chev in TFC_18
+**W** via DECISION over sorude in TFC_19
+**W** via DECISION over linxz in TFC_20
+**W** via FORFEIT over lullll in TFC_22

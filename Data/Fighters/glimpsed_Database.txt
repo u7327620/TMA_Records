@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- glimpsed match history ---
-**L** FORFEIT in TFC_15 (Semari_vs_Glimpsed.json)
+**L** via FORFEIT over semari in TFC_15

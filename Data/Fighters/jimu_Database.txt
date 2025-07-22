@@ -19,5 +19,5 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- jimu match history ---
-**L** DECISION in TFC_20 (Jimu_vs_pianoo.json)
-**L** FORFEIT in TFC_22 (Lespeedycore_vs_Jimu.json)
+**L** via DECISION over pianoo in TFC_20
+**L** via FORFEIT over lespeedycore in TFC_22

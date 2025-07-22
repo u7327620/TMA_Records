@@ -19,14 +19,14 @@ Takedowns Finished: 1
 Times Taken Down: 6
 
 --- mainland match history ---
-**W** DECISION in TFC_4 (Mainland_vs_Clemencie.json)
-**L** DECISION in TFC_6 (Mainland_vs_Unihunter.json)
-**L** DECISION in TFC_10 (Unity_vs_Mainland.json)
-**W** DECISION in TFC_11 (Mainland_vs_Dyingderp.json)
-**L** DECISION in TFC_16 (Danewninja_vs_Mainland.json)
-**D** DRAW in TFC_17 (kapacbbbb_vs_mainland.json)
-**L** DECISION in TFC_18 (Kamara_vs_Mainland.json)
-**W** DECISION in TFC_19 (mainland_vs_fanczbr.json)
-**W** DECISION in TFC_20 (dzage_vs_mainland.json)
-**L** DECISION in TFC_21 (Eamon_vs_mainland.json)
-**L** DECISION in TFC_22 (slutmoptiq_vs_mainland.json)
+**W** via DECISION over clemencie in TFC_4
+**L** via DECISION over unihunter in TFC_6
+**L** via DECISION over unity in TFC_10
+**W** via DECISION over dyingderp in TFC_11
+**L** via DECISION over danewninja in TFC_16
+**D** via DRAW over kapacbbbb in TFC_17
+**L** via DECISION over kamara in TFC_18
+**W** via DECISION over fanczbr in TFC_19
+**W** via DECISION over dzage in TFC_20
+**L** via DECISION over eamon in TFC_21
+**L** via DECISION over slutmoptiq in TFC_22

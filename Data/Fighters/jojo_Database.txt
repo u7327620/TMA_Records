@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- jojo match history ---
-**L** DECISION in TFC_19 (jojo_vs_coco.json)
+**L** via DECISION over coco in TFC_19

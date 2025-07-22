@@ -19,9 +19,9 @@ Takedowns Finished: 0
 Times Taken Down: 4
 
 --- faidin match history ---
-**W** DECISION in TFC_17 (Faidin_vs_Dyingderp.json)
-**W** DECISION in TFC_18 (Danewninja_vs_Faidin.json)
-**L** DECISION in TFC_19 (Slutmoptiq_vs_Faidin.json)
-**W** DECISION in TFC_20 (supatroop_vs_faidin.json)
-**W** DECISION in TFC_21 (faidin_vs_anx.json)
-**L** SUBMISSION in TFC_22 (bladerunnr_vs_faidin.json)
+**W** via DECISION over dyingderp in TFC_17
+**W** via DECISION over danewninja in TFC_18
+**L** via DECISION over slutmoptiq in TFC_19
+**W** via DECISION over supatroop in TFC_20
+**W** via DECISION over anx in TFC_21
+**L** via SUBMISSION over bladerunnr in TFC_22

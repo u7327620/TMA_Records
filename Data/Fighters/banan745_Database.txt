@@ -18,5 +18,5 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- banan745 match history ---
-**L** DECISION in TFC_6 (icyl_vs_banan745.json)
-**L** DECISION in TFC_7 (Banan745_vs_Chev.json)
+**L** via DECISION over icyl in TFC_6
+**L** via DECISION over chev in TFC_7

@@ -19,11 +19,11 @@ Takedowns Finished: 3
 Times Taken Down: 1
 
 --- rycardo10 match history ---
-**W** DECISION in TFC_5 (rYCArdo10_vs_KumoNDojo.json)
-**W** DECISION in TFC_6 (rYCArdo10_vs_Lullll.json)
-**W** DECISION in TFC_7 (Hollow_vs_rYCArdo10.json)
-UNDOCUMENTED in TFC_10 (semari_vs_rycardo10.json)
-**W** DECISION in TFC_11 (rYCArdo10_vs_Lullll 2.json)
-**L** SUBMISSION in TFC_12 (rYCArdo10_vs_Bladerunnr.json)
-**W** DECISION in TFC_20 (logan500_vs_rycardo10.json)
-**D** DRAW in TFC_21 (rycardo10_vs_Sorude.json)
+**W** via DECISION over kumondojo in TFC_5
+**W** via DECISION over lullll in TFC_6
+**W** via DECISION over hollow in TFC_7
+via UNDOCUMENTED over semari in TFC_10
+**W** via DECISION over lullll in TFC_11
+**L** via SUBMISSION over bladerunnr in TFC_12
+**W** via DECISION over logan500 in TFC_20
+**D** via DRAW over sorude in TFC_21

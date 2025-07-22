@@ -19,10 +19,10 @@ Takedowns Finished: 1
 Times Taken Down: 3
 
 --- kamara match history ---
-**L** DECISION in TFC_13 (Kamara_vs_Lloyd54321.json)
-**W** DECISION in TFC_17 (Kamara_vs_Darkaiser.json)
-**W** DECISION in TFC_18 (Kamara_vs_Mainland.json)
-**W** DECISION in TFC_19 (Kamara_vs_Anx.json)
-**W** DECISION in TFC_20 (slutmoptiq_vs_Kamara.json)
-**W** DECISION in TFC_21 (bladerunnr_vs_kamara.json)
-**L** DECISION in TFC_22 (Kamara_vs_Chev.json)
+**L** via DECISION over lloyd54321 in TFC_13
+**W** via DECISION over darkaiser in TFC_17
+**W** via DECISION over mainland in TFC_18
+**W** via DECISION over anx in TFC_19
+**W** via DECISION over slutmoptiq in TFC_20
+**W** via DECISION over bladerunnr in TFC_21
+**L** via DECISION over chev in TFC_22

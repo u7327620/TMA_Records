@@ -20,8 +20,8 @@ Takedowns Finished: 4
 Times Taken Down: 2
 
 --- lostmail match history ---
-**L** DECISION in TFC_2 (Lostmail_vs_Dzage.json)
-**L** DECISION in TFC_6 (Lostmail_vs_LokkiXD.json)
-**W** DECISION in TFC_8 (Lostmail_vs_Bongdabang.json)
-**L** DECISION in TFC_9 (Lostmail_vs_Supatroop.json)
-**L** FORFEIT in TFC_21 (Lostmail_vs_xRTNx.json)
+**L** via DECISION over dzage in TFC_2
+**L** via DECISION over lokkixd in TFC_6
+**W** via DECISION over bongdabang in TFC_8
+**L** via DECISION over supatroop in TFC_9
+**L** via FORFEIT over xrtnx in TFC_21

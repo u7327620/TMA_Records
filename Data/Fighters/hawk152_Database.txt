@@ -19,8 +19,8 @@ Takedowns Finished: 3
 Times Taken Down: 1
 
 --- hawk152 match history ---
-**L** DECISION in TFC_3 (Lullll_vs_HAWK152.json)
-**W** DECISION in TFC_4 (HexHill_vs_HAWK152.json)
-**W** TKO in TFC_5 (HAWK152_vs_Semari.json)
-**W** DECISION in TFC_6 (HAWK152_vs_BongDaBang.json)
-**L** DECISION in TFC_7 (Mushin_vs_HAWK152.json)
+**L** via DECISION over lullll in TFC_3
+**W** via DECISION over hexhill in TFC_4
+**W** via TKO over semari in TFC_5
+**W** via DECISION over bongdabang in TFC_6
+**L** via DECISION over mushin in TFC_7

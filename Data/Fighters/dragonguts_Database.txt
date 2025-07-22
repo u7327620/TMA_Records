@@ -18,5 +18,5 @@ Takedowns Finished: 1
 Times Taken Down: 1
 
 --- dragonguts match history ---
-**L** DECISION in TFC_1 (Danewninja_vs_Dragonguts.json)
-**L** DECISION in TFC_6 (X2XP_vs_Dragonguts.json)
+**L** via DECISION over danewninja in TFC_1
+**L** via DECISION over x2xp in TFC_6

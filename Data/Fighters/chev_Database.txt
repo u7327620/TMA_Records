@@ -19,18 +19,18 @@ Takedowns Finished: 6
 Times Taken Down: 8
 
 --- chev match history ---
-**W** DECISION in TFC_7 (Banan745_vs_Chev.json)
-**W** DECISION in TFC_8 (Dogki12_vs_Chev.json)
-**W** DECISION in TFC_9 (Chev_vs_Unihunter.json)
-**L** DECISION in TFC_11 (yahummy_vs_Chev.json)
-**L** DECISION in TFC_12 (Mushin_vs_Chev.json)
-**W** DECISION in TFC_13 (Dogki12_vs_Chev.json)
-**W** DECISION in TFC_14 (Danewninja_vs_Chev.json)
-**W** DECISION in TFC_14 (Jelaun_vs_Chev.json)
-**L** DECISION in TFC_15 (Linxz_vs_Chev.json)
-**L** DECISION in TFC_16 (Bladerunnr_vs_Chev.json)
-**W** DECISION in TFC_17 (yahummy_vs_Chev.json)
-**L** DECISION in TFC_18 (Semari_vs_Chev.json)
-**W** FORFEIT in TFC_19 (Reclusivx_vs_Chev.json)
-**W** DECISION in TFC_20 (bladerunnr_vs_Chev 2.json)
-**W** DECISION in TFC_22 (Kamara_vs_Chev.json)
+**W** via DECISION over banan745 in TFC_7
+**W** via DECISION over dogki12 in TFC_8
+**W** via DECISION over unihunter in TFC_9
+**L** via DECISION over yahummy in TFC_11
+**L** via DECISION over mushin in TFC_12
+**W** via DECISION over dogki12 in TFC_13
+**W** via DECISION over jelaun in TFC_14
+**W** via DECISION over danewninja in TFC_14
+**L** via DECISION over linxz in TFC_15
+**L** via DECISION over bladerunnr in TFC_16
+**W** via DECISION over yahummy in TFC_17
+**L** via DECISION over semari in TFC_18
+**W** via FORFEIT over reclusivx in TFC_19
+**W** via DECISION over bladerunnr in TFC_20
+**W** via DECISION over kamara in TFC_22

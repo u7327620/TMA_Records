@@ -19,5 +19,5 @@ Takedowns Finished: 1
 Times Taken Down: 2
 
 --- spirits match history ---
-**L** DECISION in TFC_21 (spirits_vs_noob02s.json)
-**L** DECISION in TFC_22 (Odyss_vs_Spirits.json)
+**L** via DECISION over noob02s in TFC_21
+**L** via DECISION over odyss in TFC_22

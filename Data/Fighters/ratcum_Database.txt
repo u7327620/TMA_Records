@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 1
 
 --- ratcum match history ---
-**L** DECISION in TFC_1 (Rouxster_vs_Ratcum.json)
+**L** via DECISION over rouxster in TFC_1

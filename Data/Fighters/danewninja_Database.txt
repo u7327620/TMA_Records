@@ -20,30 +20,30 @@ Takedowns Finished: 7
 Times Taken Down: 9
 
 --- danewninja match history ---
-UNDOCUMENTED in TFC_1 (Bladerunnr_vs_Danewninja.json)
-**W** DECISION in TFC_1 (Danewninja_vs_Dragonguts.json)
-**L** DECISION in TFC_1 (Yahummy_vs_Danewninja.json)
-**W** DECISION in TFC_2 (Danewninja_vs_Lullll.json)
-**L** DECISION in TFC_3 (hamfisted_vs_danewninja.json)
-**W** DECISION in TFC_4 (DaNewNinja_vs_BongDaBang.json)
-**L** DECISION in TFC_5 (Danewninja_vs_Exzplode.json)
-**L** DECISION in TFC_6 (Danewninja_vs_iPrime.json)
-**L** DECISION in TFC_7 (Danewninja_vs_Unihunter.json)
-**L** DECISION in TFC_8 (Danewninja_vs_vani3.json)
-**W** DECISION in TFC_9 (Cryink_vs_Danewninja.json)
-**L** SUBMISSION in TFC_10 (Bladerunnr_vs_Danewninja.json)
-**L** DECISION in TFC_11 (Statfox_vs_Danewninja.json)
-**L** DECISION in TFC_12 (Danewninja_vs_Unity.json)
-**D** DRAW in TFC_13 (Reiki_vs_Danewninja.json)
-**L** DECISION in TFC_14 (Danewninja_vs_Chev.json)
-**L** DECISION in TFC_14 (Danewninja_vs_Dogki12.json)
-**W** DECISION in TFC_15 (Cboh_vs_Danewninja.json)
-**L** DECISION in TFC_16 (Danewninja_vs_Dyingderp.json)
-**W** DECISION in TFC_16 (Danewninja_vs_Mainland.json)
-**L** DECISION in TFC_17 (slutmoptiq_vs_Danewninja.json)
-**L** DECISION in TFC_17 (Sparturnha_vs_Danewninja.json)
-**L** DECISION in TFC_18 (Danewninja_vs_Faidin.json)
-**L** DECISION in TFC_19 (Fedoraman64_vs_Danewninja.json)
-**L** DECISION in TFC_20 (Warfare_vs_danewninja.json)
-**W** DECISION in TFC_21 (Logan500_vs_danewninja.json)
-**W** DECISION in TFC_21 (Odyss_vs_Danewninja.json)
+**W** via DECISION over dragonguts in TFC_1
+via UNDOCUMENTED over bladerunnr in TFC_1
+**L** via DECISION over yahummy in TFC_1
+**W** via DECISION over lullll in TFC_2
+**L** via DECISION over hamfisted in TFC_3
+**W** via DECISION over bongdabang in TFC_4
+**L** via DECISION over exzplode in TFC_5
+**L** via DECISION over iprime in TFC_6
+**L** via DECISION over unihunter in TFC_7
+**L** via DECISION over vani3 in TFC_8
+**W** via DECISION over cryink in TFC_9
+**L** via SUBMISSION over bladerunnr in TFC_10
+**L** via DECISION over statfox in TFC_11
+**L** via DECISION over unity in TFC_12
+**D** via DRAW over reiki in TFC_13
+**L** via DECISION over dogki12 in TFC_14
+**L** via DECISION over chev in TFC_14
+**W** via DECISION over cboh in TFC_15
+**W** via DECISION over mainland in TFC_16
+**L** via DECISION over dyingderp in TFC_16
+**L** via DECISION over slutmoptiq in TFC_17
+**L** via DECISION over sparturnha in TFC_17
+**L** via DECISION over faidin in TFC_18
+**L** via DECISION over fedoraman64 in TFC_19
+**L** via DECISION over warfare in TFC_20
+**W** via DECISION over odyss in TFC_21
+**W** via DECISION over logan500 in TFC_21

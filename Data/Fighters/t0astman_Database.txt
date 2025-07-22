@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- t0astman match history ---
-**L** DECISION in TFC_1 (Kumondojo_vs_T0astman.json)
+**L** via DECISION over kumondojo in TFC_1

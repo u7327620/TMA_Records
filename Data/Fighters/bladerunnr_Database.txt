@@ -24,25 +24,25 @@ Takedowns Finished: 16
 Times Taken Down: 7
 
 --- bladerunnr match history ---
-UNDOCUMENTED in TFC_1 (Bladerunnr_vs_Danewninja.json)
-**W** DECISION in TFC_1 (Bladerunnr_vs_iPrime.json)
-**L** DECISION in TFC_1 (Rouxster_vs_Bladerunnr.json)
-**L** DECISION in TFC_2 (Bladerunnr_vs_Hollow.json)
-**L** DECISION in TFC_3 (Bladerunnr_vs_Dogki12.json)
-**W** DECISION in TFC_4 (joko6_vs_bladerunnr.json)
-**W** DECISION in TFC_5 (dogki12_vs_bladerunnr 2.json)
-**L** TKO in TFC_6 (Rouxster_vs_Bladerunnr 2.json)
-**W** DECISION in TFC_7 (Dzage_vs_Bladerunnr.json)
-**L** DECISION in TFC_8 (Mushin_vs_Bladerunnr.json)
-**W** SUBMISSION in TFC_10 (Bladerunnr_vs_Danewninja.json)
-**W** DECISION in TFC_11 (Rouxster_vs_Bladerunnr 3.json)
-**W** SUBMISSION in TFC_12 (rYCArdo10_vs_Bladerunnr.json)
-**L** SUBMISSION in TFC_13 (yahummy_vs_Bladerunnr.json)
-**L** DECISION in TFC_15 (Jelaun_vs_Bladerunnr.json)
-**W** DECISION in TFC_16 (Bladerunnr_vs_Chev.json)
-**W** DECISION in TFC_17 (Bladerunnr_vs_Sorude.json)
-**L** DECISION in TFC_18 (bladerunnr_vs_Sorude 2.json)
-**W** DECISION in TFC_19 (bladerunnr_vs_darkaiser.json)
-**L** DECISION in TFC_20 (bladerunnr_vs_Chev 2.json)
-**L** DECISION in TFC_21 (bladerunnr_vs_kamara.json)
-**W** SUBMISSION in TFC_22 (bladerunnr_vs_faidin.json)
+**L** via DECISION over rouxster in TFC_1
+via UNDOCUMENTED over danewninja in TFC_1
+**W** via DECISION over iprime in TFC_1
+**L** via DECISION over hollow in TFC_2
+**L** via DECISION over dogki12 in TFC_3
+**W** via DECISION over joko6 in TFC_4
+**W** via DECISION over dogki12 in TFC_5
+**L** via TKO over rouxster in TFC_6
+**W** via DECISION over dzage in TFC_7
+**L** via DECISION over mushin in TFC_8
+**W** via SUBMISSION over danewninja in TFC_10
+**W** via DECISION over rouxster in TFC_11
+**W** via SUBMISSION over rycardo10 in TFC_12
+**L** via SUBMISSION over yahummy in TFC_13
+**L** via DECISION over jelaun in TFC_15
+**W** via DECISION over chev in TFC_16
+**W** via DECISION over sorude in TFC_17
+**L** via DECISION over sorude in TFC_18
+**W** via DECISION over darkaiser in TFC_19
+**L** via DECISION over chev in TFC_20
+**L** via DECISION over kamara in TFC_21
+**W** via SUBMISSION over faidin in TFC_22

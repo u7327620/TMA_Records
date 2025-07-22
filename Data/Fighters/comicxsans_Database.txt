@@ -20,10 +20,10 @@ Takedowns Finished: 4
 Times Taken Down: 10
 
 --- comicxsans match history ---
-**W** DECISION in TFC_7 (comicxsans_vs_bossyninja.json)
-**L** TKO in TFC_8 (comicxsans_vs_Fedoraman64.json)
-**L** DECISION in TFC_12 (Comicxsans_vs_Supatroop.json)
-**W** DECISION in TFC_13 (Comicxsans_vs_Robbix.json)
-**L** DECISION in TFC_16 (comicxsans_vs_WesMontag.json)
-**W** DECISION in TFC_18 (Bossyninja_vs_Comicxsans.json)
-**L** TKO in TFC_22 (nasa_vs_Comicxsans.json)
+**W** via DECISION over bossyninja in TFC_7
+**L** via TKO over fedoraman64 in TFC_8
+**L** via DECISION over supatroop in TFC_12
+**W** via DECISION over robbix in TFC_13
+**L** via DECISION over wesmontag in TFC_16
+**W** via DECISION over bossyninja in TFC_18
+**L** via TKO over nasa in TFC_22

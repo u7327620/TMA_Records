@@ -18,4 +18,4 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- fictastic match history ---
-**L** DECISION in TFC_7 (Fictastic_vs_Reiki.json)
+**L** via DECISION over reiki in TFC_7

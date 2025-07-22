@@ -18,5 +18,5 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- tigermaskt match history ---
-**D** DRAW in TFC_17 (bongbuster_vs_TigerMaskT.json)
-**W** DECISION in TFC_20 (TigermaskT_vs_Death29.json)
+**D** via DRAW over bongbuster in TFC_17
+**W** via DECISION over death29 in TFC_20

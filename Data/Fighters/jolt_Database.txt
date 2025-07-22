@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- jolt match history ---
-**L** DECISION in TFC_20 (0mino_vs_Jolt.json)
+**L** via DECISION over 0mino in TFC_20

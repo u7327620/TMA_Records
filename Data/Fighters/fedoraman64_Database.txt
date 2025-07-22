@@ -19,15 +19,15 @@ Takedowns Finished: 5
 Times Taken Down: 12
 
 --- fedoraman64 match history ---
-**W** TKO in TFC_8 (comicxsans_vs_Fedoraman64.json)
-**L** DECISION in TFC_9 (Linxz_vs_Fedoraman64.json)
-**L** DECISION in TFC_10 (Eamon_vs_Fedoraman64.json)
-**L** DECISION in TFC_14 (Fedoraman64_vs_Sparturnha.json)
-**L** DECISION in TFC_15 (Fedoraman64_vs_Reclusivx.json)
-**L** SUBMISSION in TFC_16 (Fedoraman64_vs_Sammyboi20.json)
-**W** DECISION in TFC_17 (Fedoraman64_vs_nasa.json)
-**W** DECISION in TFC_18 (Bongdabang_vs_Fedoraman64.json)
-**W** DECISION in TFC_19 (Fedoraman64_vs_Danewninja.json)
-**W** DECISION in TFC_20 (Fedoraman64_vs_Reclusivx.json)
-**L** DECISION in TFC_21 (Lullll_vs_Fedoraman64.json)
-**L** DECISION in TFC_22 (Sorude_vs_Fedoraman64.json)
+**W** via TKO over comicxsans in TFC_8
+**L** via DECISION over linxz in TFC_9
+**L** via DECISION over eamon in TFC_10
+**L** via DECISION over sparturnha in TFC_14
+**L** via DECISION over reclusivx in TFC_15
+**L** via SUBMISSION over sammyboi20 in TFC_16
+**W** via DECISION over nasa in TFC_17
+**W** via DECISION over bongdabang in TFC_18
+**W** via DECISION over danewninja in TFC_19
+**W** via DECISION over reclusivx in TFC_20
+**L** via DECISION over lullll in TFC_21
+**L** via DECISION over sorude in TFC_22

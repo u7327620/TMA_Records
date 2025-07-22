@@ -19,9 +19,9 @@ Takedowns Finished: 1
 Times Taken Down: 4
 
 --- warfare match history ---
-**L** DECISION in TFC_11 (Linxz_vs_Warfare.json)
-**L** DECISION in TFC_16 (Rouxster_vs_Warfare.json)
-**W** DECISION in TFC_19 (dyingderp_vs_Warfare.json)
-**W** DECISION in TFC_20 (Warfare_vs_danewninja.json)
-**W** DECISION in TFC_20 (Warfare_vs_kapacbbbb.json)
-**W** DECISION in TFC_21 (Warfare_vs_Reclusivx.json)
+**L** via DECISION over linxz in TFC_11
+**L** via DECISION over rouxster in TFC_16
+**W** via DECISION over dyingderp in TFC_19
+**W** via DECISION over kapacbbbb in TFC_20
+**W** via DECISION over danewninja in TFC_20
+**W** via DECISION over reclusivx in TFC_21

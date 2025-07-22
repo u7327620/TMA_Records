@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- bongbuster match history ---
-**D** DRAW in TFC_17 (bongbuster_vs_TigerMaskT.json)
+**D** via DRAW over tigermaskt in TFC_17

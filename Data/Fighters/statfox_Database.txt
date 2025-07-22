@@ -18,5 +18,5 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- statfox match history ---
-**W** DECISION in TFC_11 (Statfox_vs_Danewninja.json)
-**L** DECISION in TFC_16 (Darkaiser_vs_Statfox.json)
+**W** via DECISION over danewninja in TFC_11
+**L** via DECISION over darkaiser in TFC_16

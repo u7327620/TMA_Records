@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- akiu match history ---
-**W** DECISION in TFC_7 (Akiu_vs_Dyingderp.json)
+**W** via DECISION over dyingderp in TFC_7

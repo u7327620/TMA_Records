@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- joko6 match history ---
-**L** DECISION in TFC_4 (joko6_vs_bladerunnr.json)
+**L** via DECISION over bladerunnr in TFC_4

@@ -18,7 +18,7 @@ Takedowns Finished: 2
 Times Taken Down: 3
 
 --- x2xp match history ---
-**W** DECISION in TFC_6 (X2XP_vs_Dragonguts.json)
-**W** TKO in TFC_7 (X2XP_vs_Dogki12.json)
-**W** DECISION in TFC_8 (X2XP_vs_Rouxster.json)
-**W** DECISION in TFC_9 (X2XP_vs_Mushin.json)
+**W** via DECISION over dragonguts in TFC_6
+**W** via TKO over dogki12 in TFC_7
+**W** via DECISION over rouxster in TFC_8
+**W** via DECISION over mushin in TFC_9

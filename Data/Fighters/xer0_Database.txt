@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 1
 
 --- xer0 match history ---
-**L** DECISION in TFC_8 (Xer0_vs_Sushiroll.json)
+**L** via DECISION over sushiroll in TFC_8

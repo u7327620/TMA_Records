@@ -19,15 +19,15 @@ Takedowns Finished: 12
 Times Taken Down: 2
 
 --- sorude match history ---
-**W** FORFEIT in TFC_11 (Sorude_vs_Reclusivx.json)
-**D** DRAW in TFC_12 (Sorude_vs_Reiki.json)
-**W** DECISION in TFC_13 (Sorude_vs_Sammyboi20.json)
-**W** DECISION in TFC_14 (Sorude_vs_Unity.json)
-**W** SUBMISSION in TFC_15 (Sorude_vs_Bongdabang.json)
-**L** DECISION in TFC_16 (Lullll_vs_Sorude.json)
-**L** DECISION in TFC_17 (Bladerunnr_vs_Sorude.json)
-**W** DECISION in TFC_18 (bladerunnr_vs_Sorude 2.json)
-**L** DECISION in TFC_19 (Sorude_vs_Semari.json)
-**L** DECISION in TFC_20 (lullll_vs_Sorude 2.json)
-**D** DRAW in TFC_21 (rycardo10_vs_Sorude.json)
-**W** DECISION in TFC_22 (Sorude_vs_Fedoraman64.json)
+**W** via FORFEIT over reclusivx in TFC_11
+**D** via DRAW over reiki in TFC_12
+**W** via DECISION over sammyboi20 in TFC_13
+**W** via DECISION over unity in TFC_14
+**W** via SUBMISSION over bongdabang in TFC_15
+**L** via DECISION over lullll in TFC_16
+**L** via DECISION over bladerunnr in TFC_17
+**W** via DECISION over bladerunnr in TFC_18
+**L** via DECISION over semari in TFC_19
+**L** via DECISION over lullll in TFC_20
+**D** via DRAW over rycardo10 in TFC_21
+**W** via DECISION over fedoraman64 in TFC_22

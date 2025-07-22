@@ -19,6 +19,6 @@ Takedowns Finished: 5
 Times Taken Down: 1
 
 --- nasa match history ---
-**L** DECISION in TFC_17 (Fedoraman64_vs_nasa.json)
-**L** DECISION in TFC_21 (Cryink_vs_Nasa.json)
-**W** TKO in TFC_22 (nasa_vs_Comicxsans.json)
+**L** via DECISION over fedoraman64 in TFC_17
+**L** via DECISION over cryink in TFC_21
+**W** via TKO over comicxsans in TFC_22

@@ -19,9 +19,9 @@ Takedowns Finished: 1
 Times Taken Down: 2
 
 --- logan500 match history ---
-**W** FORFEIT in TFC_11 (logan500_vs_toriota9.json)
-**L** DECISION in TFC_12 (Bongdabang_vs_Logan500.json)
-**D** DRAW in TFC_14 (Lloyd54321_vs_Logan500.json)
-**W** DECISION in TFC_15 (Logan500_vs_Unity.json)
-**L** DECISION in TFC_20 (logan500_vs_rycardo10.json)
-**L** DECISION in TFC_21 (Logan500_vs_danewninja.json)
+**W** via FORFEIT over toriota9 in TFC_11
+**L** via DECISION over bongdabang in TFC_12
+**D** via DRAW over lloyd54321 in TFC_14
+**W** via DECISION over unity in TFC_15
+**L** via DECISION over rycardo10 in TFC_20
+**L** via DECISION over danewninja in TFC_21

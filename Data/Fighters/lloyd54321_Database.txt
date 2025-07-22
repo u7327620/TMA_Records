@@ -18,5 +18,5 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- lloyd54321 match history ---
-**W** DECISION in TFC_13 (Kamara_vs_Lloyd54321.json)
-**D** DRAW in TFC_14 (Lloyd54321_vs_Logan500.json)
+**W** via DECISION over kamara in TFC_13
+**D** via DRAW over logan500 in TFC_14

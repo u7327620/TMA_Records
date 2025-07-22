@@ -18,12 +18,12 @@ Takedowns Finished: 0
 Times Taken Down: 6
 
 --- unihunter match history ---
-**L** DECISION in TFC_1 (Brucce_vs_Unihunter.json)
-**L** DECISION in TFC_2 (BongDaBang_vs_Unihunter.json)
-**W** DECISION in TFC_4 (LokkiXD_vs_Unihunter.json)
-**L** DECISION in TFC_5 (unihunter_vs_iprime.json)
-**W** DECISION in TFC_6 (Mainland_vs_Unihunter.json)
-**W** DECISION in TFC_7 (Danewninja_vs_Unihunter.json)
-**L** DECISION in TFC_8 (Exzplode_vs_Unihunter.json)
-**L** DECISION in TFC_9 (Chev_vs_Unihunter.json)
-**L** DECISION in TFC_13 (dyingderp_vs_unihunter.json)
+**L** via DECISION over brucce in TFC_1
+**L** via DECISION over bongdabang in TFC_2
+**W** via DECISION over lokkixd in TFC_4
+**L** via DECISION over iprime in TFC_5
+**W** via DECISION over mainland in TFC_6
+**W** via DECISION over danewninja in TFC_7
+**L** via DECISION over exzplode in TFC_8
+**L** via DECISION over chev in TFC_9
+**L** via DECISION over dyingderp in TFC_13

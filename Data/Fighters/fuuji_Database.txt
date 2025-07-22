@@ -18,5 +18,5 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- fuuji match history ---
-**L** DECISION in TFC_6 (bossyninja_vs_Fuuji.json)
-**L** DECISION in TFC_7 (jelaun_vs_Fuuji.json)
+**L** via DECISION over bossyninja in TFC_6
+**L** via DECISION over jelaun in TFC_7

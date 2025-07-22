@@ -18,9 +18,9 @@ Takedowns Finished: 6
 Times Taken Down: 2
 
 --- kapacbbbb match history ---
-**L** DECISION in TFC_15 (Cryink_vs_Kapacbbbb.json)
-**D** DRAW in TFC_16 (Kapacbbbb_vs_Shine.json)
-**D** DRAW in TFC_17 (kapacbbbb_vs_mainland.json)
-**W** DECISION in TFC_18 (LokkiXD_vs_kapacbbbb 2.json)
-**L** DECISION in TFC_20 (Warfare_vs_kapacbbbb.json)
-**L** DECISION in TFC_21 (kapacbbbb_vs_Writer.json)
+**L** via DECISION over cryink in TFC_15
+**D** via DRAW over shine in TFC_16
+**D** via DRAW over mainland in TFC_17
+**W** via DECISION over lokkixd in TFC_18
+**L** via DECISION over warfare in TFC_20
+**L** via DECISION over writer in TFC_21

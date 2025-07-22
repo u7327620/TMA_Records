@@ -18,5 +18,5 @@ Takedowns Finished: 2
 Times Taken Down: 2
 
 --- cboh match history ---
-**L** DECISION in TFC_15 (Cboh_vs_Danewninja.json)
-**W** DECISION in TFC_18 (Cboh_vs_Dyingderp.json)
+**L** via DECISION over danewninja in TFC_15
+**W** via DECISION over dyingderp in TFC_18

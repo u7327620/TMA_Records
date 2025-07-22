@@ -18,7 +18,7 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- exzplode match history ---
-**W** DECISION in TFC_5 (Danewninja_vs_Exzplode.json)
-**W** FORFEIT in TFC_6 (Kumondojo_vs_Exzplode.json)
-**D** DRAW in TFC_7 (sushiroll_vs_Exzplode.json)
-**W** DECISION in TFC_8 (Exzplode_vs_Unihunter.json)
+**W** via DECISION over danewninja in TFC_5
+**W** via FORFEIT over kumondojo in TFC_6
+**D** via DRAW over sushiroll in TFC_7
+**W** via DECISION over unihunter in TFC_8

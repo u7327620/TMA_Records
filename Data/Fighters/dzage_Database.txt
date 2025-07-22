@@ -18,9 +18,9 @@ Takedowns Finished: 5
 Times Taken Down: 3
 
 --- dzage match history ---
-**W** DECISION in TFC_2 (Lostmail_vs_Dzage.json)
-**W** DECISION in TFC_3 (furkan3541_vs_dzage.json)
-**W** DECISION in TFC_5 (Dzage_vs_LokkiXD.json)
-**W** DECISION in TFC_6 (dogki12_vs_dzage.json)
-**L** DECISION in TFC_7 (Dzage_vs_Bladerunnr.json)
-**L** DECISION in TFC_20 (dzage_vs_mainland.json)
+**W** via DECISION over lostmail in TFC_2
+**W** via DECISION over furkan3541 in TFC_3
+**W** via DECISION over lokkixd in TFC_5
+**W** via DECISION over dogki12 in TFC_6
+**L** via DECISION over bladerunnr in TFC_7
+**L** via DECISION over mainland in TFC_20

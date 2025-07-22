@@ -19,7 +19,7 @@ Takedowns Finished: 2
 Times Taken Down: 1
 
 --- vonnn match history ---
-**L** FORFEIT in TFC_19 (Dummybasher_vs_vonnn.json)
-**L** DECISION in TFC_20 (vonnn_vs_Pharma.json)
-**L** DECISION in TFC_21 (vonnn_vs_Lespeedycore.json)
-**W** DECISION in TFC_22 (vonnn_vs_Sereinity.json)
+**L** via FORFEIT over dummybasher in TFC_19
+**L** via DECISION over pharma in TFC_20
+**L** via DECISION over lespeedycore in TFC_21
+**W** via DECISION over sereinity in TFC_22

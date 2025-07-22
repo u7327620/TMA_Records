@@ -19,9 +19,9 @@ Takedowns Finished: 3
 Times Taken Down: 1
 
 --- sammyboi20 match history ---
-**W** DECISION in TFC_7 (sammyboi20_vs_Clemencie.json)
-**D** DRAW in TFC_10 (yahummy_vs_Sammyboi20.json)
-**L** DECISION in TFC_11 (Sammyboi20_vs_Vani3.json)
-**L** DECISION in TFC_13 (Sorude_vs_Sammyboi20.json)
-**W** SUBMISSION in TFC_16 (Fedoraman64_vs_Sammyboi20.json)
-**L** DECISION in TFC_18 (reclusivx_vs_sammyboi20.json)
+**W** via DECISION over clemencie in TFC_7
+**D** via DRAW over yahummy in TFC_10
+**L** via DECISION over vani3 in TFC_11
+**L** via DECISION over sorude in TFC_13
+**W** via SUBMISSION over fedoraman64 in TFC_16
+**L** via DECISION over reclusivx in TFC_18

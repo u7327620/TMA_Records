@@ -19,17 +19,17 @@ Takedowns Finished: 14
 Times Taken Down: 5
 
 --- lokkixd match history ---
-**W** DECISION in TFC_1 (lokkixd_vs_kumondojo.json)
-**W** DECISION in TFC_1 (Lullll_vs_LokkiXD.json)
-**L** DECISION in TFC_1 (Yahummy_vs_LokkiXD.json)
-**L** DECISION in TFC_2 (LokkiXD_vs_Mushin.json)
-**L** DECISION in TFC_4 (LokkiXD_vs_Unihunter.json)
-**L** DECISION in TFC_5 (Dzage_vs_LokkiXD.json)
-**W** DECISION in TFC_6 (Lostmail_vs_LokkiXD.json)
-**W** DECISION in TFC_7 (LokkiXD_vs_BongDaBang.json)
-**L** DECISION in TFC_16 (LokkiXD_vs_Coco .json)
-**L** DECISION in TFC_17 (LokkiXD_vs_ricopaxton.json)
-**L** DECISION in TFC_18 (LokkiXD_vs_kapacbbbb 2.json)
-**D** DRAW in TFC_19 (2number9_vs_LokkiXD.json)
-**L** DECISION in TFC_20 (lokkiXD_vs_coco 2.json)
-**L** DECISION in TFC_21 (LokkiXD_vs_FanczBR.json)
+**W** via DECISION over lullll in TFC_1
+**W** via DECISION over kumondojo in TFC_1
+**L** via DECISION over yahummy in TFC_1
+**L** via DECISION over mushin in TFC_2
+**L** via DECISION over unihunter in TFC_4
+**L** via DECISION over dzage in TFC_5
+**W** via DECISION over lostmail in TFC_6
+**W** via DECISION over bongdabang in TFC_7
+**L** via DECISION over coco in TFC_16
+**L** via DECISION over ricopaxton in TFC_17
+**L** via DECISION over kapacbbbb in TFC_18
+**D** via DRAW over 2number9 in TFC_19
+**L** via DECISION over coco in TFC_20
+**L** via DECISION over fanczbr in TFC_21

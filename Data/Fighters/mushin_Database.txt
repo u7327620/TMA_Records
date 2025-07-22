@@ -19,13 +19,13 @@ Takedowns Finished: 3
 Times Taken Down: 3
 
 --- mushin match history ---
-**W** DECISION in TFC_2 (LokkiXD_vs_Mushin.json)
-**W** DECISION in TFC_3 (Mushin_vs_BongDaBang.json)
-**L** DECISION in TFC_4 (Hamfisted_vs_Mushin.json)
-**L** DECISION in TFC_5 (Mushin_vs_Lullll.json)
-**W** DECISION in TFC_7 (Mushin_vs_HAWK152.json)
-**W** DECISION in TFC_8 (Mushin_vs_Bladerunnr.json)
-**L** DECISION in TFC_9 (X2XP_vs_Mushin.json)
-**W** DECISION in TFC_12 (Mushin_vs_Chev.json)
-**W** DECISION in TFC_13 (Mushin_vs_Unity.json)
-**W** DECISION in TFC_17 (Mushin_vs_Bongdabang 2.json)
+**W** via DECISION over lokkixd in TFC_2
+**W** via DECISION over bongdabang in TFC_3
+**L** via DECISION over hamfisted in TFC_4
+**L** via DECISION over lullll in TFC_5
+**W** via DECISION over hawk152 in TFC_7
+**W** via DECISION over bladerunnr in TFC_8
+**L** via DECISION over x2xp in TFC_9
+**W** via DECISION over chev in TFC_12
+**W** via DECISION over unity in TFC_13
+**W** via DECISION over bongdabang in TFC_17

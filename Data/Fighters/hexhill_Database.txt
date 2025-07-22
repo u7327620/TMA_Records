@@ -19,7 +19,7 @@ Takedowns Finished: 0
 Times Taken Down: 2
 
 --- hexhill match history ---
-**L** DECISION in TFC_4 (HexHill_vs_HAWK152.json)
-**W** DECISION in TFC_5 (hexhill_vs_nikootso.json)
-**W** DECISION in TFC_6 (Laucha22_vs_HexHill.json)
-UNDOCUMENTED in TFC_13 (Sparturnha_vs_Hexhill.json)
+**L** via DECISION over hawk152 in TFC_4
+**W** via DECISION over nikootso in TFC_5
+**W** via DECISION over laucha22 in TFC_6
+via UNDOCUMENTED over sparturnha in TFC_13

@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- laucha22 match history ---
-**L** DECISION in TFC_6 (Laucha22_vs_HexHill.json)
+**L** via DECISION over hexhill in TFC_6

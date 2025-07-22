@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- nikootso match history ---
-**L** DECISION in TFC_5 (hexhill_vs_nikootso.json)
+**L** via DECISION over hexhill in TFC_5

@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- death29 match history ---
-**L** DECISION in TFC_20 (TigermaskT_vs_Death29.json)
+**L** via DECISION over tigermaskt in TFC_20

@@ -19,9 +19,9 @@ Takedowns Finished: 4
 Times Taken Down: 2
 
 --- slutmoptiq match history ---
-**W** DECISION in TFC_17 (slutmoptiq_vs_Danewninja.json)
-**D** DRAW in TFC_18 (Darkaiser_vs_Slutmoptiq.json)
-**W** DECISION in TFC_19 (Slutmoptiq_vs_Faidin.json)
-**L** DECISION in TFC_20 (slutmoptiq_vs_Kamara.json)
-**W** DECISION in TFC_21 (slutmoptiq_vs_2number9.json)
-**W** DECISION in TFC_22 (slutmoptiq_vs_mainland.json)
+**W** via DECISION over danewninja in TFC_17
+**D** via DRAW over darkaiser in TFC_18
+**W** via DECISION over faidin in TFC_19
+**L** via DECISION over kamara in TFC_20
+**W** via DECISION over 2number9 in TFC_21
+**W** via DECISION over mainland in TFC_22

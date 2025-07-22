@@ -19,4 +19,4 @@ Takedowns Finished: 0
 Times Taken Down: 1
 
 --- millekillen match history ---
-**W** DECISION in TFC_21 (Millekillen_vs_coco.json)
+**W** via DECISION over coco in TFC_21

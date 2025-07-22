@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 1
 
 --- antony9009 match history ---
-**L** DECISION in TFC_16 (Antony9009_vs_Thiago069.json)
+**L** via DECISION over thiago069 in TFC_16

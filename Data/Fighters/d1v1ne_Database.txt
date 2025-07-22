@@ -19,7 +19,7 @@ Takedowns Finished: 4
 Times Taken Down: 2
 
 --- d1v1ne match history ---
-**L** DECISION in TFC_19 (Vlonenixks_vs_d1v1ne.json)
-**W** DECISION in TFC_20 (d1v1ne_vs_noob02s.json)
-**L** DECISION in TFC_21 (D1v1ne_vs_Dyingderp.json)
-**W** DECISION in TFC_22 (D1v1ne_vs_Rey.json)
+**L** via DECISION over vlonenixks in TFC_19
+**W** via DECISION over noob02s in TFC_20
+**L** via DECISION over dyingderp in TFC_21
+**W** via DECISION over rey in TFC_22

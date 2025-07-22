@@ -18,6 +18,6 @@ Takedowns Finished: 0
 Times Taken Down: 1
 
 --- horrorz match history ---
-**L** DECISION in TFC_15 (Dyingderp_vs_Horrorz.json)
-**L** DECISION in TFC_16 (2number9_vs_Horrorz.json)
-**L** DECISION in TFC_20 (Horrorz_vs_Rey.json)
+**L** via DECISION over dyingderp in TFC_15
+**L** via DECISION over 2number9 in TFC_16
+**L** via DECISION over rey in TFC_20

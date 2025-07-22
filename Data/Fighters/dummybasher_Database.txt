@@ -19,7 +19,7 @@ Takedowns Finished: 0
 Times Taken Down: 2
 
 --- dummybasher match history ---
-**W** FORFEIT in TFC_19 (Dummybasher_vs_vonnn.json)
-**L** DECISION in TFC_20 (Dummybasher_vs_FanczBR.json)
-**L** TKO in TFC_21 (joemamahah_vs_Dummybasher.json)
-**L** DECISION in TFC_22 (Nazzern_vs_Dummybasher.json)
+**W** via FORFEIT over vonnn in TFC_19
+**L** via DECISION over fanczbr in TFC_20
+**L** via TKO over joemamahah in TFC_21
+**L** via DECISION over nazzern in TFC_22

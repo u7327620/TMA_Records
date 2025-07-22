@@ -17,4 +17,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- orber match history ---
-**L** FORFEIT in TFC_13 (orber_vs_ezremember.json)
+**L** via FORFEIT over ezremember in TFC_13

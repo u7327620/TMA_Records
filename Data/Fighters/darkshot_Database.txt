@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- darkshot match history ---
-**L** DECISION in TFC_6 (Unity_vs_Darkshot.json)
+**L** via DECISION over unity in TFC_6

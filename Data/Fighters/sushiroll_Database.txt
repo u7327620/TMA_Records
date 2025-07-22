@@ -18,5 +18,5 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- sushiroll match history ---
-**D** DRAW in TFC_7 (sushiroll_vs_Exzplode.json)
-**W** DECISION in TFC_8 (Xer0_vs_Sushiroll.json)
+**D** via DRAW over exzplode in TFC_7
+**W** via DECISION over xer0 in TFC_8

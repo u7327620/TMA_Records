@@ -18,5 +18,5 @@ Takedowns Finished: 0
 Times Taken Down: 2
 
 --- clemencie match history ---
-**L** DECISION in TFC_4 (Mainland_vs_Clemencie.json)
-**L** DECISION in TFC_7 (sammyboi20_vs_Clemencie.json)
+**L** via DECISION over mainland in TFC_4
+**L** via DECISION over sammyboi20 in TFC_7

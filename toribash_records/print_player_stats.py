@@ -34,8 +34,9 @@ def pretty_player_stats(player_name: str, players: dict[str, Player]) -> str:
             output += f"**D** "
 
         if match.result[-1] not in ["UNDOCUMENTED", "TKO", "DECISION", "DRAW", "SUBMISSION", "FORFEIT"]:
-            raise RuntimeError(f"Bullshit {match.result[-1]} in {match.file_path.split("\\")[-2]} ({match.file_path.split("\\")[-1]})\n")
-        output += f"{match.result[-1]} in {match.file_path.split("\\")[-2]} ({match.file_path.split("\\")[-1]})\n"
+            raise RuntimeError(f"Bullshit {match.result[-1]} in {match.file_path.split("/")[-2]} ({match.file_path.split("/")[-1]})\n")
+        other_player = match.player2_name if match.player1_name == player_name else match.player1_name
+        output += f"via {match.result[-1]} over {other_player} in {match.file_path.split("/")[-2]}\n"
     return output
 
 

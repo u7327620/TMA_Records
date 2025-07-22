@@ -19,7 +19,7 @@ Takedowns Finished: 3
 Times Taken Down: 4
 
 --- odyss match history ---
-**L** DECISION in TFC_19 (Odyss_vs_0mino.json)
-**W** DECISION in TFC_20 (Odyss_vs_Lespeedycore.json)
-**L** DECISION in TFC_21 (Odyss_vs_Danewninja.json)
-**W** DECISION in TFC_22 (Odyss_vs_Spirits.json)
+**L** via DECISION over 0mino in TFC_19
+**W** via DECISION over lespeedycore in TFC_20
+**L** via DECISION over danewninja in TFC_21
+**W** via DECISION over spirits in TFC_22

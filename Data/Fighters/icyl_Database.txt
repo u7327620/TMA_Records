@@ -18,5 +18,5 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- icyl match history ---
-**L** DECISION in TFC_3 (Hollow_vs_icyl.json)
-**W** DECISION in TFC_6 (icyl_vs_banan745.json)
+**L** via DECISION over hollow in TFC_3
+**W** via DECISION over banan745 in TFC_6

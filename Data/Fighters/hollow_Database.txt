@@ -19,7 +19,7 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- hollow match history ---
-**W** DECISION in TFC_2 (Bladerunnr_vs_Hollow.json)
-**W** DECISION in TFC_3 (Hollow_vs_icyl.json)
-**W** DECISION in TFC_4 (Hollow_vs_Rouxster.json)
-**L** DECISION in TFC_7 (Hollow_vs_rYCArdo10.json)
+**W** via DECISION over bladerunnr in TFC_2
+**W** via DECISION over icyl in TFC_3
+**W** via DECISION over rouxster in TFC_4
+**L** via DECISION over rycardo10 in TFC_7

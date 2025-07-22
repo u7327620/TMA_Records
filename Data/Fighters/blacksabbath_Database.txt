@@ -19,4 +19,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- blacksabbath match history ---
-**W** FORFEIT in TFC_19 (Cryink_vs_Blacksabbath.json)
+**W** via FORFEIT over cryink in TFC_19

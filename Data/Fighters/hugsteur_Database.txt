@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- hugsteur match history ---
-**L** DECISION in TFC_3 (iPrime_vs_hugsteur.json)
+**L** via DECISION over iprime in TFC_3

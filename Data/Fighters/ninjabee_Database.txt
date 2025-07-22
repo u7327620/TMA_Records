@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 0
 
 --- ninjabee match history ---
-**L** DECISION in TFC_19 (ninjabee_vs_noob02s.json)
+**L** via DECISION over noob02s in TFC_19

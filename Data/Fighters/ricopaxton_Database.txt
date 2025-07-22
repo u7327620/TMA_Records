@@ -18,7 +18,7 @@ Takedowns Finished: 3
 Times Taken Down: 4
 
 --- ricopaxton match history ---
-**W** DECISION in TFC_6 (kekc1995_vs_ricopaxton.json)
-**W** DECISION in TFC_10 (Dyingderp_vs_Ricopaxton.json)
-**L** DECISION in TFC_11 (Jelaun_vs_Ricopaxton.json)
-**W** DECISION in TFC_17 (LokkiXD_vs_ricopaxton.json)
+**W** via DECISION over kekc1995 in TFC_6
+**W** via DECISION over dyingderp in TFC_10
+**L** via DECISION over jelaun in TFC_11
+**W** via DECISION over lokkixd in TFC_17

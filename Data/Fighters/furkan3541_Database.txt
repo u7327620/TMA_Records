@@ -18,4 +18,4 @@ Takedowns Finished: 0
 Times Taken Down: 1
 
 --- furkan3541 match history ---
-**L** DECISION in TFC_3 (furkan3541_vs_dzage.json)
+**L** via DECISION over dzage in TFC_3

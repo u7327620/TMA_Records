@@ -19,8 +19,8 @@ Takedowns Finished: 0
 Times Taken Down: 3
 
 --- eamon match history ---
-**L** DECISION in TFC_8 (Eamon_vs_Linxz.json)
-**L** FORFEIT in TFC_9 (Eamon_vs_Dogki12.json)
-**W** DECISION in TFC_10 (Eamon_vs_Fedoraman64.json)
-**W** DECISION in TFC_21 (Eamon_vs_mainland.json)
-**L** DECISION in TFC_22 (reclusivx_vs_Eamon.json)
+**L** via DECISION over linxz in TFC_8
+**L** via FORFEIT over dogki12 in TFC_9
+**W** via DECISION over fedoraman64 in TFC_10
+**W** via DECISION over mainland in TFC_21
+**L** via DECISION over reclusivx in TFC_22

@@ -18,5 +18,5 @@ Takedowns Finished: 1
 Times Taken Down: 2
 
 --- renixxx match history ---
-**L** DECISION in TFC_6 (Reiki_vs_Renixxx.json)
-**L** DECISION in TFC_7 (Cryink_vs_Renixxx.json)
+**L** via DECISION over reiki in TFC_6
+**L** via DECISION over cryink in TFC_7

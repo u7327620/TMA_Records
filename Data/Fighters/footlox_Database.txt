@@ -18,5 +18,5 @@ Takedowns Finished: 1
 Times Taken Down: 1
 
 --- footlox match history ---
-**W** DECISION in TFC_1 (BongDaBang_vs_Footlox.json)
-**L** DECISION in TFC_10 (Footlox_vs_Dogki12.json)
+**W** via DECISION over bongdabang in TFC_1
+**L** via DECISION over dogki12 in TFC_10
