@@ -1,5 +1,5 @@
 import unittest
-from toribash_records.toribash_match import ToribashMatch
+from toribash_records.objects.toribash_match import ToribashMatch
 from importlib import resources
 from toribash_records.util.path_finding import from_relative
 

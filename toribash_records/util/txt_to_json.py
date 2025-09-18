@@ -5,6 +5,7 @@ import re
 from toribash_records.util.path_finding import from_relative
 from toribash_records.util.possible_results import MatchResult
 
+# Converts Lull's match txt files to JSON format
 def convert_match_to_json(p: str) ->  dict[str, dict]:
     with open(p, 'r') as f:
         raw_lines = f.readlines()

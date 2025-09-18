@@ -1,4 +1,4 @@
-from toribash_records.toribash_match import ToribashMatch
+from toribash_records.objects.toribash_match import ToribashMatch
 
 
 class Player:
@@ -28,7 +28,7 @@ class Player:
         else:
             return self.matches
 
-    def get_win_loss(self, event_name: str=None) -> (int, int, int):
+    def get_win_loss(self, event_name: str=None) -> tuple[int, int, int]:
         """Returns W/L/D optionally filtered by ToribashMatch.event_name"""
         if event_name:
             matches = [x for x in self.matches if x.event_name == event_name]
