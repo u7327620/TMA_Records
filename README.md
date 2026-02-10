@@ -21,6 +21,7 @@ If you're doing data analysis on stats like 'strikes landed', ONLY use TFC_1 to 
 
 
 # Installation
+Developed using python 3.14.2
 
 1. **Clone the repository**
     ```bash
