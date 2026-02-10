@@ -1,5 +1,5 @@
 --- yahummy stats ---
-[W-L-D]: 6-4-1
+[W-L-D]: 7-4-1
 Accuracy: 58.5%
 Knockdowns: 5
 Knocked Down: 0
@@ -30,3 +30,4 @@ Times Taken Down: 6
 **W** via SUBMISSION over bladerunnr in TFC_13
 **L** via DECISION over linxz in TFC_14
 **L** via DECISION over chev in TFC_17
+**W** via DECISION over marsh in TFC_23
