@@ -1,5 +1,5 @@
 --- coco stats ---
-[W-L-D]: 3-2-0
+[W-L-D]: 3-3-0
 Accuracy: 34.3%
 Knockdowns: 2
 Knocked Down: 2
@@ -24,3 +24,4 @@ Times Taken Down: 2
 **W** via DECISION over lokkixd in TFC_20
 **L** via DECISION over millekillen in TFC_21
 **L** via FORFEIT over bloodyjay in TFC_22
+**L** via DECISION over d1v1ne in TFC_23

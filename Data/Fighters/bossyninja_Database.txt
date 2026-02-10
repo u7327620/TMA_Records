@@ -1,5 +1,5 @@
 --- bossyninja stats ---
-[W-L-D]: 2-3-0
+[W-L-D]: 3-3-0
 Accuracy: 40.6%
 Knockdowns: 0
 Knocked Down: 0
@@ -24,3 +24,4 @@ Times Taken Down: 3
 **L** via DECISION over comicxsans in TFC_18
 **W** via DECISION over pharma in TFC_21
 **L** via DECISION over droler in TFC_22
+**W** via DECISION over danewninja in TFC_23

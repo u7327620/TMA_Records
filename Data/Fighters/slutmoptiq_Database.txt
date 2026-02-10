@@ -1,5 +1,5 @@
 --- slutmoptiq stats ---
-[W-L-D]: 4-1-1
+[W-L-D]: 5-1-1
 Accuracy: 44.1%
 Knockdowns: 3
 Knocked Down: 0
@@ -25,3 +25,4 @@ Times Taken Down: 2
 **L** via DECISION over kamara in TFC_20
 **W** via DECISION over 2number9 in TFC_21
 **W** via DECISION over mainland in TFC_22
+**W** via FORFEIT over bladerunnr in TFC_23

@@ -191,3 +191,5 @@ if __name__ == "__main__":
     recent_tfcs = ["TFC_23"]
     calculate_elo_using = []#"TFC_22", "TFC_21", "TFC_20", "TFC_19", "TFC_18", "TFC_17", "TFC_16"]
     print("\n".join(get_tfc_player_records(recent_tfcs, calculate_elo_using)))
+    players = get_tfc_history()
+    update_fighters_txt(players)

@@ -1,5 +1,5 @@
 --- pianoo stats ---
-[W-L-D]: 2-1-0
+[W-L-D]: 2-2-0
 Accuracy: 35.8%
 Knockdowns: 2
 Knocked Down: 0
@@ -22,3 +22,4 @@ Times Taken Down: 1
 **W** via DECISION over jimu in TFC_20
 **W** via DECISION over bongdabang in TFC_21
 **L** via DECISION over caezer in TFC_22
+**L** via DECISION over joemamahah in TFC_23

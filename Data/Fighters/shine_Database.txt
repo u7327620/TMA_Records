@@ -1,5 +1,5 @@
 --- shine stats ---
-[W-L-D]: 0-0-1
+[W-L-D]: 0-1-1
 Accuracy: 41.2%
 Knockdowns: 0
 Strike Defense Rate: 0.0%
@@ -19,3 +19,4 @@ Times Taken Down: 2
 
 --- shine match history ---
 **D** via DRAW over kapacbbbb in TFC_16
+**L** via DECISION over comicxsans in TFC_23

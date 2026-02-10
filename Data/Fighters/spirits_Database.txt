@@ -1,5 +1,5 @@
 --- spirits stats ---
-[W-L-D]: 0-2-0
+[W-L-D]: 1-2-0
 Accuracy: 34.1%
 Knockdowns: 0
 Knocked Down: 3
@@ -21,3 +21,4 @@ Times Taken Down: 2
 --- spirits match history ---
 **L** via DECISION over noob02s in TFC_21
 **L** via DECISION over odyss in TFC_22
+**W** via DECISION over mrcringe in TFC_23

@@ -1,5 +1,5 @@
 --- rey stats ---
-[W-L-D]: 1-2-0
+[W-L-D]: 2-2-0
 Accuracy: 44.7%
 Knockdowns: 1
 Knocked Down: 2
@@ -22,3 +22,4 @@ Times Taken Down: 1
 **W** via DECISION over horrorz in TFC_20
 **L** via DECISION over bloodyjay in TFC_21
 **L** via DECISION over d1v1ne in TFC_22
+**W** via DECISION over lokkixd in TFC_23

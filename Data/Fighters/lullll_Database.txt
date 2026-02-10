@@ -1,5 +1,5 @@
 --- lullll stats ---
-[W-L-D]: 7-9-1
+[W-L-D]: 8-10-1
 Accuracy: 50.9%
 Knockdowns: 3
 Knocked Down: 7
@@ -36,3 +36,5 @@ Times Taken Down: 18
 **W** via DECISION over sorude in TFC_20
 **W** via DECISION over fedoraman64 in TFC_21
 **L** via FORFEIT over semari in TFC_22
+**W** via DECISION over rycardo10 in TFC_23
+**L** via DECISION over kamara in TFC_23

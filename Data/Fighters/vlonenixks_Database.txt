@@ -1,5 +1,5 @@
 --- vlonenixks stats ---
-[W-L-D]: 2-1-0
+[W-L-D]: 2-2-0
 Accuracy: 38.3%
 Knockdowns: 5
 Knocked Down: 0
@@ -22,3 +22,4 @@ Times Taken Down: 1
 **W** via DECISION over d1v1ne in TFC_19
 **L** via DECISION over cryink in TFC_20
 **W** via DECISION over batiscafff in TFC_22
+**L** via DECISION over jay in TFC_23

@@ -1,5 +1,5 @@
 --- joemamahah stats ---
-[W-L-D]: 2-0-0
+[W-L-D]: 3-0-0
 Accuracy: 66.0%
 Knockdowns: 0
 Knocked Down: 0
@@ -21,3 +21,4 @@ Times Taken Down: 0
 --- joemamahah match history ---
 **W** via TKO over dummybasher in TFC_21
 **W** via TKO over noob02s in TFC_22
+**W** via DECISION over pianoo in TFC_23

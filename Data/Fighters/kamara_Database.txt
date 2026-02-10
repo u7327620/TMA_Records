@@ -1,5 +1,5 @@
 --- kamara stats ---
-[W-L-D]: 5-2-0
+[W-L-D]: 6-2-0
 Accuracy: 46.4%
 Knockdowns: 2
 Knocked Down: 0
@@ -26,3 +26,4 @@ Times Taken Down: 3
 **W** via DECISION over slutmoptiq in TFC_20
 **W** via DECISION over bladerunnr in TFC_21
 **L** via DECISION over chev in TFC_22
+**W** via DECISION over lullll in TFC_23

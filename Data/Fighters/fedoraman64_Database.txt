@@ -1,5 +1,5 @@
 --- fedoraman64 stats ---
-[W-L-D]: 5-7-0
+[W-L-D]: 5-8-0
 Accuracy: 42.3%
 Knockdowns: 4
 Knocked Down: 1
@@ -31,3 +31,4 @@ Times Taken Down: 12
 **W** via DECISION over reclusivx in TFC_20
 **L** via DECISION over lullll in TFC_21
 **L** via DECISION over sorude in TFC_22
+**L** via DECISION over faidin in TFC_23

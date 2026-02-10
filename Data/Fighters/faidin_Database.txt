@@ -1,5 +1,5 @@
 --- faidin stats ---
-[W-L-D]: 4-2-0
+[W-L-D]: 5-2-0
 Accuracy: 50.0%
 Knockdowns: 1
 Knocked Down: 1
@@ -25,3 +25,4 @@ Times Taken Down: 4
 **W** via DECISION over supatroop in TFC_20
 **W** via DECISION over anx in TFC_21
 **L** via SUBMISSION over bladerunnr in TFC_22
+**W** via DECISION over fedoraman64 in TFC_23

@@ -1,5 +1,5 @@
 --- mainland stats ---
-[W-L-D]: 4-6-1
+[W-L-D]: 4-7-1
 Accuracy: 45.6%
 Knockdowns: 3
 Knocked Down: 1
@@ -30,3 +30,4 @@ Times Taken Down: 6
 **W** via DECISION over dzage in TFC_20
 **L** via DECISION over eamon in TFC_21
 **L** via DECISION over slutmoptiq in TFC_22
+**L** via TKO over bloodyjay in TFC_23

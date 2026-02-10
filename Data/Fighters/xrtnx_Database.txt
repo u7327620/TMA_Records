@@ -1,5 +1,5 @@
 --- xrtnx stats ---
-[W-L-D]: 1-1-0
+[W-L-D]: 2-1-0
 Accuracy: 21.7%
 Knockdowns: 1
 Knocked Down: 0
@@ -21,3 +21,4 @@ Times Taken Down: 0
 --- xrtnx match history ---
 **W** via FORFEIT over lostmail in TFC_21
 **L** via DECISION over raiku in TFC_22
+**W** via DECISION over limot in TFC_23

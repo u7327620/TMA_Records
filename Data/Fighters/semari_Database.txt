@@ -1,5 +1,5 @@
 --- semari stats ---
-[W-L-D]: 8-4-0
+[W-L-D]: 9-4-0
 Accuracy: 49.6%
 Almighty Bonks: 1
 Knockdowns: 3
@@ -33,3 +33,4 @@ via UNDOCUMENTED over rycardo10 in TFC_10
 **W** via DECISION over sorude in TFC_19
 **W** via DECISION over linxz in TFC_20
 **W** via FORFEIT over lullll in TFC_22
+**W** via DECISION over chev in TFC_23

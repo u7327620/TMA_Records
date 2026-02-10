@@ -1,5 +1,5 @@
 --- supatroop stats ---
-[W-L-D]: 4-4-0
+[W-L-D]: 4-5-0
 Accuracy: 48.0%
 Knockdowns: 1
 Knocked Down: 1
@@ -27,3 +27,4 @@ Times Taken Down: 3
 **L** via DECISION over anx in TFC_18
 **L** via DECISION over faidin in TFC_20
 **L** via DECISION over fanczbr in TFC_22
+**L** via DECISION over caezer in TFC_23

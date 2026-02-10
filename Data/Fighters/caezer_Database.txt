@@ -1,5 +1,5 @@
 --- caezer stats ---
-[W-L-D]: 1-0-0
+[W-L-D]: 2-0-0
 Accuracy: 47.4%
 Knockdowns: 0
 Knocked Down: 0
@@ -20,3 +20,4 @@ Times Taken Down: 0
 
 --- caezer match history ---
 **W** via DECISION over pianoo in TFC_22
+**W** via DECISION over supatroop in TFC_23

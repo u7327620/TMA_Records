@@ -1,5 +1,5 @@
 --- anx stats ---
-[W-L-D]: 4-3-0
+[W-L-D]: 5-3-0
 Accuracy: 43.8%
 Knockdowns: 2
 Knocked Down: 0
@@ -26,3 +26,4 @@ Times Taken Down: 2
 **W** via DECISION over bongdabang in TFC_20
 **L** via DECISION over faidin in TFC_21
 **W** via FORFEIT over 0mino in TFC_22
+**W** via DECISION over reclusivx in TFC_23

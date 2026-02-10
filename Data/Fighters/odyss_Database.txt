@@ -1,5 +1,5 @@
 --- odyss stats ---
-[W-L-D]: 2-2-0
+[W-L-D]: 3-2-0
 Accuracy: 30.8%
 Knockdowns: 1
 Knocked Down: 1
@@ -23,3 +23,4 @@ Times Taken Down: 4
 **W** via DECISION over lespeedycore in TFC_20
 **L** via DECISION over danewninja in TFC_21
 **W** via DECISION over spirits in TFC_22
+**W** via DECISION over nazzern in TFC_23

@@ -1,5 +1,5 @@
 --- dyingderp stats ---
-[W-L-D]: 5-11-0
+[W-L-D]: 6-11-0
 Accuracy: 36.0%
 Eamon Smash: 1
 Knockdowns: 0
@@ -36,3 +36,4 @@ Times Taken Down: 9
 **L** via DECISION over 2number9 in TFC_20
 **W** via DECISION over d1v1ne in TFC_21
 **W** via DECISION over pharma in TFC_22
+**W** via DECISION over droler in TFC_23

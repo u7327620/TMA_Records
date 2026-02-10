@@ -18,8 +18,8 @@ Takedowns Finished: 1
 Times Taken Down: 0
 
 --- kumondojo match history ---
-**W** via DECISION over t0astman in TFC_1
 **L** via DECISION over lokkixd in TFC_1
+**W** via DECISION over t0astman in TFC_1
 **L** via DECISION over rouxster in TFC_1
 **L** via DECISION over rycardo10 in TFC_5
 **L** via FORFEIT over exzplode in TFC_6

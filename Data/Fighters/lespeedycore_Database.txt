@@ -1,5 +1,5 @@
 --- lespeedycore stats ---
-[W-L-D]: 2-1-0
+[W-L-D]: 2-2-0
 Accuracy: 45.8%
 Knockdowns: 1
 Knocked Down: 2
@@ -22,3 +22,4 @@ Times Taken Down: 0
 **L** via DECISION over odyss in TFC_20
 **W** via DECISION over vonnn in TFC_21
 **W** via FORFEIT over jimu in TFC_22
+**L** via DECISION over dexterpro in TFC_23

@@ -1,5 +1,5 @@
 --- droler stats ---
-[W-L-D]: 1-0-0
+[W-L-D]: 1-1-0
 Accuracy: 46.4%
 Knockdowns: 0
 Knocked Down: 0
@@ -20,3 +20,4 @@ Times Taken Down: 0
 
 --- droler match history ---
 **W** via DECISION over bossyninja in TFC_22
+**L** via DECISION over dyingderp in TFC_23

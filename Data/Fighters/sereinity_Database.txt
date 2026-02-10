@@ -1,5 +1,5 @@
 --- sereinity stats ---
-[W-L-D]: 0-1-0
+[W-L-D]: 0-2-0
 Accuracy: 41.2%
 Knockdowns: 1
 Knocked Down: 1
@@ -20,3 +20,4 @@ Times Taken Down: 0
 
 --- sereinity match history ---
 **L** via DECISION over vonnn in TFC_22
+**L** via DECISION over dummybasher in TFC_23

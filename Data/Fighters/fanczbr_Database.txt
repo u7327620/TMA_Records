@@ -1,5 +1,5 @@
 --- fanczbr stats ---
-[W-L-D]: 3-1-0
+[W-L-D]: 3-2-0
 Accuracy: 37.2%
 Knockdowns: 2
 Knocked Down: 0
@@ -23,3 +23,4 @@ Times Taken Down: 2
 **W** via DECISION over dummybasher in TFC_20
 **W** via DECISION over lokkixd in TFC_21
 **W** via DECISION over supatroop in TFC_22
+**L** via DECISION over raiku in TFC_23

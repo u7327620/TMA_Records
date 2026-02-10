@@ -1,5 +1,5 @@
 --- d1v1ne stats ---
-[W-L-D]: 2-2-0
+[W-L-D]: 3-2-0
 Accuracy: 37.7%
 Knockdowns: 2
 Knocked Down: 0
@@ -23,3 +23,4 @@ Times Taken Down: 2
 **W** via DECISION over noob02s in TFC_20
 **L** via DECISION over dyingderp in TFC_21
 **W** via DECISION over rey in TFC_22
+**W** via DECISION over coco in TFC_23

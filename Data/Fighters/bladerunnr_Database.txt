@@ -1,5 +1,5 @@
 --- bladerunnr stats ---
-[W-L-D]: 11-10-0
+[W-L-D]: 11-11-0
 Accuracy: 41.5%
 BLADEBAR: 1
 FLYING BLADEBAR: 1
@@ -24,9 +24,9 @@ Takedowns Finished: 16
 Times Taken Down: 7
 
 --- bladerunnr match history ---
-**L** via DECISION over rouxster in TFC_1
-via UNDOCUMENTED over danewninja in TFC_1
 **W** via DECISION over iprime in TFC_1
+via UNDOCUMENTED over danewninja in TFC_1
+**L** via DECISION over rouxster in TFC_1
 **L** via DECISION over hollow in TFC_2
 **L** via DECISION over dogki12 in TFC_3
 **W** via DECISION over joko6 in TFC_4
@@ -46,3 +46,4 @@ via UNDOCUMENTED over danewninja in TFC_1
 **L** via DECISION over chev in TFC_20
 **L** via DECISION over kamara in TFC_21
 **W** via SUBMISSION over faidin in TFC_22
+**L** via FORFEIT over slutmoptiq in TFC_23

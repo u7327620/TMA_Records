@@ -21,8 +21,8 @@ Times Taken Down: 6
 --- rouxster match history ---
 **W** via DECISION over yahummy in TFC_1
 **W** via DECISION over ratcum in TFC_1
-**W** via DECISION over bladerunnr in TFC_1
 **W** via DECISION over kumondojo in TFC_1
+**W** via DECISION over bladerunnr in TFC_1
 **L** via DECISION over hollow in TFC_4
 **W** via TKO over bladerunnr in TFC_6
 **L** via DECISION over x2xp in TFC_8

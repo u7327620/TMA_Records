@@ -1,5 +1,5 @@
 --- comicxsans stats ---
-[W-L-D]: 3-4-0
+[W-L-D]: 4-4-0
 Accuracy: 53.8%
 Knockdowns: 1
 Knocked Down: 1
@@ -27,3 +27,4 @@ Times Taken Down: 10
 **L** via DECISION over wesmontag in TFC_16
 **W** via DECISION over bossyninja in TFC_18
 **L** via TKO over nasa in TFC_22
+**W** via DECISION over shine in TFC_23

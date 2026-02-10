@@ -1,5 +1,5 @@
 --- reclusivx stats ---
-[W-L-D]: 5-5-0
+[W-L-D]: 5-6-0
 Accuracy: 47.7%
 Knockdowns: 1
 Knocked Down: 1
@@ -29,3 +29,4 @@ Times Taken Down: 4
 **L** via DECISION over fedoraman64 in TFC_20
 **L** via DECISION over warfare in TFC_21
 **W** via DECISION over eamon in TFC_22
+**L** via DECISION over anx in TFC_23

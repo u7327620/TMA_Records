@@ -1,0 +1,20 @@
+--- jay stats ---
+[W-L-D]: 1-0-0
+Accuracy: N/A
+Knockdowns: 0
+Strikes Absorbed: 0
+Strikes Defended: 0
+Strikes Landed: 0
+Strikes Thrown: 0
+Striking Differential: 0
+Submissions Attempted: 0
+Successful Submissions: 0
+Takedown Accuracy: N/A
+Takedown Defense Rate: N/A
+Takedowns Attempted: 0
+Takedowns Defended: 0
+Takedowns Finished: 0
+Times Taken Down: 0
+
+--- jay match history ---
+**W** via DECISION over vlonenixks in TFC_23

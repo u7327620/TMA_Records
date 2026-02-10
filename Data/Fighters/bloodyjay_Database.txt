@@ -1,5 +1,5 @@
 --- bloodyjay stats ---
-[W-L-D]: 3-2-0
+[W-L-D]: 4-2-0
 Accuracy: 45.5%
 Knockdowns: 3
 Knocked Down: 1
@@ -22,5 +22,6 @@ Times Taken Down: 3
 **L** via DECISION over reclusivx in TFC_16
 **L** via DECISION over raiku in TFC_20
 **W** via DECISION over rey in TFC_21
-**W** via FORFEIT over coco in TFC_22
 **W** via FORFEIT over cryink in TFC_22
+**W** via FORFEIT over coco in TFC_22
+**W** via TKO over mainland in TFC_23

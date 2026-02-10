@@ -1,5 +1,5 @@
 --- nazzern stats ---
-[W-L-D]: 1-0-0
+[W-L-D]: 1-1-0
 Accuracy: 56.7%
 Knockdowns: 0
 Knocked Down: 0
@@ -20,3 +20,4 @@ Times Taken Down: 0
 
 --- nazzern match history ---
 **W** via DECISION over dummybasher in TFC_22
+**L** via DECISION over odyss in TFC_23

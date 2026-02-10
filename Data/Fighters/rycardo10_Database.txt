@@ -1,5 +1,5 @@
 --- rycardo10 stats ---
-[W-L-D]: 5-1-1
+[W-L-D]: 5-2-1
 Accuracy: 49.2%
 Knockdowns: 2
 Knocked Down: 1
@@ -27,3 +27,4 @@ via UNDOCUMENTED over semari in TFC_10
 **L** via SUBMISSION over bladerunnr in TFC_12
 **W** via DECISION over logan500 in TFC_20
 **D** via DRAW over sorude in TFC_21
+**L** via DECISION over lullll in TFC_23

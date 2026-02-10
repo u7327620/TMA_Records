@@ -1,5 +1,5 @@
 --- chev stats ---
-[W-L-D]: 10-5-0
+[W-L-D]: 10-6-0
 Accuracy: 43.4%
 Knockdowns: 4
 Knocked Down: 0
@@ -34,3 +34,4 @@ Times Taken Down: 8
 **W** via FORFEIT over reclusivx in TFC_19
 **W** via DECISION over bladerunnr in TFC_20
 **W** via DECISION over kamara in TFC_22
+**L** via DECISION over semari in TFC_23

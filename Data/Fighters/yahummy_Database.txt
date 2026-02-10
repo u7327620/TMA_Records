@@ -25,8 +25,8 @@ Times Taken Down: 6
 **W** via DECISION over danewninja in TFC_1
 **D** via DRAW over sammyboi20 in TFC_10
 **W** via DECISION over chev in TFC_11
-**L** via DECISION over rouxster in TFC_12
 **W** via DECISION over lullll in TFC_12
+**L** via DECISION over rouxster in TFC_12
 **W** via SUBMISSION over bladerunnr in TFC_13
 **L** via DECISION over linxz in TFC_14
 **L** via DECISION over chev in TFC_17

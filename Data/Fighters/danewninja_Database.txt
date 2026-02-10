@@ -1,5 +1,5 @@
 --- danewninja stats ---
-[W-L-D]: 8-17-1
+[W-L-D]: 8-18-1
 Accuracy: 40.0%
 Knockdowns: 7
 Knocked Down: 0
@@ -21,8 +21,8 @@ Times Taken Down: 9
 
 --- danewninja match history ---
 **W** via DECISION over dragonguts in TFC_1
-via UNDOCUMENTED over bladerunnr in TFC_1
 **L** via DECISION over yahummy in TFC_1
+via UNDOCUMENTED over bladerunnr in TFC_1
 **W** via DECISION over lullll in TFC_2
 **L** via DECISION over hamfisted in TFC_3
 **W** via DECISION over bongdabang in TFC_4
@@ -35,11 +35,11 @@ via UNDOCUMENTED over bladerunnr in TFC_1
 **L** via DECISION over statfox in TFC_11
 **L** via DECISION over unity in TFC_12
 **D** via DRAW over reiki in TFC_13
-**L** via DECISION over dogki12 in TFC_14
 **L** via DECISION over chev in TFC_14
+**L** via DECISION over dogki12 in TFC_14
 **W** via DECISION over cboh in TFC_15
-**W** via DECISION over mainland in TFC_16
 **L** via DECISION over dyingderp in TFC_16
+**W** via DECISION over mainland in TFC_16
 **L** via DECISION over slutmoptiq in TFC_17
 **L** via DECISION over sparturnha in TFC_17
 **L** via DECISION over faidin in TFC_18
@@ -47,3 +47,4 @@ via UNDOCUMENTED over bladerunnr in TFC_1
 **L** via DECISION over warfare in TFC_20
 **W** via DECISION over odyss in TFC_21
 **W** via DECISION over logan500 in TFC_21
+**L** via DECISION over bossyninja in TFC_23
