@@ -164,8 +164,8 @@ def get_tfc_player_records(recent_tfc: list[str]=None, elo_events: list[str]=Non
 
     rated_active_lines = sorted(rated_active_lines, key=lambda x: ratings_map.get(x.split(":")[0]))
     rated_inactive_lines = sorted(rated_inactive_lines, key=lambda x: ratings_map.get(x.split(":")[0]))
-    output.append("# Active rankings (last 3 TFC)")
-    output.append(f"<Name>: <W>-<L>-<D> <{", ".join(recent_tfc)}> <elo>\n")
+    output.append(f"# Active rankings (last {len(recent_tfcs)} TFC)")
+    output.append(f"<Name>: <W>-<L>-<D> <elo>\n")  # <{", ".join(recent_tfc)}>
     output.append("\n".join(rated_active_lines))
     output.append("\n".join(active_lines))
     output.append("\n# Inactive rankings")
@@ -188,6 +188,6 @@ def get_all_matches() -> list[ToribashMatch]:
     return all_matches
 
 if __name__ == "__main__":
-    recent_tfcs = ["TFC_22", "TFC_21", "TFC_20"]
+    recent_tfcs = ["TFC_23"]
     calculate_elo_using = []#"TFC_22", "TFC_21", "TFC_20", "TFC_19", "TFC_18", "TFC_17", "TFC_16"]
     print("\n".join(get_tfc_player_records(recent_tfcs, calculate_elo_using)))
